@@ -1,0 +1,5502 @@
+{
+  "Manchester United": [
+    "曼联",
+    "曼彻斯特联"
+  ],
+  "Manchester City": [
+    "曼城",
+    "曼彻斯特城"
+  ],
+  "Liverpool": [
+    "利物浦"
+  ],
+  "Chelsea": [
+    "切尔西"
+  ],
+  "Arsenal": [
+    "阿森纳"
+  ],
+  "Tottenham Hotspur": [
+    "热刺",
+    "托特纳姆热刺"
+  ],
+  "Tottenham": [
+    "热刺"
+  ],
+  "Newcastle United": [
+    "纽卡斯尔联",
+    "纽卡"
+  ],
+  "Aston Villa": [
+    "阿斯顿维拉",
+    "维拉"
+  ],
+  "Brighton & Hove Albion": [
+    "布莱顿",
+    "布莱顿霍夫"
+  ],
+  "Brighton": [
+    "布莱顿"
+  ],
+  "West Ham United": [
+    "西汉姆联",
+    "西汉姆"
+  ],
+  "AFC Bournemouth": [
+    "伯恩茅斯"
+  ],
+  "Bournemouth": [
+    "伯恩茅斯"
+  ],
+  "Crystal Palace": [
+    "水晶宫"
+  ],
+  "Wolverhampton Wanderers": [
+    "狼队",
+    "伍尔弗汉普顿流浪者"
+  ],
+  "Wolves": [
+    "狼队"
+  ],
+  "Fulham": [
+    "富勒姆"
+  ],
+  "Everton": [
+    "埃弗顿"
+  ],
+  "Brentford": [
+    "布伦特福德"
+  ],
+  "Nottingham Forest": [
+    "诺丁汉森林",
+    "诺森森林"
+  ],
+  "Burnley": [
+    "伯恩利"
+  ],
+  "Sheffield United": [
+    "谢菲尔德联",
+    "谢菲联"
+  ],
+  "Luton Town": [
+    "卢顿"
+  ],
+  "Leicester City": [
+    "莱斯特城",
+    "莱斯特"
+  ],
+  "Leicester": [
+    "莱斯特城"
+  ],
+  "Leeds United": [
+    "利兹联",
+    "利兹"
+  ],
+  "Southampton": [
+    "南安普顿"
+  ],
+  "Norwich City": [
+    "诺维奇"
+  ],
+  "Watford": [
+    "沃特福德"
+  ],
+  "West Bromwich Albion": [
+    "西布朗",
+    "西布罗姆维奇"
+  ],
+  "Ipswich Town": [
+    "伊普斯维奇",
+    "伊普斯威奇"
+  ],
+  "Stoke City": [
+    "斯托克城"
+  ],
+  "Hull City": [
+    "赫尔城"
+  ],
+  "Sunderland": [
+    "桑德兰"
+  ],
+  "Swansea City": [
+    "斯旺西"
+  ],
+  "Cardiff City": [
+    "卡迪夫城"
+  ],
+  "Wigan Athletic": [
+    "维冈竞技"
+  ],
+  "Blackburn Rovers": [
+    "布莱克本"
+  ],
+  "Bolton Wanderers": [
+    "博尔顿"
+  ],
+  "Derby County": [
+    "德比郡"
+  ],
+  "Coventry City": [
+    "考文垂"
+  ],
+  "Middlesbrough": [
+    "米德尔斯堡",
+    "米堡"
+  ],
+  "Preston North End": [
+    "普雷斯顿",
+    "普雷斯顿北区"
+  ],
+  "Bristol City": [
+    "布里斯托尔城",
+    "布里斯托城"
+  ],
+  "Queens Park Rangers": [
+    "女王公园巡游者",
+    "QPR"
+  ],
+  "Birmingham City": [
+    "伯明翰",
+    "伯明翰城"
+  ],
+  "Reading": [
+    "雷丁"
+  ],
+  "Millwall": [
+    "米尔沃尔"
+  ],
+  "Sheffield Wednesday": [
+    "谢菲尔德周三"
+  ],
+  "Charlton Athletic": [
+    "查尔顿"
+  ],
+  "Plymouth Argyle": [
+    "普利茅斯",
+    "普利茅斯阿盖尔"
+  ],
+  "Portsmouth": [
+    "朴茨茅斯"
+  ],
+  "Barnsley": [
+    "巴恩斯利"
+  ],
+  "Burton Albion": [
+    "伯顿"
+  ],
+  "Peterborough United": [
+    "彼得堡联",
+    "彼得伯勒联"
+  ],
+  "Huddersfield Town": [
+    "哈德斯菲尔德",
+    "哈镇"
+  ],
+  "Blackpool": [
+    "布莱克浦"
+  ],
+  "Scunthorpe United": [
+    "斯肯索普"
+  ],
+  "Rotherham United": [
+    "罗瑟汉姆"
+  ],
+  "Bradford City": [
+    "布拉德福德"
+  ],
+  "Grimsby Town": [
+    "格林斯比"
+  ],
+  "Mansfield Town": [
+    "曼斯菲尔德"
+  ],
+  "Stevenage": [
+    "斯蒂夫尼奇"
+  ],
+  "Exeter City": [
+    "埃克塞特城"
+  ],
+  "Carlisle United": [
+    "卡莱尔联"
+  ],
+  "Tranmere Rovers": [
+    "特兰米尔"
+  ],
+  "Accrington Stanley": [
+    "阿克灵顿斯坦利"
+  ],
+  "Wrexham": [
+    "雷克瑟姆"
+  ],
+  "Stockport County": [
+    "斯托克港"
+  ],
+  "Lincoln City": [
+    "林肯城"
+  ],
+  "Salford City": [
+    "索尔福德城"
+  ],
+  "Sutton United": [
+    "萨顿联"
+  ],
+  "Hartlepool United": [
+    "哈特尔普尔联"
+  ],
+  "Yeovil Town": [
+    "约维尔"
+  ],
+  "AFC Wimbledon": [
+    "AFC温布尔登"
+  ],
+  "Wycombe Wanderers": [
+    "韦康比"
+  ],
+  "Cheltenham Town": [
+    "切尔滕纳姆"
+  ],
+  "Newport County": [
+    "纽波特郡"
+  ],
+  "Port Vale": [
+    "韦尔港"
+  ],
+  "Gillingham": [
+    "吉林厄姆"
+  ],
+  "Fleetwood Town": [
+    "弗利特伍德"
+  ],
+  "Oxford United": [
+    "牛津联"
+  ],
+  "Shrewsbury Town": [
+    "什鲁斯伯里"
+  ],
+  "Oldham Athletic": [
+    "奥尔德姆"
+  ],
+  "Northampton Town": [
+    "北安普顿"
+  ],
+  "Swindon Town": [
+    "斯温登"
+  ],
+  "Milton Keynes Dons": [
+    "米尔顿凯恩斯"
+  ],
+  "Bristol Rovers": [
+    "布里斯托尔流浪者"
+  ],
+  "Boreham Wood": [
+    "博勒姆伍德"
+  ],
+  "Dagenham & Redbridge": [
+    "达格纳姆"
+  ],
+  "Nuneaton Town": [
+    "纳尼顿"
+  ],
+  "Bromley": [
+    "布罗姆利"
+  ],
+  "Ebbsfleet United": [
+    "埃布斯弗利特联"
+  ],
+  "Barnet": [
+    "巴尼特"
+  ],
+  "Braintree Town": [
+    "布伦特里"
+  ],
+  "Blyth Spartans": [
+    "布莱斯斯巴达"
+  ],
+  "Hemel Hempstead Town": [
+    "赫默尔亨普斯特德"
+  ],
+  "Brackley Town": [
+    "布拉克利"
+  ],
+  "Colchester United": [
+    "科尔切斯特"
+  ],
+  "Crewe Alexandra": [
+    "克鲁"
+  ],
+  "Cambridge": [
+    "剑桥联"
+  ],
+  "Southport": [
+    "绍斯波特"
+  ],
+  "Darlington": [
+    "达灵顿"
+  ],
+  "Bath City": [
+    "巴斯城"
+  ],
+  "Oxford City": [
+    "牛津城"
+  ],
+  "Banbury United": [
+    "班伯里联"
+  ],
+  "Ilkeston": [
+    "伊尔克斯顿"
+  ],
+  "Alfreton Town": [
+    "奥尔弗里顿"
+  ],
+  "Hayes & Yeading United": [
+    "海耶斯"
+  ],
+  "Real Madrid": [
+    "皇家马德里",
+    "皇马"
+  ],
+  "Barcelona": [
+    "巴塞罗那",
+    "巴萨"
+  ],
+  "Atlético Madrid": [
+    "马德里竞技",
+    "马竞"
+  ],
+  "Sevilla": [
+    "塞维利亚",
+    "塞维利亚FC"
+  ],
+  "Valencia": [
+    "瓦伦西亚",
+    "蝙蝠军团"
+  ],
+  "Real Sociedad": [
+    "皇家社会",
+    "皇社"
+  ],
+  "Athletic Bilbao": [
+    "毕尔巴鄂竞技",
+    "毕巴"
+  ],
+  "Villarreal": [
+    "比利亚雷亚尔",
+    "黄色潜水艇"
+  ],
+  "Real Betis": [
+    "皇家贝蒂斯",
+    "贝蒂斯"
+  ],
+  "Betis": [
+    "贝蒂斯"
+  ],
+  "Celta Vigo": [
+    "维戈塞尔塔",
+    "塞尔塔"
+  ],
+  "Celta": [
+    "塞尔塔"
+  ],
+  "Getafe": [
+    "赫塔费",
+    "赫塔菲"
+  ],
+  "Osasuna": [
+    "奥萨苏纳"
+  ],
+  "Girona": [
+    "赫罗纳"
+  ],
+  "Rayo Vallecano": [
+    "巴列卡诺",
+    "瓦列卡诺闪电"
+  ],
+  "Mallorca": [
+    "马略卡"
+  ],
+  "Alavés": [
+    "阿拉维斯"
+  ],
+  "Granada": [
+    "格拉纳达"
+  ],
+  "Cádiz": [
+    "加的斯"
+  ],
+  "Elche": [
+    "埃尔切"
+  ],
+  "Espanyol": [
+    "西班牙人"
+  ],
+  "Eibar": [
+    "埃瓦尔"
+  ],
+  "Leganés": [
+    "莱加内斯"
+  ],
+  "Huesca": [
+    "韦斯卡"
+  ],
+  "Valladolid": [
+    "巴利亚多利德"
+  ],
+  "Las Palmas": [
+    "拉斯帕尔马斯",
+    "拉斯帕"
+  ],
+  "Numancia": [
+    "努曼西亚"
+  ],
+  "Tenerife": [
+    "特内里费"
+  ],
+  "Oviedo": [
+    "奥维耶多"
+  ],
+  "Sporting Gijón": [
+    "希洪竞技"
+  ],
+  "Almería": [
+    "阿尔梅里亚"
+  ],
+  "UD Almería": [
+    "阿尔梅里亚"
+  ],
+  "Albacete": [
+    "阿尔瓦塞特"
+  ],
+  "Racing Santander": [
+    "桑坦德竞技",
+    "桑坦德"
+  ],
+  "Deportivo La Coruña": [
+    "拉科鲁尼亚",
+    "拉科"
+  ],
+  "Recreativo Huelva": [
+    "韦尔瓦"
+  ],
+  "Recreativo de Huelva": [
+    "韦尔瓦"
+  ],
+  "Real Zaragoza": [
+    "皇家萨拉戈萨",
+    "萨拉戈萨"
+  ],
+  "Zaragoza": [
+    "萨拉戈萨"
+  ],
+  "Levante": [
+    "莱万特"
+  ],
+  "Xerez": [
+    "赫雷斯"
+  ],
+  "Hércules": [
+    "赫库莱斯"
+  ],
+  "Córdoba": [
+    "科尔多瓦"
+  ],
+  "Gimnàstic": [
+    "塔拉戈纳"
+  ],
+  "Real Murcia": [
+    "穆尔西亚"
+  ],
+  "Castellón": [
+    "卡斯特利翁"
+  ],
+  "Cartagena": [
+    "卡塔赫纳"
+  ],
+  "Burgos": [
+    "布尔戈斯"
+  ],
+  "Fuenlabrada": [
+    "富恩拉夫拉达"
+  ],
+  "Mirandés": [
+    "米兰德斯"
+  ],
+  "Amorebieta": [
+    "阿莫雷维耶塔"
+  ],
+  "Ibiza": [
+    "伊维萨"
+  ],
+  "Lugo": [
+    "卢戈"
+  ],
+  "Málaga": [
+    "马拉加"
+  ],
+  "Melilla": [
+    "梅利利亚"
+  ],
+  "Ceuta": [
+    "休达"
+  ],
+  "Cultural Leonesa": [
+    "莱昂文体"
+  ],
+  "Leonesa": [
+    "莱昂文体"
+  ],
+  "Real Madrid Castilla": [
+    "皇家马德里卡斯蒂亚"
+  ],
+  "Barcelona Atlètic": [
+    "巴塞罗那竞技"
+  ],
+  "Barcelona B": [
+    "巴塞罗那B队"
+  ],
+  "Sevilla Atlético": [
+    "塞维利亚竞技"
+  ],
+  "Cádiz B": [
+    "加的斯B队"
+  ],
+  "Alavés B": [
+    "阿拉维斯B队"
+  ],
+  "Villarreal B": [
+    "比利亚雷亚尔B队"
+  ],
+  "Leganés B": [
+    "莱加内斯B队"
+  ],
+  "Osasuna B": [
+    "奥萨苏纳B队"
+  ],
+  "Granada B": [
+    "格拉纳达B队"
+  ],
+  "Betis B": [
+    "贝蒂斯B队"
+  ],
+  "Celta B": [
+    "塞尔塔B队"
+  ],
+  "Levante B": [
+    "莱万特B队"
+  ],
+  "Espanyol B": [
+    "西班牙人B队"
+  ],
+  "Valladolid B": [
+    "巴利亚多利德B队"
+  ],
+  "Real Sociedad B": [
+    "皇家社会B队"
+  ],
+  "Atlético Madrid B": [
+    "马德里竞技B队"
+  ],
+  "Atlético Madrid C": [
+    "马德里竞技C队"
+  ],
+  "Real Madrid C": [
+    "皇家马德里C队"
+  ],
+  "Real Sociedad C": [
+    "皇家社会C队"
+  ],
+  "Villarreal C": [
+    "比利亚雷亚尔C队"
+  ],
+  "Valencia Mestalla": [
+    "瓦伦西亚梅斯塔利亚"
+  ],
+  "Valencia B": [
+    "瓦伦西亚B队"
+  ],
+  "Alcorcón": [
+    "阿尔科孔"
+  ],
+  "Badajoz": [
+    "巴达霍斯"
+  ],
+  "Cornellà": [
+    "科尔内亚"
+  ],
+  "Lleida Esportiu": [
+    "列伊达体育"
+  ],
+  "Sabadell": [
+    "萨瓦德尔"
+  ],
+  "Peralada": [
+    "佩拉达"
+  ],
+  "Ontinyent": [
+    "翁蒂年特"
+  ],
+  "Hércules B": [
+    "赫库莱斯B队"
+  ],
+  "Deportivo B": [
+    "拉科鲁尼亚B队"
+  ],
+  "Almería B": [
+    "阿尔梅里亚B队"
+  ],
+  "Alcorcón B": [
+    "阿尔科孔B队"
+  ],
+  "Sevilla B": [
+    "塞维利亚B队"
+  ],
+  "Calahorra B": [
+    "卡拉奥拉B队"
+  ],
+  "Peralada-Girona B": [
+    "佩拉达-赫罗纳B队"
+  ],
+  "Rayo Majadahonda": [
+    "马哈达翁达闪电"
+  ],
+  "Intercity": [
+    "城际"
+  ],
+  "Aurrerá Vitoria": [
+    "维多利亚"
+  ],
+  "Sant Gabriel": [
+    "圣加布里埃尔"
+  ],
+  "Sallent": [
+    "萨连特"
+  ],
+  "Pamplona": [
+    "潘普洛纳"
+  ],
+  "Manresa": [
+    "曼雷萨"
+  ],
+  "Las Rozas": [
+    "拉斯罗萨斯"
+  ],
+  "Condal": [
+    "孔达尔"
+  ],
+  "Basconia": [
+    "巴斯科尼亚"
+  ],
+  "Bilbao Athletic": [
+    "毕尔巴鄂竞技B队"
+  ],
+  "Atlético Malagueño": [
+    "马拉加竞技"
+  ],
+  "Atlético Levante": [
+    "莱万特竞技"
+  ],
+  "Bayern Munich": [
+    "拜仁慕尼黑",
+    "拜仁"
+  ],
+  "Borussia Dortmund": [
+    "多特蒙德",
+    "大黄蜂"
+  ],
+  "Dortmund": [
+    "多特蒙德"
+  ],
+  "RB Leipzig": [
+    "莱比锡红牛",
+    "莱比锡"
+  ],
+  "Bayer Leverkusen": [
+    "勒沃库森",
+    "药厂"
+  ],
+  "Eintracht Frankfurt": [
+    "法兰克福",
+    "雄鹰"
+  ],
+  "VfL Wolfsburg": [
+    "沃尔夫斯堡",
+    "狼堡"
+  ],
+  "Wolfsburg": [
+    "沃尔夫斯堡"
+  ],
+  "Borussia Mönchengladbach": [
+    "门兴格拉德巴赫",
+    "门兴"
+  ],
+  "SC Freiburg": [
+    "弗赖堡"
+  ],
+  "Freiburg": [
+    "弗赖堡"
+  ],
+  "TSG 1899 Hoffenheim": [
+    "霍芬海姆",
+    "霍村"
+  ],
+  "TSG Hoffenheim": [
+    "霍芬海姆"
+  ],
+  "Hoffenheim": [
+    "霍芬海姆"
+  ],
+  "1899 Hoffenheim": [
+    "霍芬海姆"
+  ],
+  "VfB Stuttgart": [
+    "斯图加特",
+    "斯图"
+  ],
+  "Stuttgart": [
+    "斯图加特"
+  ],
+  "FC Augsburg": [
+    "奥格斯堡"
+  ],
+  "Augsburg": [
+    "奥格斯堡"
+  ],
+  "Hertha BSC": [
+    "柏林赫塔",
+    "赫塔"
+  ],
+  "Hertha": [
+    "柏林赫塔"
+  ],
+  "1. FC Köln": [
+    "科隆"
+  ],
+  "Werder Bremen": [
+    "云达不莱梅",
+    "不莱梅"
+  ],
+  "Schalke 04": [
+    "沙尔克04",
+    "矿工"
+  ],
+  "Schalke": [
+    "沙尔克04"
+  ],
+  "Mainz": [
+    "美因茨"
+  ],
+  "Union Berlin": [
+    "柏林联合"
+  ],
+  "Arminia Bielefeld": [
+    "比勒费尔德"
+  ],
+  "VfL Bochum": [
+    "波鸿"
+  ],
+  "Bochum": [
+    "波鸿"
+  ],
+  "Greuther Fürth": [
+    "格罗伊特菲尔特"
+  ],
+  "1. FC Heidenheim": [
+    "海登海姆"
+  ],
+  "Darmstadt": [
+    "达姆施塔特"
+  ],
+  "1. FC Kaiserslautern": [
+    "凯泽斯劳滕"
+  ],
+  "Kaiserslautern": [
+    "凯泽斯劳滕"
+  ],
+  "1. FC Nürnberg": [
+    "纽伦堡"
+  ],
+  "Nürnberg": [
+    "纽伦堡"
+  ],
+  "Hamburger SV": [
+    "汉堡",
+    "HSV"
+  ],
+  "Hamburg": [
+    "汉堡"
+  ],
+  "Hannover": [
+    "汉诺威96"
+  ],
+  "Fortuna Düsseldorf": [
+    "杜塞尔多夫",
+    "杜塞"
+  ],
+  "Holstein Kiel": [
+    "荷尔斯泰因基尔"
+  ],
+  "FC St. Pauli": [
+    "圣保利"
+  ],
+  "St. Pauli": [
+    "圣保利"
+  ],
+  "Eintracht Braunschweig": [
+    "不伦瑞克"
+  ],
+  "Dynamo Dresden": [
+    "德累斯顿迪纳摩"
+  ],
+  "Hansa Rostock": [
+    "汉莎罗斯托克"
+  ],
+  "MSV Duisburg": [
+    "杜伊斯堡"
+  ],
+  "SV Sandhausen": [
+    "桑德豪森"
+  ],
+  "Karlsruher SC": [
+    "卡尔斯鲁厄"
+  ],
+  "SC Paderborn": [
+    "帕德博恩"
+  ],
+  "Jahn Regensburg": [
+    "雷根斯堡"
+  ],
+  "VfR Aalen": [
+    "阿伦"
+  ],
+  "FC Ingolstadt": [
+    "因戈尔施塔特"
+  ],
+  "Wehen Wiesbaden": [
+    "韦恩威斯巴登"
+  ],
+  "SV Elversberg": [
+    "埃尔弗斯贝格"
+  ],
+  "VfB Lübeck": [
+    "吕贝克"
+  ],
+  "Waldhof Mannheim": [
+    "曼海姆"
+  ],
+  "Rot-Weiss Essen": [
+    "红白埃森"
+  ],
+  "Energie Cottbus": [
+    "科特布斯"
+  ],
+  "Preußen Münster": [
+    "普鲁士明斯特"
+  ],
+  "Viktoria Köln": [
+    "科隆胜利"
+  ],
+  "1860 Munich": [
+    "慕尼黑1860"
+  ],
+  "Alemannia Aachen": [
+    "亚琛"
+  ],
+  "Stuttgarter Kickers": [
+    "斯图加特踢球者"
+  ],
+  "SG Wattenscheid": [
+    "瓦滕沙伊德"
+  ],
+  "FSV Frankfurt": [
+    "法兰克福FSV"
+  ],
+  "SpVgg Erkenschwick": [
+    "埃尔肯施维克"
+  ],
+  "Hertha Zehlendorf": [
+    "柏林赫塔策伦多夫"
+  ],
+  "Eintracht Norderstedt": [
+    "诺德施泰特"
+  ],
+  "Arminia Hannover": [
+    "汉诺威阿米尼亚"
+  ],
+  "Rot-Weiß Erfurt": [
+    "红白埃尔福特"
+  ],
+  "1. SC Feucht": [
+    "福伊希特"
+  ],
+  "SC Concordia": [
+    "协和"
+  ],
+  "TSV Havelse": [
+    "哈弗尔瑟"
+  ],
+  "VfR Neumünster": [
+    "诺伊明斯特"
+  ],
+  "VfL Neckarau": [
+    "内卡劳"
+  ],
+  "FV Ravensburg": [
+    "拉芬斯堡"
+  ],
+  "Havelse": [
+    "哈弗尔瑟"
+  ],
+  "Meppen": [
+    "梅彭"
+  ],
+  "SV Meppen": [
+    "梅彭"
+  ],
+  "AC Milan": [
+    "AC米兰",
+    "米兰"
+  ],
+  "Milan": [
+    "AC米兰"
+  ],
+  "Inter Milan": [
+    "国际米兰",
+    "国米"
+  ],
+  "Inter": [
+    "国际米兰",
+    "国米"
+  ],
+  "Juventus": [
+    "尤文图斯",
+    "尤文"
+  ],
+  "Napoli": [
+    "那不勒斯",
+    "拿玻里"
+  ],
+  "Roma": [
+    "罗马"
+  ],
+  "Lazio": [
+    "拉齐奥"
+  ],
+  "Atalanta": [
+    "亚特兰大",
+    "真蓝黑"
+  ],
+  "Fiorentina": [
+    "佛罗伦萨",
+    "紫百合"
+  ],
+  "Bologna": [
+    "博洛尼亚"
+  ],
+  "Torino": [
+    "都灵"
+  ],
+  "Sampdoria": [
+    "桑普多利亚",
+    "桑普"
+  ],
+  "Genoa": [
+    "热那亚"
+  ],
+  "Udinese": [
+    "乌迪内斯"
+  ],
+  "Sassuolo": [
+    "萨索洛"
+  ],
+  "Empoli": [
+    "恩波利"
+  ],
+  "Cagliari": [
+    "卡利亚里"
+  ],
+  "Hellas Verona": [
+    "维罗纳",
+    "赫拉斯维罗纳"
+  ],
+  "Parma": [
+    "帕尔马"
+  ],
+  "Lecce": [
+    "莱切"
+  ],
+  "Salernitana": [
+    "萨勒尼塔纳"
+  ],
+  "Spezia": [
+    "斯佩齐亚"
+  ],
+  "Venezia": [
+    "威尼斯"
+  ],
+  "Cremonese": [
+    "克雷莫纳"
+  ],
+  "Frosinone": [
+    "弗罗西诺内"
+  ],
+  "Chievo": [
+    "切沃"
+  ],
+  "Crotone": [
+    "克罗托内"
+  ],
+  "Benevento": [
+    "贝内文托"
+  ],
+  "Pescara": [
+    "佩斯卡拉"
+  ],
+  "Cesena": [
+    "切塞纳"
+  ],
+  "Novara": [
+    "诺瓦拉"
+  ],
+  "Perugia": [
+    "佩鲁贾"
+  ],
+  "Pisa": [
+    "比萨"
+  ],
+  "Como": [
+    "科莫"
+  ],
+  "Südtirol": [
+    "南蒂罗尔"
+  ],
+  "Juventus Next Gen": [
+    "尤文图斯下一代"
+  ],
+  "Paris Saint-Germain": [
+    "巴黎圣日耳曼",
+    "大巴黎",
+    "PSG"
+  ],
+  "PSG": [
+    "巴黎圣日耳曼",
+    "大巴黎"
+  ],
+  "Marseille": [
+    "马赛",
+    "OM"
+  ],
+  "Lyon": [
+    "里昂",
+    "OL"
+  ],
+  "Monaco": [
+    "摩纳哥",
+    "ASM"
+  ],
+  "Lille": [
+    "里尔",
+    "LOSC"
+  ],
+  "Lille OSC": [
+    "里尔",
+    "LOSC"
+  ],
+  "Nice": [
+    "尼斯",
+    "OGC尼斯"
+  ],
+  "Rennes": [
+    "雷恩",
+    "雷恩体育场"
+  ],
+  "Lens": [
+    "朗斯",
+    "RC朗斯"
+  ],
+  "RC Lens": [
+    "朗斯",
+    "朗斯竞技"
+  ],
+  "Montpellier": [
+    "蒙彼利埃",
+    "蒙彼利埃HSC"
+  ],
+  "Strasbourg": [
+    "斯特拉斯堡",
+    "RC斯特拉斯堡"
+  ],
+  "Nantes": [
+    "南特",
+    "FC南特"
+  ],
+  "Toulouse": [
+    "图卢兹"
+  ],
+  "Toulouse FC": [
+    "图卢兹"
+  ],
+  "Reims": [
+    "兰斯",
+    "兰斯体育场"
+  ],
+  "Brest": [
+    "布雷斯特",
+    "布雷斯特体育场"
+  ],
+  "Angers": [
+    "昂热"
+  ],
+  "Bordeaux": [
+    "波尔多",
+    "吉伦丹波尔多"
+  ],
+  "Saint-Étienne": [
+    "圣埃蒂安",
+    "ASSE"
+  ],
+  "Metz": [
+    "梅斯"
+  ],
+  "Lorient": [
+    "洛里昂"
+  ],
+  "Clermont": [
+    "克莱蒙"
+  ],
+  "Auxerre": [
+    "欧塞尔"
+  ],
+  "Ajaccio": [
+    "阿雅克肖"
+  ],
+  "Troyes": [
+    "特鲁瓦"
+  ],
+  "Bastia": [
+    "巴斯蒂亚"
+  ],
+  "Nîmes": [
+    "尼姆"
+  ],
+  "Nîmes Olympique": [
+    "尼姆"
+  ],
+  "Guingamp": [
+    "甘冈"
+  ],
+  "Sochaux": [
+    "索肖"
+  ],
+  "Caen": [
+    "卡昂"
+  ],
+  "Le Havre": [
+    "勒阿弗尔"
+  ],
+  "Amiens": [
+    "亚眠"
+  ],
+  "Valenciennes": [
+    "瓦朗谢讷"
+  ],
+  "Grenoble": [
+    "格勒诺布尔"
+  ],
+  "Dijon": [
+    "第戎"
+  ],
+  "Nancy": [
+    "南锡"
+  ],
+  "Châteauroux": [
+    "沙托鲁"
+  ],
+  "Orléans": [
+    "奥尔良"
+  ],
+  "Paris FC": [
+    "巴黎FC"
+  ],
+  "Rodez": [
+    "罗德兹"
+  ],
+  "Dunkerque": [
+    "敦刻尔克"
+  ],
+  "Annecy": [
+    "阿讷西"
+  ],
+  "Pau": [
+    "波城"
+  ],
+  "Laval": [
+    "拉瓦勒"
+  ],
+  "Quevilly-Rouen": [
+    "奎维鲁昂"
+  ],
+  "Boulogne": [
+    "布洛涅"
+  ],
+  "Red Star": [
+    "红星"
+  ],
+  "Versailles": [
+    "凡尔赛"
+  ],
+  "Avranches": [
+    "阿夫朗什"
+  ],
+  "Bourg-en-Bresse": [
+    "布尔格"
+  ],
+  "Istres": [
+    "伊斯特尔"
+  ],
+  "Mulhouse": [
+    "米卢斯"
+  ],
+  "Tours": [
+    "图尔"
+  ],
+  "Vannes": [
+    "瓦讷"
+  ],
+  "Lyon Duchère": [
+    "里昂杜谢尔"
+  ],
+  "Les Lilas": [
+    "莱利拉"
+  ],
+  "Ivry": [
+    "伊夫里"
+  ],
+  "ASPV Strasbourg": [
+    "斯特拉斯堡ASPV"
+  ],
+  "Saint-Priest": [
+    "圣普列斯特"
+  ],
+  "Saint-Dié": [
+    "圣迪耶"
+  ],
+  "Poitiers": [
+    "普瓦捷"
+  ],
+  "Colmar": [
+    "科尔马"
+  ],
+  "Bayonne": [
+    "巴约讷"
+  ],
+  "Drancy": [
+    "德朗西"
+  ],
+  "Aubagne": [
+    "欧巴涅"
+  ],
+  "Aubervilliers": [
+    "欧贝维利耶"
+  ],
+  "Fleury": [
+    "弗勒里"
+  ],
+  "Villemomble": [
+    "维勒蒙布勒"
+  ],
+  "Torcy": [
+    "托尔西"
+  ],
+  "US Torcy": [
+    "托尔西"
+  ],
+  "Trélissac": [
+    "特雷利萨克"
+  ],
+  "Béziers": [
+    "贝济耶"
+  ],
+  "Linas-Montlhéry": [
+    "利纳斯-蒙莱里"
+  ],
+  "Pacy Vallée-d'Eure": [
+    "帕西"
+  ],
+  "Wasquehal": [
+    "瓦斯克阿尔"
+  ],
+  "Roye-Noyon": [
+    "鲁瓦-努瓦永"
+  ],
+  "Balma SC": [
+    "巴尔马"
+  ],
+  "SU Agen": [
+    "阿让"
+  ],
+  "Saint Francis Red Flash": [
+    "圣弗朗西斯"
+  ],
+  "Olympique Saint-Quentin": [
+    "圣昆汀奥林匹克"
+  ],
+  "Bastia-Borgo": [
+    "巴斯蒂亚-博尔戈"
+  ],
+  "Créteil": [
+    "克雷泰伊"
+  ],
+  "Creteil": [
+    "克雷泰伊"
+  ],
+  "Lyon B": [
+    "里昂B队"
+  ],
+  "Monaco B": [
+    "摩纳哥B队"
+  ],
+  "Marseille B": [
+    "马赛B队"
+  ],
+  "PSG B": [
+    "巴黎圣日耳曼B队"
+  ],
+  "Nice B": [
+    "尼斯B队"
+  ],
+  "Rennes B": [
+    "雷恩B队"
+  ],
+  "Lille B": [
+    "里尔B队"
+  ],
+  "Lens B": [
+    "朗斯B队"
+  ],
+  "Strasbourg B": [
+    "斯特拉斯堡B队"
+  ],
+  "Toulouse B": [
+    "图卢兹B队"
+  ],
+  "Reims B": [
+    "兰斯B队"
+  ],
+  "Saint-Étienne B": [
+    "圣埃蒂安B队"
+  ],
+  "Montpellier B": [
+    "蒙彼利埃B队"
+  ],
+  "Sochaux B": [
+    "索肖B队"
+  ],
+  "Caen B": [
+    "卡昂B队"
+  ],
+  "Le Havre B": [
+    "勒阿弗尔B队"
+  ],
+  "Lorient B": [
+    "洛里昂B队"
+  ],
+  "Metz B": [
+    "梅斯B队"
+  ],
+  "Nantes B": [
+    "南特B队"
+  ],
+  "Valenciennes B": [
+    "瓦朗谢讷B队"
+  ],
+  "Troyes B": [
+    "特鲁瓦B队"
+  ],
+  "Auxerre B": [
+    "欧塞尔B队"
+  ],
+  "Châteauroux B": [
+    "沙托鲁B队"
+  ],
+  "Nancy B": [
+    "南锡B队"
+  ],
+  "Paris FC B": [
+    "巴黎FC B队"
+  ],
+  "Avranches B": [
+    "阿夫朗什B队"
+  ],
+  "Benfica": [
+    "本菲卡"
+  ],
+  "Porto": [
+    "波尔图"
+  ],
+  "Sporting CP": [
+    "葡萄牙体育",
+    "里斯本竞技"
+  ],
+  "Sporting": [
+    "葡萄牙体育",
+    "里斯本竞技"
+  ],
+  "Braga": [
+    "布拉加"
+  ],
+  "Vitória Guimarães": [
+    "吉马良斯"
+  ],
+  "Vitória de Guimarães": [
+    "吉马良斯"
+  ],
+  "Gil Vicente": [
+    "吉尔维森特"
+  ],
+  "Boavista": [
+    "博阿维斯塔"
+  ],
+  "Rio Ave": [
+    "里奥阿维"
+  ],
+  "Famalicão": [
+    "法马利康"
+  ],
+  "Estoril": [
+    "埃斯托里尔"
+  ],
+  "Moreirense": [
+    "莫雷拉人"
+  ],
+  "Arouca": [
+    "阿罗卡"
+  ],
+  "Portimonense": [
+    "波尔蒂芒人"
+  ],
+  "Santa Clara": [
+    "圣克拉拉"
+  ],
+  "Marítimo": [
+    "马里迪莫"
+  ],
+  "Tondela": [
+    "通德拉"
+  ],
+  "Chaves": [
+    "沙维什"
+  ],
+  "Paços de Ferreira": [
+    "费雷拉"
+  ],
+  "Paços Ferreira": [
+    "费雷拉"
+  ],
+  "Vizela": [
+    "维泽拉"
+  ],
+  "Casa Pia": [
+    "卡萨皮亚"
+  ],
+  "Aves": [
+    "阿维斯"
+  ],
+  "Desportivo das Aves": [
+    "阿维斯"
+  ],
+  "Belenenses": [
+    "贝伦人"
+  ],
+  "Leixões": [
+    "莱雄伊什"
+  ],
+  "Feirense": [
+    "费伦塞"
+  ],
+  "C.D. Feirense": [
+    "费伦塞"
+  ],
+  "Académico Viseu": [
+    "维塞乌学院"
+  ],
+  "Olhanense": [
+    "奥良人"
+  ],
+  "União Leiria": [
+    "莱里亚联合"
+  ],
+  "União de Leiria": [
+    "莱里亚联合"
+  ],
+  "União Madeira": [
+    "马德拉联合"
+  ],
+  "Estrela da Amadora": [
+    "阿马多拉之星"
+  ],
+  "Estrela Amadora": [
+    "阿马多拉之星"
+  ],
+  "Farense": [
+    "法伦斯"
+  ],
+  "Braga B": [
+    "布拉加B队"
+  ],
+  "Porto B": [
+    "波尔图B队"
+  ],
+  "Benfica B": [
+    "本菲卡B队"
+  ],
+  "Sporting CP B": [
+    "葡萄牙体育B队"
+  ],
+  "Sporting B": [
+    "葡萄牙体育B队"
+  ],
+  "Vitória Guimarães B": [
+    "吉马良斯B队"
+  ],
+  "Vitória de Guimarães B": [
+    "吉马良斯B队"
+  ],
+  "Vitória B": [
+    "维多利亚B队"
+  ],
+  "Vitória Setúbal": [
+    "塞图巴尔维多利亚"
+  ],
+  "Vitória Setúbal B": [
+    "塞图巴尔维多利亚B队"
+  ],
+  "Marítimo B": [
+    "马里迪莫B队"
+  ],
+  "Rio Ave B": [
+    "里奥阿维B队"
+  ],
+  "Chaves B": [
+    "沙维什B队"
+  ],
+  "Cova da Piedade": [
+    "科瓦达皮耶达德"
+  ],
+  "Mafra": [
+    "马夫拉"
+  ],
+  "Oliveirense": [
+    "奥利维伦斯"
+  ],
+  "Anadia": [
+    "阿纳迪亚"
+  ],
+  "Almada": [
+    "阿尔马达"
+  ],
+  "Amora": [
+    "阿莫拉"
+  ],
+  "Sintrense": [
+    "辛特拉人"
+  ],
+  "Real SC": [
+    "皇家SC"
+  ],
+  "Real Massamá": [
+    "马萨马皇家"
+  ],
+  "Merelinense": [
+    "梅雷利嫩斯"
+  ],
+  "Gafanha": [
+    "加法尼亚"
+  ],
+  "Salgueiros": [
+    "萨尔盖鲁什"
+  ],
+  "Maria da Fonte": [
+    "玛丽亚达丰特"
+  ],
+  "Vianense": [
+    "维亚纳人"
+  ],
+  "Alcanenense": [
+    "阿尔卡内嫩斯"
+  ],
+  "Sertanense": [
+    "塞尔塔嫩斯"
+  ],
+  "Olivais": [
+    "奥利瓦伊斯"
+  ],
+  "Arrentela": [
+    "阿伦特拉"
+  ],
+  "Barreirense": [
+    "巴雷鲁人"
+  ],
+  "Torreense": [
+    "托雷斯人"
+  ],
+  "Lusitanos Saint-Maur": [
+    "圣莫尔卢西塔诺斯"
+  ],
+  "Fátima": [
+    "法蒂玛"
+  ],
+  "Alvarenga": [
+    "阿尔瓦伦加"
+  ],
+  "União Santarém": [
+    "圣塔伦联合"
+  ],
+  "Vilaverdense": [
+    "维拉韦尔登斯"
+  ],
+  "Länk Vilaverdense": [
+    "维拉韦尔登斯"
+  ],
+  "Ribeirão": [
+    "里贝朗"
+  ],
+  "Infesta": [
+    "因费斯塔"
+  ],
+  "Padroense": [
+    "帕德罗恩塞"
+  ],
+  "Freamunde": [
+    "弗雷阿蒙德"
+  ],
+  "Leça": [
+    "莱萨"
+  ],
+  "Navarro": [
+    "纳瓦罗"
+  ],
+  "B-SAD": [
+    "B-SAD"
+  ],
+  "Beira-Mar": [
+    "贝拉马尔"
+  ],
+  "Ajax": [
+    "阿贾克斯"
+  ],
+  "PSV Eindhoven": [
+    "埃因霍温",
+    "PSV"
+  ],
+  "PSV": [
+    "埃因霍温"
+  ],
+  "Feyenoord": [
+    "费耶诺德"
+  ],
+  "Feyenoord Rotterdam": [
+    "费耶诺德",
+    "费耶诺德鹿特丹"
+  ],
+  "AZ": [
+    "阿尔克马尔"
+  ],
+  "FC Twente": [
+    "特温特"
+  ],
+  "Twente": [
+    "特温特"
+  ],
+  "Utrecht": [
+    "乌得勒支"
+  ],
+  "Vitesse": [
+    "维特斯"
+  ],
+  "FC Groningen": [
+    "格罗宁根"
+  ],
+  "Groningen": [
+    "格罗宁根"
+  ],
+  "SC Heerenveen": [
+    "海伦芬"
+  ],
+  "Heerenveen": [
+    "海伦芬"
+  ],
+  "PEC Zwolle": [
+    "兹沃勒"
+  ],
+  "Heracles Almelo": [
+    "赫拉克勒斯"
+  ],
+  "Heracles": [
+    "赫拉克勒斯"
+  ],
+  "NEC Nijmegen": [
+    "奈梅亨"
+  ],
+  "NEC": [
+    "奈梅亨"
+  ],
+  "Fortuna Sittard": [
+    "福图纳锡塔德"
+  ],
+  "Go Ahead Eagles": [
+    "前进之鹰"
+  ],
+  "RKC Waalwijk": [
+    "瓦尔韦克"
+  ],
+  "Waalwijk": [
+    "瓦尔韦克"
+  ],
+  "Sparta Rotterdam": [
+    "鹿特丹斯巴达"
+  ],
+  "FC Emmen": [
+    "埃门"
+  ],
+  "Emmen": [
+    "埃门"
+  ],
+  "Cambuur": [
+    "坎布尔"
+  ],
+  "De Graafschap": [
+    "格拉夫夏普"
+  ],
+  "Volendam": [
+    "福伦丹"
+  ],
+  "Excelsior": [
+    "埃克塞尔西奥"
+  ],
+  "ADO Den Haag": [
+    "海牙"
+  ],
+  "VVV-Venlo": [
+    "芬洛"
+  ],
+  "Roda JC": [
+    "罗达JC"
+  ],
+  "Roda": [
+    "罗达JC"
+  ],
+  "NAC Breda": [
+    "布雷达"
+  ],
+  "NAC": [
+    "布雷达"
+  ],
+  "FC Dordrecht": [
+    "多德雷赫特"
+  ],
+  "Dordrecht": [
+    "多德雷赫特"
+  ],
+  "FC Eindhoven": [
+    "埃因霍温FC"
+  ],
+  "Eindhoven": [
+    "埃因霍温FC"
+  ],
+  "MVV": [
+    "马斯特里赫特"
+  ],
+  "Telstar": [
+    "特尔斯达"
+  ],
+  "TOP Oss": [
+    "奥斯"
+  ],
+  "Helmond Sport": [
+    "赫尔蒙德"
+  ],
+  "Den Bosch": [
+    "登博思"
+  ],
+  "Almere City": [
+    "阿尔梅勒城"
+  ],
+  "Jong Ajax": [
+    "阿贾克斯青年队"
+  ],
+  "Jong PSV": [
+    "埃因霍温青年队"
+  ],
+  "Jong AZ": [
+    "阿尔克马尔青年队"
+  ],
+  "Jong Almere City": [
+    "阿尔梅勒城青年队"
+  ],
+  "Jong FC Twente": [
+    "特温特青年队"
+  ],
+  "Jong Sparta": [
+    "斯巴达青年队"
+  ],
+  "Jong Twente": [
+    "特温特青年队"
+  ],
+  "Jong Utrecht": [
+    "乌得勒支青年队"
+  ],
+  "Jong Groningen": [
+    "格罗宁根青年队"
+  ],
+  "SC Feyenoord": [
+    "费耶诺德SC"
+  ],
+  "Excelsior Maassluis": [
+    "马斯勒伊斯"
+  ],
+  "IJsselmeervogels": [
+    "艾瑟尔梅尔鸟"
+  ],
+  "Kozakken Boys": [
+    "科扎肯男孩"
+  ],
+  "Blauw-Wit Amsterdam": [
+    "蓝白阿姆斯特丹"
+  ],
+  "Amsterdamsche FC": [
+    "阿姆斯特丹FC"
+  ],
+  "Zwaluwen '": [
+    "燕子"
+  ],
+  "ASWH": [
+    "ASWH"
+  ],
+  "BVV Barendrecht": [
+    "巴伦德雷赫特"
+  ],
+  "RKSV NEO": [
+    "NEO"
+  ],
+  "VV Goes": [
+    "胡斯"
+  ],
+  "XerxesDZB": [
+    "泽克塞斯"
+  ],
+  "AVS": [
+    "AVS"
+  ],
+  "A.V.V. Zeeburgia": [
+    "泽堡亚"
+  ],
+  "Zeeburgia": [
+    "泽堡亚"
+  ],
+  "Galatasaray": [
+    "加拉塔萨雷",
+    "加拉塔萨雷SK"
+  ],
+  "Fenerbahçe": [
+    "费内巴切"
+  ],
+  "Beşiktaş": [
+    "贝西克塔什"
+  ],
+  "Trabzonspor": [
+    "特拉布宗体育",
+    "特拉布宗"
+  ],
+  "İstanbul Başakşehir": [
+    "伊斯坦布尔巴萨克赛希尔"
+  ],
+  "Istanbul Başakşehir": [
+    "伊斯坦布尔巴萨克赛希尔"
+  ],
+  "Başakşehir": [
+    "巴萨克赛希尔"
+  ],
+  "Konyaspor": [
+    "科尼亚体育"
+  ],
+  "Kayserispor": [
+    "开塞利体育"
+  ],
+  "Antalyaspor": [
+    "安塔利亚体育"
+  ],
+  "Sivasspor": [
+    "锡瓦斯体育"
+  ],
+  "Alanyaspor": [
+    "阿拉尼亚体育"
+  ],
+  "Kasımpaşa": [
+    "卡斯姆帕夏"
+  ],
+  "Göztepe": [
+    "格兹特佩"
+  ],
+  "Yeni Malatyaspor": [
+    "新马拉蒂亚体育"
+  ],
+  "Gaziantep": [
+    "加济安泰普"
+  ],
+  "Çaykur Rizespor": [
+    "里泽体育"
+  ],
+  "Rizespor": [
+    "里泽体育"
+  ],
+  "Hatayspor": [
+    "哈塔伊体育"
+  ],
+  "Adana Demirspor": [
+    "阿达纳代米尔体育"
+  ],
+  "Giresunspor": [
+    "吉雷松体育"
+  ],
+  "Altay": [
+    "阿尔泰"
+  ],
+  "Fatih Karagümrük": [
+    "法蒂赫卡拉居姆吕克"
+  ],
+  "Bodrumspor": [
+    "博德鲁姆体育"
+  ],
+  "Samsunspor": [
+    "萨姆松体育"
+  ],
+  "Eyüpspor": [
+    "埃于普体育"
+  ],
+  "Ankaragücü": [
+    "安卡拉古库"
+  ],
+  "Gençlerbirliği": [
+    "根克勒比利吉"
+  ],
+  "Bursaspor": [
+    "布尔萨体育"
+  ],
+  "Osmanlıspor": [
+    "奥斯曼利体育"
+  ],
+  "Balıkesirspor": [
+    "巴勒克埃西尔体育"
+  ],
+  "Denizlispor": [
+    "代尼兹利体育"
+  ],
+  "Boluspor": [
+    "博卢体育"
+  ],
+  "Bandırmaspor": [
+    "班德尔马体育"
+  ],
+  "Sakaryaspor": [
+    "萨卡里亚体育"
+  ],
+  "Altınordu": [
+    "阿尔丁奥尔杜"
+  ],
+  "Ankara Keçiörengücü": [
+    "安卡拉凯乔伦古库"
+  ],
+  "Ankara Demirspor": [
+    "安卡拉代米尔体育"
+  ],
+  "İstanbulspor": [
+    "伊斯坦布尔体育"
+  ],
+  "Kocaelispor": [
+    "科贾埃利体育"
+  ],
+  "Kartalspor": [
+    "卡尔塔尔体育"
+  ],
+  "Sancaktepe": [
+    "桑贾克特佩"
+  ],
+  "Bucaspor": [
+    "布贾体育"
+  ],
+  "Arsinspor": [
+    "阿尔辛体育"
+  ],
+  "24 Erzincanspor": [
+    "埃尔津詹体育"
+  ],
+  "Iğdır FK": [
+    "伊迪尔FK"
+  ],
+  "Iğdır F.K": [
+    "伊迪尔FK"
+  ],
+  "1461 Trabzon": [
+    "1461特拉布宗"
+  ],
+  "Menemen Belediyespor": [
+    "梅内门体育"
+  ],
+  "Karacabey Belediyespor": [
+    "卡拉贾贝伊体育"
+  ],
+  "Anderlecht": [
+    "安德莱赫特",
+    "RSC安德莱赫特"
+  ],
+  "Club Brugge": [
+    "布鲁日",
+    "布鲁日KV"
+  ],
+  "Standard Liège": [
+    "标准列日",
+    "标准列治"
+  ],
+  "Standard Liége": [
+    "标准列日"
+  ],
+  "Genk": [
+    "亨克",
+    "KRC亨克"
+  ],
+  "Gent": [
+    "根特",
+    "KAA根特"
+  ],
+  "Royal Antwerp": [
+    "皇家安特卫普",
+    "安特卫普"
+  ],
+  "Antwerp": [
+    "安特卫普"
+  ],
+  "Charleroi": [
+    "沙勒罗瓦"
+  ],
+  "Sporting Charleroi": [
+    "沙勒罗瓦"
+  ],
+  "Royal Charleroi": [
+    "沙勒罗瓦"
+  ],
+  "Mechelen": [
+    "梅赫伦"
+  ],
+  "K.V. Mechelen": [
+    "梅赫伦"
+  ],
+  "Union SG": [
+    "圣吉罗斯联合",
+    "联合圣吉罗斯"
+  ],
+  "Union Saint-Gilloise": [
+    "圣吉罗斯联合"
+  ],
+  "Cercle Brugge": [
+    "布鲁日Cercle"
+  ],
+  "Oostende": [
+    "奥斯坦德"
+  ],
+  "KV Oostende": [
+    "奥斯坦德"
+  ],
+  "Sint-Truiden": [
+    "圣图尔登"
+  ],
+  "Sint-Truidense": [
+    "圣图尔登"
+  ],
+  "Kortrijk": [
+    "科特赖克"
+  ],
+  "Eupen": [
+    "欧本"
+  ],
+  "KAS Eupen": [
+    "欧本"
+  ],
+  "Zulte Waregem": [
+    "祖尔特瓦雷海姆"
+  ],
+  "Zulte-Waregem": [
+    "祖尔特瓦雷海姆"
+  ],
+  "Lokeren": [
+    "洛克伦"
+  ],
+  "Mouscron": [
+    "穆斯克龙"
+  ],
+  "Royal Excel Mouscron": [
+    "穆斯克龙"
+  ],
+  "Westerlo": [
+    "韦斯特洛"
+  ],
+  "K.V.C. Westerlo": [
+    "韦斯特洛"
+  ],
+  "Waasland-Beveren": [
+    "瓦斯兰贝弗伦"
+  ],
+  "Waasland Beveren": [
+    "瓦斯兰贝弗伦"
+  ],
+  "Beerschot": [
+    "比尔肖特"
+  ],
+  "Lommel": [
+    "洛默尔"
+  ],
+  "OH Leuven": [
+    "鲁汶"
+  ],
+  "RWD Molenbeek": [
+    "莫伦贝克"
+  ],
+  "RWDM": [
+    "莫伦贝克"
+  ],
+  "Dender": [
+    "登德"
+  ],
+  "Dender EH": [
+    "登德"
+  ],
+  "Lierse": [
+    "利尔斯"
+  ],
+  "Patro Eisden": [
+    "帕特罗艾斯登"
+  ],
+  "Virton": [
+    "维尔通"
+  ],
+  "R.E. Virton": [
+    "维尔通"
+  ],
+  "Beveren": [
+    "贝弗伦"
+  ],
+  "Seraing": [
+    "瑟兰"
+  ],
+  "RSCA Futures": [
+    "安德莱赫特未来"
+  ],
+  "Club NXT": [
+    "布鲁日NXT"
+  ],
+  "Jong Genk": [
+    "亨克青年队"
+  ],
+  "K Beerschot VA": [
+    "比尔肖特"
+  ],
+  "K. Berchem Sport": [
+    "贝尔赫姆体育"
+  ],
+  "K. Rupel Boom": [
+    "吕佩尔博姆"
+  ],
+  "KRC Bambrugge": [
+    "巴姆布吕赫"
+  ],
+  "KSV Ankerbrot": [
+    "安克布罗特"
+  ],
+  "Olympic Charleroi": [
+    "沙勒罗瓦奥林匹克"
+  ],
+  "Celtic": [
+    "凯尔特人",
+    "凯尔特FC"
+  ],
+  "Rangers": [
+    "流浪者"
+  ],
+  "Aberdeen": [
+    "阿伯丁"
+  ],
+  "Heart of Midlothian": [
+    "哈茨"
+  ],
+  "Hearts": [
+    "哈茨"
+  ],
+  "Hibernian": [
+    "希伯尼安"
+  ],
+  "Motherwell": [
+    "马瑟韦尔"
+  ],
+  "Dundee United": [
+    "邓迪联"
+  ],
+  "Dundee": [
+    "邓迪"
+  ],
+  "St Mirren": [
+    "圣米伦"
+  ],
+  "Kilmarnock": [
+    "基尔马诺克"
+  ],
+  "St Johnstone": [
+    "圣约翰斯通"
+  ],
+  "Livingston": [
+    "利文斯顿"
+  ],
+  "Ross County": [
+    "罗斯郡"
+  ],
+  "Hamilton Academical": [
+    "汉密尔顿学院"
+  ],
+  "Partick Thistle": [
+    "帕尔蒂克"
+  ],
+  "Inverness Caledonian Thistle": [
+    "因弗内斯"
+  ],
+  "Dunfermline Athletic": [
+    "邓弗姆林"
+  ],
+  "Cowdenbeath": [
+    "考登比斯"
+  ],
+  "Alloa Athletic": [
+    "阿洛厄"
+  ],
+  "Arbroath": [
+    "阿布罗斯"
+  ],
+  "Queen of the South": [
+    "南方女王"
+  ],
+  "Queen's Park": [
+    "女王公园"
+  ],
+  "Greenock Morton": [
+    "格里诺克莫顿"
+  ],
+  "Albion Rovers": [
+    "阿尔比恩流浪者"
+  ],
+  "East Fife": [
+    "东法夫"
+  ],
+  "Olympiacos": [
+    "奥林匹亚科斯",
+    "奥林匹亚高斯"
+  ],
+  "Panathinaikos": [
+    "帕纳辛奈科斯",
+    "帕纳辛纳高斯"
+  ],
+  "AEK Athens": [
+    "雅典AEK",
+    "AEK雅典"
+  ],
+  "AEK": [
+    "雅典AEK"
+  ],
+  "PAOK": [
+    "帕奥克",
+    "塞萨洛尼基PAOK"
+  ],
+  "Aris": [
+    "阿里斯"
+  ],
+  "Atromitos": [
+    "阿特罗米托斯"
+  ],
+  "Lamia": [
+    "拉米亚"
+  ],
+  "Panetolikos": [
+    "帕内托利科斯"
+  ],
+  "Panionios": [
+    "帕尼奥尼奥斯"
+  ],
+  "Xanthi": [
+    "克桑西"
+  ],
+  "Levadiakos": [
+    "莱瓦迪亚科斯"
+  ],
+  "Panserraikos": [
+    "潘塞莱科斯"
+  ],
+  "Kifisia": [
+    "基菲西亚"
+  ],
+  "A.E. Kifisia": [
+    "基菲西亚"
+  ],
+  "Basel": [
+    "巴塞尔"
+  ],
+  "FC Basel": [
+    "巴塞尔"
+  ],
+  "Young Boys": [
+    "年轻人",
+    "伯尔尼年轻人"
+  ],
+  "FC Zürich": [
+    "苏黎世"
+  ],
+  "Zürich": [
+    "苏黎世"
+  ],
+  "Servette": [
+    "塞尔维特"
+  ],
+  "Lugano": [
+    "卢加诺"
+  ],
+  "Luzern": [
+    "卢塞恩"
+  ],
+  "FC Luzern": [
+    "卢塞恩"
+  ],
+  "Grasshopper": [
+    "草蜢"
+  ],
+  "Grasshoppers": [
+    "草蜢"
+  ],
+  "St. Gallen": [
+    "圣加伦"
+  ],
+  "Sion": [
+    "锡永"
+  ],
+  "Thun": [
+    "图恩"
+  ],
+  "Lausanne-Sport": [
+    "洛桑体育"
+  ],
+  "FC Schaffhausen": [
+    "沙夫豪森"
+  ],
+  "Schaffhausen": [
+    "沙夫豪森"
+  ],
+  "FC Wil": [
+    "维尔"
+  ],
+  "Wil": [
+    "维尔"
+  ],
+  "FC Winterthur": [
+    "温特图尔"
+  ],
+  "Winterthur": [
+    "温特图尔"
+  ],
+  "Stade Lausanne Ouchy": [
+    "洛桑乌希"
+  ],
+  "Stade Nyonnais": [
+    "尼永"
+  ],
+  "Neuchâtel Xamax": [
+    "纳沙泰尔"
+  ],
+  "Concordia Basel": [
+    "巴塞尔协和"
+  ],
+  "Solothurn": [
+    "索洛图恩"
+  ],
+  "Kriens": [
+    "克里恩斯"
+  ],
+  "Meyrin": [
+    "梅兰"
+  ],
+  "Étoile Carouge": [
+    "卡鲁日星"
+  ],
+  "FC United Zürich": [
+    "苏黎世联合"
+  ],
+  "United Zürich": [
+    "苏黎世联合"
+  ],
+  "Olymp. Genève": [
+    "日内瓦奥林匹克"
+  ],
+  "Biel-Bienne": [
+    "比尔-比安纳"
+  ],
+  "FC Košice": [
+    "科希策"
+  ],
+  "Red Bull Salzburg": [
+    "萨尔茨堡红牛",
+    "RB萨尔茨堡"
+  ],
+  "Rapid Wien": [
+    "维也纳快速",
+    "快速维也纳"
+  ],
+  "Austria Wien": [
+    "维也纳奥地利"
+  ],
+  "Sturm Graz": [
+    "格拉茨风暴"
+  ],
+  "SK Sturm Graz": [
+    "格拉茨风暴"
+  ],
+  "LASK": [
+    "林茨"
+  ],
+  "LASK Linz": [
+    "林茨"
+  ],
+  "Wolfsberger AC": [
+    "沃尔夫斯贝格"
+  ],
+  "TSV Hartberg": [
+    "哈特贝格"
+  ],
+  "Austria Klagenfurt": [
+    "克拉根福奥地利"
+  ],
+  "Admira Wacker": [
+    "阿德米拉"
+  ],
+  "WSG Tirol": [
+    "蒂罗尔"
+  ],
+  "Austria Lustenau": [
+    "卢斯特瑙奥地利"
+  ],
+  "Floridsdorfer AC": [
+    "弗洛里茨多夫"
+  ],
+  "SV Grödig": [
+    "格勒迪希"
+  ],
+  "SKN St. Pölten": [
+    "圣珀尔滕"
+  ],
+  "St. Pölten": [
+    "圣珀尔滕"
+  ],
+  "FC Liefering": [
+    "利弗林"
+  ],
+  "Liefering": [
+    "利弗林"
+  ],
+  "First Vienna FC": [
+    "维也纳第一"
+  ],
+  "Austria Kärnten": [
+    "克恩顿奥地利"
+  ],
+  "Austria Salzburg": [
+    "萨尔茨堡奥地利"
+  ],
+  "DSV Leoben": [
+    "莱奥本"
+  ],
+  "Grazer AK": [
+    "格拉茨AK"
+  ],
+  "Kapfenberger SV": [
+    "卡芬贝格"
+  ],
+  "Admira Villach": [
+    "阿德米拉菲拉赫"
+  ],
+  "FC Pasching": [
+    "帕兴"
+  ],
+  "Pasching": [
+    "帕兴"
+  ],
+  "FC Kufstein": [
+    "库夫施泰因"
+  ],
+  "FC Gleisdorf": [
+    "格莱斯多夫"
+  ],
+  "SV Lafnitz": [
+    "拉夫尼茨"
+  ],
+  "SV Lebring": [
+    "莱布林"
+  ],
+  "SV Schwechat": [
+    "施韦夏特"
+  ],
+  "Schwechat": [
+    "施韦夏特"
+  ],
+  "SR Donaufeld Wien": [
+    "多瑙费尔德"
+  ],
+  "Stadlau": [
+    "施塔德劳"
+  ],
+  "Juniors OÖ": [
+    "上奥地利青年"
+  ],
+  "Legia Warsaw": [
+    "华沙莱吉亚"
+  ],
+  "Lech Poznań": [
+    "波兹南莱赫"
+  ],
+  "Cracovia": [
+    "克拉科维亚"
+  ],
+  "Jagiellonia Białystok": [
+    "比亚韦斯托克雅盖隆"
+  ],
+  "Jagiellonia": [
+    "雅盖隆"
+  ],
+  "Śląsk Wrocław": [
+    "弗罗茨瓦夫希隆斯克"
+  ],
+  "Pogoń Szczecin": [
+    "什切青波贡"
+  ],
+  "Korona Kielce": [
+    "凯尔采科罗纳"
+  ],
+  "Widzew Łódź": [
+    "罗兹维德泽夫"
+  ],
+  "Raków Częstochowa": [
+    "琴斯托霍瓦拉库夫"
+  ],
+  "Lechia Gdańsk": [
+    "格但斯克莱吉亚"
+  ],
+  "Wisła Płock": [
+    "普沃茨克维斯瓦"
+  ],
+  "Radomiak Radom": [
+    "拉多姆拉多米亚克"
+  ],
+  "Slavia Prague": [
+    "布拉格斯拉维亚"
+  ],
+  "Sparta Prague": [
+    "布拉格斯巴达"
+  ],
+  "Viktoria Plzeň": [
+    "比尔森胜利"
+  ],
+  "Slovan Liberec": [
+    "利贝雷茨"
+  ],
+  "Jablonec": [
+    "亚布洛内茨"
+  ],
+  "Baník Ostrava": [
+    "俄斯特拉发巴尼克"
+  ],
+  "Mladá Boleslav": [
+    "博莱斯拉夫"
+  ],
+  "Sigma Olomouc": [
+    "奥洛穆茨西格玛"
+  ],
+  "Slovácko": [
+    "斯洛瓦茨科"
+  ],
+  "Teplice": [
+    "特普利采"
+  ],
+  "Bohemians": [
+    "波希米亚人"
+  ],
+  "Hradec Králové": [
+    "赫拉德茨克拉洛韦"
+  ],
+  "Pardubice": [
+    "帕尔杜比采"
+  ],
+  "Karviná": [
+    "卡尔维纳"
+  ],
+  "Zbrojovka Brno": [
+    "布尔诺"
+  ],
+  "Vysočina Jihlava": [
+    "伊赫拉瓦"
+  ],
+  "Dukla Prague": [
+    "杜克拉布拉格"
+  ],
+  "Opava": [
+    "奥帕瓦"
+  ],
+  "České Budějovice": [
+    "布杰约维采"
+  ],
+  "Ústí nad Labem": [
+    "拉贝河畔乌斯季"
+  ],
+  "Vlašim": [
+    "弗拉希姆"
+  ],
+  "Táborsko": [
+    "塔博尔斯科"
+  ],
+  "Baník Sokolov": [
+    "索科洛夫巴尼克"
+  ],
+  "Sokolov": [
+    "索科洛夫"
+  ],
+  "Slovan Rosice": [
+    "罗西采"
+  ],
+  "Slovan Havlíčkův Brod": [
+    "哈夫利奇库夫布罗德"
+  ],
+  "Meteor Prague": [
+    "布拉格流星"
+  ],
+  "Liptovský Mikuláš": [
+    "利普托夫斯基米库拉什"
+  ],
+  "Tatran Liptovský Mikuláš": [
+    "利普托夫斯基米库拉什"
+  ],
+  "Tatran Prešov": [
+    "普雷绍夫"
+  ],
+  "Prostějov": [
+    "普罗斯捷约夫"
+  ],
+  "Hanácká Slavia Kroměříž": [
+    "克罗梅日什"
+  ],
+  "Inter Bratislava": [
+    "布拉迪斯拉发国际"
+  ],
+  "Dinamo Zagreb": [
+    "萨格勒布迪纳摩"
+  ],
+  "Zagreb": [
+    "萨格勒布"
+  ],
+  "Hajduk Split": [
+    "哈伊杜克"
+  ],
+  "Hajduk": [
+    "哈伊杜克"
+  ],
+  "HNK Rijeka": [
+    "里耶卡"
+  ],
+  "Rijeka": [
+    "里耶卡"
+  ],
+  "Osijek": [
+    "奥西耶克"
+  ],
+  "Lokomotiva Zagreb": [
+    "萨格勒布火车头"
+  ],
+  "Lokomotiva": [
+    "火车头"
+  ],
+  "HNK Gorica": [
+    "戈里察"
+  ],
+  "Gorica": [
+    "戈里察"
+  ],
+  "Istra": [
+    "伊斯特拉"
+  ],
+  "Slaven Belupo": [
+    "斯拉文"
+  ],
+  "NK Zadar": [
+    "扎达尔"
+  ],
+  "NK Zagreb": [
+    "萨格勒布NK"
+  ],
+  "Inter Zaprešić": [
+    "国际扎普雷希奇"
+  ],
+  "RNK Split": [
+    "斯普利特"
+  ],
+  "Šibenik": [
+    "希贝尼克"
+  ],
+  "Trešnjevka": [
+    "特雷什涅夫卡"
+  ],
+  "Vitez": [
+    "维泰兹"
+  ],
+  "Branitelj": [
+    "布兰尼特利"
+  ],
+  "Radnik Velika Gorica": [
+    "大戈里察工人"
+  ],
+  "Red Star Belgrade": [
+    "贝尔格莱德红星"
+  ],
+  "Partizan": [
+    "贝尔格莱德游击队"
+  ],
+  "Radnički Niš": [
+    "尼什工人"
+  ],
+  "Sarajevo": [
+    "萨拉热窝"
+  ],
+  "Borac Banja Luka": [
+    "巴尼亚卢卡战士"
+  ],
+  "Željezničar": [
+    "热列兹尼察尔"
+  ],
+  "Široki Brijeg": [
+    "希罗基布里耶格"
+  ],
+  "Zrinjski Mostar": [
+    "莫斯塔尔兹林伊斯基"
+  ],
+  "Zvijezda Gradačac": [
+    "格拉达查茨星"
+  ],
+  "Modriča": [
+    "莫德里查"
+  ],
+  "Sloga Doboj": [
+    "多博伊斯洛加"
+  ],
+  "Radnik Hadžići": [
+    "哈季奇工人"
+  ],
+  "Iskra Bugojno": [
+    "布戈伊诺火花"
+  ],
+  "Igman Konjic": [
+    "科尼茨伊格曼"
+  ],
+  "Neretva": [
+    "内雷特瓦"
+  ],
+  "Neretvanac Opuzen": [
+    "奥普曾内雷特瓦人"
+  ],
+  "Mračaj Runović": [
+    "姆拉查伊"
+  ],
+  "Trnje": [
+    "特尔涅"
+  ],
+  "Posušje": [
+    "波苏谢"
+  ],
+  "Omladinac Vranjic": [
+    "弗拉尼奇青年"
+  ],
+  "Copenhagen": [
+    "哥本哈根",
+    "FCK"
+  ],
+  "FC Midtjylland": [
+    "米迪兰特",
+    "中日德兰"
+  ],
+  "Midtjylland": [
+    "米迪兰特",
+    "中日德兰"
+  ],
+  "Brøndby": [
+    "布隆德比"
+  ],
+  "Brøndby IF": [
+    "布隆德比"
+  ],
+  "Nordsjælland": [
+    "北西兰"
+  ],
+  "Randers": [
+    "兰纳斯"
+  ],
+  "Silkeborg": [
+    "锡尔克堡"
+  ],
+  "Silkeborg IF": [
+    "锡尔克堡"
+  ],
+  "AGF": [
+    "奥胡斯"
+  ],
+  "OB": [
+    "欧登塞"
+  ],
+  "Lyngby": [
+    "灵比"
+  ],
+  "Viborg": [
+    "维堡"
+  ],
+  "Sønderjyske": [
+    "松德捷斯基"
+  ],
+  "Horsens": [
+    "霍森斯"
+  ],
+  "Helsingør": [
+    "赫尔辛格"
+  ],
+  "Vejle": [
+    "瓦埃勒"
+  ],
+  "Vejle BK": [
+    "瓦埃勒"
+  ],
+  "Vejle Boldklub": [
+    "瓦埃勒"
+  ],
+  "Hobro": [
+    "霍布罗"
+  ],
+  "Esbjerg fB": [
+    "埃斯比约"
+  ],
+  "HB Køge": [
+    "克厄"
+  ],
+  "Herfølge": [
+    "赫尔弗尔格"
+  ],
+  "Fredericia": [
+    "弗雷德里西亚"
+  ],
+  "Nexø Boldklub": [
+    "内克瑟"
+  ],
+  "Skovbakken": [
+    "斯科夫巴肯"
+  ],
+  "Malmö FF": [
+    "马尔默",
+    "马尔默FF"
+  ],
+  "Malmö": [
+    "马尔默",
+    "马尔默FF"
+  ],
+  "AIK": [
+    "索尔纳AIK"
+  ],
+  "Djurgården": [
+    "尤尔加登"
+  ],
+  "Djurgårdens IF": [
+    "尤尔加登"
+  ],
+  "Djurgården IF": [
+    "尤尔加登"
+  ],
+  "Hammarby": [
+    "哈马比"
+  ],
+  "Hammarby IF": [
+    "哈马比"
+  ],
+  "IFK Göteborg": [
+    "哥德堡"
+  ],
+  "Göteborg": [
+    "哥德堡"
+  ],
+  "IF Elfsborg": [
+    "埃尔夫斯堡"
+  ],
+  "IFK Norrköping": [
+    "北雪平"
+  ],
+  "BK Häcken": [
+    "赫根"
+  ],
+  "Helsingborg": [
+    "赫尔辛堡"
+  ],
+  "Helsingborgs IF": [
+    "赫尔辛堡"
+  ],
+  "Örebro SK": [
+    "厄勒布鲁"
+  ],
+  "IF Brommapojkarna": [
+    "布罗马博亚纳"
+  ],
+  "Brommapojkarna": [
+    "布罗马博亚纳"
+  ],
+  "Mjällby AIF": [
+    "米亚尔比"
+  ],
+  "Degerfors IF": [
+    "代格福什"
+  ],
+  "IK Sirius": [
+    "天狼星"
+  ],
+  "Halmstads BK": [
+    "哈尔姆斯塔德"
+  ],
+  "Trelleborgs FF": [
+    "特雷勒堡"
+  ],
+  "Landskrona BoIS": [
+    "兰斯克鲁纳"
+  ],
+  "GIF Sundsvall": [
+    "松兹瓦尔"
+  ],
+  "Östersunds FK": [
+    "厄斯特松德"
+  ],
+  "Falkenbergs FF": [
+    "法尔肯贝里"
+  ],
+  "Falkenbergs": [
+    "法尔肯贝里"
+  ],
+  "IK Frej": [
+    "弗雷"
+  ],
+  "Utsiktens BK": [
+    "乌特西克滕"
+  ],
+  "Örgryte IS": [
+    "奥尔格里特"
+  ],
+  "Västerås SK": [
+    "韦斯特罗斯"
+  ],
+  "Västerås": [
+    "韦斯特罗斯"
+  ],
+  "Sandvikens IF": [
+    "桑德维肯"
+  ],
+  "Jönköpings Södra IF": [
+    "延雪平南方"
+  ],
+  "Assyriska FF": [
+    "亚述"
+  ],
+  "Sollentuna FK": [
+    "索伦蒂纳"
+  ],
+  "Vasalunds IF": [
+    "瓦萨隆德"
+  ],
+  "IFK Värnamo": [
+    "韦纳穆"
+  ],
+  "Eskilstuna": [
+    "埃斯基尔斯蒂纳"
+  ],
+  "Eskilstuna City": [
+    "埃斯基尔斯蒂纳城"
+  ],
+  "Sollentuna": [
+    "索伦蒂纳"
+  ],
+  "Sundbybergs IK": [
+    "松德比贝里"
+  ],
+  "Jonsereds IF": [
+    "琼瑟里德"
+  ],
+  "Bunkeflo IF": [
+    "本克弗洛"
+  ],
+  "Limhamn Bunkeflo": [
+    "林汉姆本克弗洛"
+  ],
+  "IF Limhamn Bunkeflo": [
+    "林汉姆本克弗洛"
+  ],
+  "Motala AIF": [
+    "莫塔拉"
+  ],
+  "Husqvarna FF": [
+    "胡斯克瓦纳"
+  ],
+  "Nyköpings BIS": [
+    "尼雪平"
+  ],
+  "Skiljebo SK": [
+    "希尔耶博"
+  ],
+  "Råsunda": [
+    "罗松达"
+  ],
+  "IK Oddevold": [
+    "奥德沃尔德"
+  ],
+  "Assyriska BK": [
+    "亚述BK"
+  ],
+  "Spånga IS": [
+    "斯蓬加"
+  ],
+  "Mälarhöjdens IK": [
+    "梅拉霍伊登"
+  ],
+  "LSW IF": [
+    "LSW"
+  ],
+  "Hageby IF": [
+    "哈格比"
+  ],
+  "IFK Aspudden-Tellus": [
+    "阿斯普登-特卢斯"
+  ],
+  "IFK Lidingö": [
+    "利丁厄"
+  ],
+  "IFK Stocksund": [
+    "斯托克松德"
+  ],
+  "IFK Öxnehaga": [
+    "厄克斯内哈加"
+  ],
+  "Enskede IK": [
+    "恩斯克德"
+  ],
+  "Partille IF": [
+    "帕尔蒂勒"
+  ],
+  "Torslanda IK": [
+    "托斯兰达"
+  ],
+  "Sävedalens IF": [
+    "塞韦达伦"
+  ],
+  "Friska Viljor FC": [
+    "健康意志"
+  ],
+  "Segeltorps IF": [
+    "塞格尔托普"
+  ],
+  "BK Olympic": [
+    "马尔默奥林匹克"
+  ],
+  "BK Vången": [
+    "万根"
+  ],
+  "Bodø/Glimt": [
+    "博德闪耀",
+    "波杜基林特"
+  ],
+  "Molde": [
+    "莫尔德"
+  ],
+  "Rosenborg": [
+    "罗森博格"
+  ],
+  "Viking": [
+    "维京"
+  ],
+  "Lillestrøm": [
+    "利勒斯特罗姆"
+  ],
+  "Vålerenga": [
+    "瓦勒伦加"
+  ],
+  "Strømsgodset": [
+    "斯特罗姆加德"
+  ],
+  "Tromsø": [
+    "特罗姆瑟"
+  ],
+  "Sarpsborg": [
+    "萨尔普斯堡"
+  ],
+  "Haugesund": [
+    "海于格松"
+  ],
+  "Sandefjord": [
+    "桑德菲尤尔"
+  ],
+  "Stabæk": [
+    "斯塔贝克"
+  ],
+  "Odd": [
+    "奥德"
+  ],
+  "Start": [
+    "斯塔特"
+  ],
+  "Brann": [
+    "布兰"
+  ],
+  "Jerv": [
+    "耶尔夫"
+  ],
+  "Sandnes Ulf": [
+    "桑内斯乌尔夫"
+  ],
+  "Bryne": [
+    "布莱尼"
+  ],
+  "Kvik Halden": [
+    "哈尔登"
+  ],
+  "Egersund": [
+    "埃格尔松"
+  ],
+  "Ranheim": [
+    "兰黑姆"
+  ],
+  "Tromsdalen": [
+    "特罗姆斯达伦"
+  ],
+  "Nest-Sotra": [
+    "内斯特-索特拉"
+  ],
+  "Strindheim": [
+    "斯特林德海姆"
+  ],
+  "Stjørdals-Blink": [
+    "斯蒂约达尔-布林克"
+  ],
+  "Elverum": [
+    "埃尔弗吕姆"
+  ],
+  "Hareid": [
+    "哈雷德"
+  ],
+  "Namsos": [
+    "纳姆索斯"
+  ],
+  "Langhus": [
+    "兰胡斯"
+  ],
+  "Rælingen": [
+    "雷林根"
+  ],
+  "Byåsen": [
+    "比奥森"
+  ],
+  "Bergen Nord": [
+    "卑尔根北方"
+  ],
+  "Ørn Horten": [
+    "霍滕鹰"
+  ],
+  "Åsane": [
+    "奥萨内"
+  ],
+  "Asker": [
+    "阿斯克尔"
+  ],
+  "Volda TI": [
+    "沃尔达"
+  ],
+  "Lyngdal IL": [
+    "林达尔"
+  ],
+  "Raštane": [
+    "拉什塔内"
+  ],
+  "Beijing Guoan": [
+    "北京国安",
+    "国安"
+  ],
+  "Shanghai Port": [
+    "上海海港",
+    "海港"
+  ],
+  "Shanghai SIPG": [
+    "上海上港",
+    "上港"
+  ],
+  "Shandong Luneng": [
+    "山东鲁能",
+    "鲁能"
+  ],
+  "Cangzhou Mighty Lions": [
+    "沧州雄狮"
+  ],
+  "Zhejiang FC": [
+    "浙江队"
+  ],
+  "Shenzhen": [
+    "深圳队"
+  ],
+  "Shenzhen FC": [
+    "深圳队"
+  ],
+  "Hebei China Fortune": [
+    "河北华夏幸福"
+  ],
+  "Kashima Antlers": [
+    "鹿岛鹿角",
+    "鹿岛"
+  ],
+  "Urawa Red Diamonds": [
+    "浦和红钻",
+    "浦和"
+  ],
+  "Kawasaki Frontale": [
+    "川崎前锋",
+    "川崎"
+  ],
+  "Yokohama F. Marinos": [
+    "横滨水手",
+    "横滨FM"
+  ],
+  "Cerezo Osaka": [
+    "大阪樱花",
+    "樱花"
+  ],
+  "Gamba Osaka": [
+    "大阪钢巴",
+    "钢巴"
+  ],
+  "Vissel Kobe": [
+    "神户胜利船",
+    "神户"
+  ],
+  "Nagoya Grampus": [
+    "名古屋鲸八",
+    "名古屋"
+  ],
+  "FC Tokyo": [
+    "FC东京",
+    "东京FC"
+  ],
+  "Kashiwa Reysol": [
+    "柏太阳神"
+  ],
+  "Sanfrecce Hiroshima": [
+    "广岛三箭",
+    "广岛"
+  ],
+  "Sagan Tosu": [
+    "鸟栖砂岩",
+    "鸟栖"
+  ],
+  "Shimizu S-Pulse": [
+    "清水心跳"
+  ],
+  "Vegalta Sendai": [
+    "仙台维加泰"
+  ],
+  "Júbilo Iwata": [
+    "磐田喜悦"
+  ],
+  "Albirex Niigata": [
+    "新泻天鹅"
+  ],
+  "Shonan Bellmare": [
+    "湘南海洋"
+  ],
+  "Avispa Fukuoka": [
+    "福冈黄蜂"
+  ],
+  "Mito HollyHock": [
+    "水户蜀葵"
+  ],
+  "JEF United Chiba": [
+    "千叶市原"
+  ],
+  "Yokohama FC": [
+    "横滨FC"
+  ],
+  "Machida Zelvia": [
+    "町田泽维亚"
+  ],
+  "Ventforet Kofu": [
+    "甲府风林"
+  ],
+  "Kyoto Sanga": [
+    "京都不死鸟"
+  ],
+  "Matsumoto Yamaga": [
+    "松本山雅"
+  ],
+  "Gifu": [
+    "岐阜FC"
+  ],
+  "Jeonbuk Hyundai Motors": [
+    "全北现代",
+    "全北"
+  ],
+  "Ulsan Hyundai": [
+    "蔚山现代",
+    "蔚山"
+  ],
+  "Ulsan HD": [
+    "蔚山HD"
+  ],
+  "FC Seoul": [
+    "首尔FC",
+    "首尔"
+  ],
+  "Seoul": [
+    "首尔FC"
+  ],
+  "Pohang Steelers": [
+    "浦项制铁",
+    "浦项"
+  ],
+  "Suwon Samsung Bluewings": [
+    "水原三星蓝翼",
+    "水原三星"
+  ],
+  "Incheon United": [
+    "仁川联"
+  ],
+  "Daegu FC": [
+    "大邱FC"
+  ],
+  "Gangwon FC": [
+    "江原FC"
+  ],
+  "Gangwon": [
+    "江原FC"
+  ],
+  "Seongnam FC": [
+    "城南FC"
+  ],
+  "Seongnam": [
+    "城南FC"
+  ],
+  "Gwangju FC": [
+    "光州FC"
+  ],
+  "Gwangju": [
+    "光州FC"
+  ],
+  "Daejeon Hana Citizen": [
+    "大田韩亚市民"
+  ],
+  "Daejeon Citizen": [
+    "大田市民"
+  ],
+  "Jeju United": [
+    "济州联"
+  ],
+  "Busan IPark": [
+    "釜山IPark"
+  ],
+  "Busan": [
+    "釜山IPark"
+  ],
+  "Suwon FC": [
+    "水原FC"
+  ],
+  "FC Anyang": [
+    "安养FC"
+  ],
+  "Gimcheon Sangmu": [
+    "金泉尚武"
+  ],
+  "Asan Mugunghwa": [
+    "牙山木槿花"
+  ],
+  "Ansan Greeners": [
+    "安山绿人"
+  ],
+  "Seoul E-Land": [
+    "首尔衣恋"
+  ],
+  "Daejeon Korail": [
+    "大田铁路"
+  ],
+  "Flamengo": [
+    "弗拉门戈",
+    "弗拉门戈CR"
+  ],
+  "Palmeiras": [
+    "帕尔梅拉斯",
+    "帕梅拉斯"
+  ],
+  "São Paulo": [
+    "圣保罗"
+  ],
+  "Santos": [
+    "桑托斯"
+  ],
+  "Corinthians": [
+    "科林蒂安",
+    "科林蒂安斯"
+  ],
+  "Grêmio": [
+    "格雷米奥",
+    "格雷米奥FBPA"
+  ],
+  "Internacional": [
+    "国际",
+    "国际体育"
+  ],
+  "Fluminense": [
+    "弗鲁米嫩塞",
+    "弗鲁米嫩塞FC"
+  ],
+  "Atlético Mineiro": [
+    "米内罗竞技",
+    "米内罗"
+  ],
+  "Athletico Paranaense": [
+    "帕拉纳竞技"
+  ],
+  "Atlético Paranaense": [
+    "帕拉纳竞技"
+  ],
+  "Botafogo": [
+    "博塔弗戈",
+    "博塔弗戈FR"
+  ],
+  "Cruzeiro": [
+    "克鲁塞罗",
+    "克鲁塞罗EC"
+  ],
+  "Vasco da Gama": [
+    "瓦斯科达伽马",
+    "达伽马"
+  ],
+  "Bahia": [
+    "巴伊亚"
+  ],
+  "Fortaleza": [
+    "福塔莱萨"
+  ],
+  "Coritiba": [
+    "科里蒂巴"
+  ],
+  "Avaí": [
+    "阿瓦伊"
+  ],
+  "Cuiabá": [
+    "库亚巴"
+  ],
+  "Red Bull Bragantino": [
+    "布拉甘蒂诺红牛"
+  ],
+  "América Mineiro": [
+    "米内罗美洲"
+  ],
+  "América": [
+    "墨西哥美洲",
+    "美洲"
+  ],
+  "Juventude": [
+    "尤文图德"
+  ],
+  "Vitória": [
+    "维多利亚"
+  ],
+  "Guarani": [
+    "瓜拉尼"
+  ],
+  "Figueirense": [
+    "菲格伦塞"
+  ],
+  "Remo": [
+    "雷莫"
+  ],
+  "Vila Nova": [
+    "维拉诺瓦"
+  ],
+  "Ituano": [
+    "伊图阿诺"
+  ],
+  "Desportivo Brasil": [
+    "巴西体育"
+  ],
+  "Guaratinguetá": [
+    "瓜拉廷格塔"
+  ],
+  "Tupynambás": [
+    "图皮南巴斯"
+  ],
+  "PFC Cajazeiras": [
+    "卡雅泽拉斯"
+  ],
+  "Jacuipense": [
+    "雅库伊彭斯"
+  ],
+  "Botafogo-SP": [
+    "里贝朗普雷图博塔弗戈"
+  ],
+  "Olé Brasil": [
+    "巴西石油"
+  ],
+  "Sergipe": [
+    "塞尔希培"
+  ],
+  "Náutico": [
+    "纳乌蒂科"
+  ],
+  "São Caetano": [
+    "圣卡埃塔诺"
+  ],
+  "Portuguesa": [
+    "葡萄牙人"
+  ],
+  "Portuguesa Santista": [
+    "桑托斯葡萄牙人"
+  ],
+  "Grémio Nhagar": [
+    "尼亚加尔格雷米奥"
+  ],
+  "Audax Rio": [
+    "里约审计"
+  ],
+  "Audax": [
+    "审计"
+  ],
+  "Boca Juniors": [
+    "博卡青年",
+    "博卡"
+  ],
+  "River Plate": [
+    "河床",
+    "河床竞技"
+  ],
+  "Racing Club": [
+    "竞赛俱乐部",
+    "竞赛"
+  ],
+  "Independiente": [
+    "独立",
+    "独立竞技"
+  ],
+  "San Lorenzo": [
+    "圣洛伦索",
+    "圣洛伦索竞技"
+  ],
+  "San Lorenzo de Almagro": [
+    "圣洛伦索"
+  ],
+  "Vélez Sarsfield": [
+    "萨斯菲尔德",
+    "萨斯菲尔德竞技"
+  ],
+  "Estudiantes": [
+    "拉普拉塔大学生",
+    "大学生"
+  ],
+  "Newell's Old Boys": [
+    "纽维尔老男孩"
+  ],
+  "Rosario Central": [
+    "罗萨里奥中央",
+    "罗萨里奥"
+  ],
+  "Argentinos Juniors": [
+    "阿根廷青年人",
+    "青年人"
+  ],
+  "Huracán": [
+    "飓风"
+  ],
+  "Lanús": [
+    "拉努斯"
+  ],
+  "Banfield": [
+    "班菲尔德"
+  ],
+  "Talleres": [
+    "塔列雷斯"
+  ],
+  "Godoy Cruz": [
+    "戈多伊克鲁斯"
+  ],
+  "Defensa y Justicia": [
+    "国防与司法",
+    "防卫正义"
+  ],
+  "Unión Santa Fe": [
+    "圣菲联合"
+  ],
+  "Unión": [
+    "圣菲联合"
+  ],
+  "Gimnasia La Plata": [
+    "拉普拉塔体操"
+  ],
+  "Gimnasia LP": [
+    "拉普拉塔体操"
+  ],
+  "Patronato": [
+    "帕托纳托"
+  ],
+  "Tigre": [
+    "老虎"
+  ],
+  "Belgrano": [
+    "贝尔格拉诺"
+  ],
+  "Nueva Chicago": [
+    "新芝加哥"
+  ],
+  "Nuevo Chicago": [
+    "新芝加哥"
+  ],
+  "Quilmes": [
+    "基尔梅斯"
+  ],
+  "Gimasia La Plata": [
+    "拉普拉塔体操"
+  ],
+  "Defensores de Cambaceres": [
+    "坎巴塞雷斯防卫者"
+  ],
+  "Liniers": [
+    "利涅尔斯"
+  ],
+  "Peñarol": [
+    "佩纳罗尔"
+  ],
+  "Danubio": [
+    "多瑙河"
+  ],
+  "Defensor Sporting": [
+    "防卫者体育"
+  ],
+  "Defensor": [
+    "防卫者"
+  ],
+  "Montevideo Wanderers": [
+    "蒙得维的亚流浪者"
+  ],
+  "Liverpool Montevideo": [
+    "蒙得维的亚利物浦"
+  ],
+  "Cerro Porteño": [
+    "塞罗波尔特尼奥"
+  ],
+  "River Plate Montevideo": [
+    "蒙得维的亚河床"
+  ],
+  "Rentistas": [
+    "租借者"
+  ],
+  "Boston River": [
+    "波士顿河"
+  ],
+  "El Tanque Sisley": [
+    "坦克西斯利"
+  ],
+  "Atenas": [
+    "阿特纳斯"
+  ],
+  "Juventud": [
+    "青年"
+  ],
+  "Fénix": [
+    "凤凰"
+  ],
+  "Libertad": [
+    "自由"
+  ],
+  "Guaraní": [
+    "瓜拉尼"
+  ],
+  "Sol de América": [
+    "美洲太阳"
+  ],
+  "Sportivo Luqueño": [
+    "卢克尼奥体育"
+  ],
+  "Deportivo Capiatá": [
+    "卡皮亚塔体育"
+  ],
+  "General Díaz": [
+    "迪亚斯将军"
+  ],
+  "Sportivo Ameliano": [
+    "阿梅利亚诺体育"
+  ],
+  "Resistencia": [
+    "抵抗"
+  ],
+  "River Plate-PY": [
+    "巴拉圭河床"
+  ],
+  "Nacional Asunción": [
+    "亚松森国民"
+  ],
+  "Alianza Lima": [
+    "利马联盟"
+  ],
+  "Universitario": [
+    "大学体育"
+  ],
+  "Cienciano": [
+    "科学"
+  ],
+  "Cusco FC": [
+    "库斯科FC"
+  ],
+  "Always Ready": [
+    "时刻准备"
+  ],
+  "LDU Quito": [
+    "基多大学体育",
+    "基多LDU"
+  ],
+  "L.D.U. Quito": [
+    "基多大学体育",
+    "基多LDU"
+  ],
+  "Barcelona S.C": [
+    "巴塞罗那SC"
+  ],
+  "Emelec": [
+    "埃梅莱克"
+  ],
+  "Independiente del Valle": [
+    "山谷独立",
+    "独立山谷"
+  ],
+  "Independiente DV": [
+    "山谷独立",
+    "独立山谷"
+  ],
+  "El Nacional": [
+    "国民"
+  ],
+  "Aucas": [
+    "奥卡斯"
+  ],
+  "Mushuc Runa": [
+    "穆舒克鲁纳"
+  ],
+  "9 de Octubre": [
+    "十月九日"
+  ],
+  "Guayaquil City": [
+    "瓜亚基尔城"
+  ],
+  "América de Quito": [
+    "基多美洲"
+  ],
+  "LDU Portoviejo": [
+    "波托维耶霍大学体育"
+  ],
+  "Universidad de Chile": [
+    "智利大学"
+  ],
+  "Coquimbo Unido": [
+    "科金博联"
+  ],
+  "Deportes Concepción": [
+    "康塞普西翁体育"
+  ],
+  "Deportes Melipilla": [
+    "梅利皮亚体育"
+  ],
+  "Unión Española": [
+    "西班牙联合"
+  ],
+  "Magallanes": [
+    "麦哲伦"
+  ],
+  "Santiago Morning": [
+    "圣地亚哥早晨"
+  ],
+  "Cobresal": [
+    "科布雷萨尔"
+  ],
+  "Cerro Porteño PF": [
+    "塞罗波尔特尼奥PF"
+  ],
+  "Atlético Nacional": [
+    "国民竞技",
+    "麦德林国民"
+  ],
+  "Independiente Medellín": [
+    "麦德林独立"
+  ],
+  "Deportivo Cali": [
+    "卡利体育"
+  ],
+  "América de Cali": [
+    "卡利美洲"
+  ],
+  "Millonarios": [
+    "百万富翁",
+    "百万富翁FC"
+  ],
+  "Santa Fe": [
+    "圣菲独立"
+  ],
+  "Atlético Junior": [
+    "巴兰基亚青年"
+  ],
+  "Deportes Tolima": [
+    "托利马体育"
+  ],
+  "Envigado": [
+    "恩维加多"
+  ],
+  "La Equidad": [
+    "拉埃基达德"
+  ],
+  "Deportivo Pasto": [
+    "帕斯托体育"
+  ],
+  "Atlético Huila": [
+    "乌伊拉竞技"
+  ],
+  "Deportivo Pereira": [
+    "佩雷拉体育"
+  ],
+  "Cúcuta Deportivo": [
+    "库库塔体育"
+  ],
+  "Patriotas": [
+    "帕特里奥塔斯"
+  ],
+  "Rionegro Águilas": [
+    "里奥内格罗老鹰"
+  ],
+  "Águilas Doradas": [
+    "金鹰"
+  ],
+  "Boca Juniors Cali": [
+    "卡利博卡青年"
+  ],
+  "Atlético Venezuela": [
+    "委内瑞拉竞技"
+  ],
+  "Deportivo Táchira": [
+    "塔奇拉体育"
+  ],
+  "Carabobo": [
+    "卡拉沃沃"
+  ],
+  "Monagas": [
+    "莫纳加斯"
+  ],
+  "Deportivo La Guaira": [
+    "拉瓜伊拉体育"
+  ],
+  "Zamora": [
+    "萨莫拉"
+  ],
+  "Mineros": [
+    "矿工"
+  ],
+  "Puerto Cabello": [
+    "卡贝略港"
+  ],
+  "Leones": [
+    "狮子"
+  ],
+  "Club América": [
+    "墨西哥美洲",
+    "美洲"
+  ],
+  "America": [
+    "墨西哥美洲"
+  ],
+  "Guadalajara": [
+    "瓜达拉哈拉",
+    "芝华士"
+  ],
+  "Cruz Azul": [
+    "蓝十字",
+    "水泥十字"
+  ],
+  "UNAM": [
+    "美洲狮",
+    "墨西哥国立大学"
+  ],
+  "Monterrey": [
+    "蒙特雷"
+  ],
+  "Tigres UANL": [
+    "新莱昂老虎",
+    "老虎"
+  ],
+  "UANL": [
+    "老虎"
+  ],
+  "Santos Laguna": [
+    "桑托斯拉古纳"
+  ],
+  "Pachuca": [
+    "帕丘卡"
+  ],
+  "Toluca": [
+    "托卢卡"
+  ],
+  "León": [
+    "莱昂"
+  ],
+  "Necaxa": [
+    "内卡萨"
+  ],
+  "Puebla": [
+    "普埃布拉"
+  ],
+  "Atlas": [
+    "阿特拉斯"
+  ],
+  "Morelia": [
+    "莫雷利亚"
+  ],
+  "Mazatlán": [
+    "马萨特兰"
+  ],
+  "Querétaro": [
+    "克雷塔罗"
+  ],
+  "Atlético San Luis": [
+    "圣路易斯竞技"
+  ],
+  "Tijuana": [
+    "蒂华纳"
+  ],
+  "BUAP": [
+    "BUAP"
+  ],
+  "Dorados": [
+    "多拉多斯"
+  ],
+  "Celaya": [
+    "塞拉亚"
+  ],
+  "Tapatío": [
+    "塔帕蒂奥"
+  ],
+  "Cafetaleros": [
+    "咖啡农"
+  ],
+  "Coras": [
+    "科拉斯"
+  ],
+  "Venados": [
+    "韦纳多斯"
+  ],
+  "Zacatepec": [
+    "萨卡特佩克"
+  ],
+  "Zacatecas": [
+    "萨卡特卡斯"
+  ],
+  "Real Aguascalientes": [
+    "皇家阿瓜斯卡连特斯"
+  ],
+  "Sonora": [
+    "索诺拉"
+  ],
+  "Querétaro Premier": [
+    "克雷塔罗预备队"
+  ],
+  "Tigrillos Coapa": [
+    "科阿帕小虎"
+  ],
+  "Comunicaciones": [
+    "通信"
+  ],
+  "Municipal": [
+    "市政"
+  ],
+  "Olimpia": [
+    "奥林匹亚"
+  ],
+  "Marathón": [
+    "马拉松"
+  ],
+  "Deportivo Saprissa": [
+    "萨普里萨"
+  ],
+  "Plaza Amador": [
+    "阿马多尔广场"
+  ],
+  "Tauro": [
+    "公牛"
+  ],
+  "Sporting San Miguelito": [
+    "圣米格利托体育"
+  ],
+  "Independiente de La Chorrera": [
+    "乔雷拉独立"
+  ],
+  "Costa del Este": [
+    "东海岸"
+  ],
+  "San Miguelito": [
+    "圣米格利托"
+  ],
+  "Potros del Este": [
+    "东方小马"
+  ],
+  "Río Abajo": [
+    "里奥阿巴霍"
+  ],
+  "Plaza Colonia": [
+    "科洛尼亚广场"
+  ],
+  "Universitario Popayán": [
+    "波帕扬大学"
+  ],
+  "Atlético Veragüense": [
+    "贝拉瓜斯竞技"
+  ],
+  "Llaneros": [
+    "平原人"
+  ],
+  "Chepo": [
+    "切波"
+  ],
+  "Chorillo": [
+    "乔里略"
+  ],
+  "Chorrillo": [
+    "乔里略"
+  ],
+  "San Carlos": [
+    "圣卡洛斯"
+  ],
+  "Alianza Cotopaxi": [
+    "科托帕希联盟"
+  ],
+  "Imbabura": [
+    "因巴布拉"
+  ],
+  "Cavalry FC": [
+    "骑兵FC"
+  ],
+  "LA Galaxy": [
+    "洛杉矶银河",
+    "银河"
+  ],
+  "LAFC": [
+    "洛杉矶FC"
+  ],
+  "Los Angeles FC": [
+    "洛杉矶FC"
+  ],
+  "Inter Miami": [
+    "迈阿密国际",
+    "国际迈阿密"
+  ],
+  "Atlanta United": [
+    "亚特兰大联",
+    "亚特兰大"
+  ],
+  "Atlanta United FC": [
+    "亚特兰大联"
+  ],
+  "Seattle Sounders FC": [
+    "西雅图海湾人",
+    "西雅图音浪"
+  ],
+  "Portland Timbers": [
+    "波特兰伐木工",
+    "波特兰木材"
+  ],
+  "New York Red Bulls": [
+    "纽约红牛",
+    "红牛"
+  ],
+  "New York City FC": [
+    "纽约城",
+    "NYCFC"
+  ],
+  "Columbus Crew": [
+    "哥伦布机员",
+    "哥伦布"
+  ],
+  "FC Cincinnati": [
+    "辛辛那提FC"
+  ],
+  "Philadelphia Union": [
+    "费城联合",
+    "费城联盟"
+  ],
+  "Toronto FC": [
+    "多伦多FC",
+    "TFC"
+  ],
+  "CF Montréal": [
+    "蒙特利尔CF"
+  ],
+  "Montreal Impact": [
+    "蒙特利尔冲击"
+  ],
+  "Vancouver Whitecaps": [
+    "温哥华白浪",
+    "白浪"
+  ],
+  "Vancouver Whitecaps FC": [
+    "温哥华白浪"
+  ],
+  "Houston Dynamo": [
+    "休斯敦迪纳摩",
+    "休斯顿发电机"
+  ],
+  "FC Dallas": [
+    "达拉斯FC",
+    "达拉斯"
+  ],
+  "Real Salt Lake": [
+    "皇家盐湖城",
+    "盐湖城"
+  ],
+  "Colorado Rapids": [
+    "科罗拉多急流",
+    "急流"
+  ],
+  "San Jose Earthquakes": [
+    "圣何塞地震",
+    "地震"
+  ],
+  "Minnesota United": [
+    "明尼苏达联",
+    "明尼苏达"
+  ],
+  "Minnesota United FC": [
+    "明尼苏达联"
+  ],
+  "Orlando City": [
+    "奥兰多城",
+    "奥兰多"
+  ],
+  "Orlando City SC": [
+    "奥兰多城"
+  ],
+  "Nashville SC": [
+    "纳什维尔SC"
+  ],
+  "Nashville": [
+    "纳什维尔SC"
+  ],
+  "Charlotte FC": [
+    "夏洛特FC",
+    "夏洛特"
+  ],
+  "Austin FC": [
+    "奥斯汀FC",
+    "奥斯汀"
+  ],
+  "Chicago Fire": [
+    "芝加哥火焰",
+    "火焰"
+  ],
+  "Chicago Fire FC": [
+    "芝加哥火焰"
+  ],
+  "D.C. United": [
+    "华盛顿联",
+    "华盛顿"
+  ],
+  "New England Revolution": [
+    "新英格兰革命",
+    "革命"
+  ],
+  "Sporting Kansas City": [
+    "堪萨斯城体育",
+    "堪萨斯城"
+  ],
+  "FC Tulsa": [
+    "塔尔萨FC"
+  ],
+  "San Antonio FC": [
+    "圣安东尼奥FC"
+  ],
+  "San Diego FC": [
+    "圣迭戈FC"
+  ],
+  "El Paso Locomotive FC": [
+    "埃尔帕索机车"
+  ],
+  "Sacramento Republic": [
+    "萨克拉门托共和"
+  ],
+  "Phoenix Rising": [
+    "凤凰城崛起"
+  ],
+  "Las Vegas Lights": [
+    "拉斯维加斯之光"
+  ],
+  "Colorado Springs Switchbacks": [
+    "科罗拉多斯普林斯折返"
+  ],
+  "Orange County SC": [
+    "橙县SC"
+  ],
+  "Charleston Battery": [
+    "查尔斯顿炮台"
+  ],
+  "Pittsburgh Riverhounds": [
+    "匹兹堡河猎犬"
+  ],
+  "Indy Eleven": [
+    "印地十一"
+  ],
+  "New Mexico United": [
+    "新墨西哥联"
+  ],
+  "Jacksonville Armada": [
+    "杰克逊维尔舰队"
+  ],
+  "Forward Madison": [
+    "前进麦迪逊"
+  ],
+  "Richmond Kickers": [
+    "里士满踢球者"
+  ],
+  "Red Bulls": [
+    "纽约红牛"
+  ],
+  "Whitecaps FC": [
+    "温哥华白浪"
+  ],
+  "Swope Park Rangers": [
+    "斯沃普公园流浪者"
+  ],
+  "North Texas SC": [
+    "北德克萨斯SC"
+  ],
+  "Tacoma Defiance": [
+    "塔科马挑战"
+  ],
+  "Charlotte Independence": [
+    "夏洛特独立"
+  ],
+  "Reno 1868": [
+    "里诺1868"
+  ],
+  "Bethlehem Steel": [
+    "伯利恒钢铁"
+  ],
+  "Bethlehem Steel FC": [
+    "伯利恒钢铁"
+  ],
+  "New York Cosmos": [
+    "纽约宇宙"
+  ],
+  "Orlando City B": [
+    "奥兰多城B队"
+  ],
+  "Chicago Fire Premier": [
+    "芝加哥火焰预备队"
+  ],
+  "Sydney FC": [
+    "悉尼FC",
+    "悉尼"
+  ],
+  "Melbourne Victory": [
+    "墨尔本胜利",
+    "胜利"
+  ],
+  "Melbourne City": [
+    "墨尔本城",
+    "墨尔本城FC"
+  ],
+  "Melbourne City FC": [
+    "墨尔本城"
+  ],
+  "Brisbane Roar": [
+    "布里斯班狮吼",
+    "狮吼"
+  ],
+  "Adelaide United": [
+    "阿德莱德联"
+  ],
+  "Perth Glory": [
+    "珀斯光荣"
+  ],
+  "Western Sydney Wanderers": [
+    "西悉尼流浪者",
+    "西悉尼"
+  ],
+  "Central Coast Mariners": [
+    "中央海岸水手"
+  ],
+  "Newcastle Jets": [
+    "纽卡斯尔喷气机"
+  ],
+  "Wellington Phoenix": [
+    "惠灵顿凤凰"
+  ],
+  "Macarthur FC": [
+    "麦克阿瑟FC"
+  ],
+  "Macarthur": [
+    "麦克阿瑟FC"
+  ],
+  "Auckland FC": [
+    "奥克兰FC"
+  ],
+  "Auckland City": [
+    "奥克兰城"
+  ],
+  "Melbourne Heart": [
+    "墨尔本之心"
+  ],
+  "Team Wellington": [
+    "惠灵顿队"
+  ],
+  "Waitakere United": [
+    "怀塔克雷联"
+  ],
+  "Al Hilal": [
+    "利雅得新月",
+    "希拉尔"
+  ],
+  "Al-Hilal": [
+    "利雅得新月",
+    "希拉尔"
+  ],
+  "Al Nassr": [
+    "利雅得胜利",
+    "纳赛尔"
+  ],
+  "Al-Nassr": [
+    "利雅得胜利",
+    "纳赛尔"
+  ],
+  "Al Ittihad": [
+    "吉达联合",
+    "联合"
+  ],
+  "Al-Ittihad": [
+    "吉达联合",
+    "联合"
+  ],
+  "Ittihad": [
+    "吉达联合"
+  ],
+  "Al Ahli": [
+    "吉达国民",
+    "阿赫利"
+  ],
+  "Al-Ahli": [
+    "吉达国民",
+    "阿赫利"
+  ],
+  "Al-Ettifaq": [
+    "达曼协作"
+  ],
+  "Al-Shabab": [
+    "利雅得青年"
+  ],
+  "Al-Fateh": [
+    "法特赫"
+  ],
+  "Al Taawoun": [
+    "布赖代协作"
+  ],
+  "Al-Taawoun": [
+    "布赖代协作"
+  ],
+  "Al Fayha": [
+    "费哈"
+  ],
+  "Al-Fayha": [
+    "费哈"
+  ],
+  "Al-Khaleej": [
+    "哈列杰"
+  ],
+  "Al-Raed": [
+    "拉伊德"
+  ],
+  "Al-Hazem": [
+    "哈兹姆"
+  ],
+  "Al-Riyadh": [
+    "利雅得"
+  ],
+  "Al-Tai": [
+    "塔伊"
+  ],
+  "Al Wehda": [
+    "麦加统一"
+  ],
+  "Al-Wehda": [
+    "麦加统一"
+  ],
+  "Al Qadsiah": [
+    "胡拜尔库迪西亚"
+  ],
+  "Al-Qadsiah": [
+    "胡拜尔库迪西亚"
+  ],
+  "Abha": [
+    "阿卜哈"
+  ],
+  "Najran": [
+    "纳季兰"
+  ],
+  "Al Bataeh": [
+    "巴塔"
+  ],
+  "Al Jandal": [
+    "扬达尔"
+  ],
+  "Al-Jandal": [
+    "扬达尔"
+  ],
+  "Al Ain": [
+    "阿尔艾因",
+    "艾因"
+  ],
+  "Al-Ain": [
+    "阿尔艾因"
+  ],
+  "Al-Ain FC": [
+    "阿尔艾因"
+  ],
+  "Al Wahda": [
+    "阿尔瓦赫达"
+  ],
+  "Al Jazira": [
+    "阿尔贾兹拉"
+  ],
+  "Al-Jazira": [
+    "阿尔贾兹拉"
+  ],
+  "Sharjah": [
+    "沙迦"
+  ],
+  "Shabab Al Ahli": [
+    "迪拜青年国民"
+  ],
+  "Shabab Al-Ahli": [
+    "迪拜青年国民"
+  ],
+  "Baniyas": [
+    "巴尼亚斯"
+  ],
+  "Kalba": [
+    "卡尔巴"
+  ],
+  "Kalba FC": [
+    "卡尔巴"
+  ],
+  "Khor Fakkan": [
+    "豪尔费坎"
+  ],
+  "Dibba": [
+    "迪巴"
+  ],
+  "Emirates": [
+    "酋长国"
+  ],
+  "Hatta": [
+    "哈塔"
+  ],
+  "Al Dhafra": [
+    "阿尔达夫拉"
+  ],
+  "Al-Dhafra": [
+    "阿尔达夫拉"
+  ],
+  "Al Duhail": [
+    "杜海勒"
+  ],
+  "Al-Duhail": [
+    "杜海勒"
+  ],
+  "Al-Duhail SC": [
+    "杜海勒"
+  ],
+  "Al Sadd": [
+    "萨德",
+    "阿尔萨德"
+  ],
+  "Al-Sadd": [
+    "萨德"
+  ],
+  "Al Rayyan": [
+    "赖扬"
+  ],
+  "Al-Rayyan": [
+    "赖扬"
+  ],
+  "Al-Gharafa": [
+    "加拉法"
+  ],
+  "Al Arabi": [
+    "阿拉比"
+  ],
+  "Al-Arabi": [
+    "阿拉比"
+  ],
+  "Al Sailiya": [
+    "赛利亚"
+  ],
+  "Al-Sailiya": [
+    "赛利亚"
+  ],
+  "Al-Wakrah": [
+    "沃克拉"
+  ],
+  "Al Shahania": [
+    "沙哈尼亚"
+  ],
+  "Al-Shahania": [
+    "沙哈尼亚"
+  ],
+  "Umm Salal": [
+    "乌姆萨拉尔"
+  ],
+  "Al Markhiya": [
+    "马尔基亚"
+  ],
+  "Al-Markhiya": [
+    "马尔基亚"
+  ],
+  "Mesaimeer": [
+    "梅赛米尔"
+  ],
+  "Muaither": [
+    "穆艾泽尔"
+  ],
+  "Al Muharraq": [
+    "穆哈拉格"
+  ],
+  "Al-Muharraq": [
+    "穆哈拉格"
+  ],
+  "Al Nasr": [
+    "迪拜纳斯尔"
+  ],
+  "Al-Nasr": [
+    "迪拜纳斯尔"
+  ],
+  "Al-Nasr SC": [
+    "迪拜纳斯尔"
+  ],
+  "Riyadh": [
+    "利雅得"
+  ],
+  "Jeddah": [
+    "吉达"
+  ],
+  "Neom": [
+    "新未来城"
+  ],
+  "Al-Ula": [
+    "欧拉"
+  ],
+  "Al Faisaly": [
+    "安曼费萨里"
+  ],
+  "Al-Faisaly": [
+    "安曼费萨里"
+  ],
+  "Al Wehdat": [
+    "安曼团结"
+  ],
+  "Al-Wehdat": [
+    "安曼团结"
+  ],
+  "Al-Ramtha": [
+    "拉姆萨"
+  ],
+  "Al-Salt": [
+    "萨尔特"
+  ],
+  "Al-Hussein": [
+    "侯赛因"
+  ],
+  "Sahab": [
+    "萨哈布"
+  ],
+  "Al-Sareeh": [
+    "萨里赫"
+  ],
+  "Al-Baqa'a": [
+    "布卡"
+  ],
+  "Ittihad Al-Ramtha": [
+    "拉姆萨联合"
+  ],
+  "Ittihad Al-Zarqa": [
+    "扎尔卡联合"
+  ],
+  "That Ras": [
+    "扎特拉斯"
+  ],
+  "Al-Sheikh Hussein": [
+    "侯赛因谢赫"
+  ],
+  "Shabab Al-Ordon": [
+    "约旦青年"
+  ],
+  "Shabab Al-Aqaba": [
+    "亚喀巴青年"
+  ],
+  "Al Quwa Al Jawiya": [
+    "空军"
+  ],
+  "Al-Quwa Al-Jawiya": [
+    "空军"
+  ],
+  "Al Shorta": [
+    "警察"
+  ],
+  "Al-Shorta": [
+    "警察"
+  ],
+  "Al Talaba SC": [
+    "大学生"
+  ],
+  "Al-Talaba": [
+    "大学生"
+  ],
+  "Al-Zawraa": [
+    "祖拉"
+  ],
+  "Erbil": [
+    "埃尔比勒"
+  ],
+  "Erbil SC": [
+    "埃尔比勒"
+  ],
+  "Duhok": [
+    "杜胡克"
+  ],
+  "Al-Karkh": [
+    "卡尔赫"
+  ],
+  "Al-Naft": [
+    "石油"
+  ],
+  "Naft Al-Wasat": [
+    "中部石油"
+  ],
+  "Al-Najaf": [
+    "纳杰夫"
+  ],
+  "Al-Najaf FC": [
+    "纳杰夫"
+  ],
+  "Amanat Baghdad": [
+    "巴格达信托"
+  ],
+  "Baghdad FC": [
+    "巴格达FC"
+  ],
+  "Zakho": [
+    "扎科"
+  ],
+  "Karbala": [
+    "卡尔巴拉"
+  ],
+  "Diyala": [
+    "迪亚拉"
+  ],
+  "Salahaddin": [
+    "萨拉赫丁"
+  ],
+  "Al-Kahrabaa": [
+    "电力"
+  ],
+  "Al-Sinaa": [
+    "工业"
+  ],
+  "Al-Karma": [
+    "卡尔马"
+  ],
+  "Al-Kawkab": [
+    "科卡布"
+  ],
+  "Al-Jabalain": [
+    "贾巴莱因"
+  ],
+  "Al-Jazeera": [
+    "贾兹拉"
+  ],
+  "Al-Mesaimeer": [
+    "梅赛米尔"
+  ],
+  "Al-Minaa": [
+    "米纳"
+  ],
+  "Al-Mokawloon": [
+    "阿拉伯建筑商"
+  ],
+  "Al-Muheet": [
+    "穆希特"
+  ],
+  "Al-Najma": [
+    "纳杰马"
+  ],
+  "Al-Oloom wal-Technologia": [
+    "科技"
+  ],
+  "Al-Qasim": [
+    "卡西姆"
+  ],
+  "Al-Shamal": [
+    "北方"
+  ],
+  "Al-Taji": [
+    "塔吉"
+  ],
+  "Al-Taraji": [
+    "塔拉吉"
+  ],
+  "Al-Khaldiya": [
+    "哈尔迪亚"
+  ],
+  "Al-Khor": [
+    "豪尔"
+  ],
+  "Shurtan Guzar": [
+    "古扎尔警长"
+  ],
+  "Qadsia": [
+    "科威特卡迪西亚"
+  ],
+  "Kazma": [
+    "卡兹马"
+  ],
+  "Hidd": [
+    "哈德"
+  ],
+  "Al-Alam": [
+    "阿拉姆"
+  ],
+  "Al-Iskan": [
+    "伊斯坎"
+  ],
+  "Ghaz Al-Shamal": [
+    "北方天然气"
+  ],
+  "Lekhwiya": [
+    "莱赫维亚"
+  ],
+  "El Jaish": [
+    "军队"
+  ],
+  "Al Ahly": [
+    "开罗国民",
+    "阿赫利"
+  ],
+  "Al Ahly SC": [
+    "开罗国民"
+  ],
+  "Zamalek": [
+    "扎马莱克",
+    "扎马雷克"
+  ],
+  "Zamalek SC": [
+    "扎马莱克"
+  ],
+  "Pyramids": [
+    "金字塔",
+    "金字塔FC"
+  ],
+  "Pyramids FC": [
+    "金字塔"
+  ],
+  "Ismaily": [
+    "伊斯梅利"
+  ],
+  "Al Mokawloon Al Arab": [
+    "阿拉伯建筑商"
+  ],
+  "ENPPI": [
+    "恩比"
+  ],
+  "Enppi": [
+    "恩比"
+  ],
+  "Smouha": [
+    "斯穆哈"
+  ],
+  "El Gouna": [
+    "埃尔古纳"
+  ],
+  "Petrojet": [
+    "佩特罗捷特"
+  ],
+  "Wadi Degla": [
+    "瓦迪格拉"
+  ],
+  "Aswan": [
+    "阿斯旺"
+  ],
+  "Ghazl El Mahalla": [
+    "马哈拉纺织"
+  ],
+  "Baladiyat El Mahalla": [
+    "马哈拉市政"
+  ],
+  "Future": [
+    "未来"
+  ],
+  "Modern Future FC": [
+    "现代未来"
+  ],
+  "ZED FC": [
+    "ZED"
+  ],
+  "ZED": [
+    "ZED"
+  ],
+  "Espérance de Tunis": [
+    "突尼斯希望"
+  ],
+  "Étoile du Sahel": [
+    "萨赫勒之星"
+  ],
+  "Étoile Sportive du Sahel": [
+    "萨赫勒之星"
+  ],
+  "ES Sahel": [
+    "萨赫勒之星"
+  ],
+  "Club Africain": [
+    "非洲人"
+  ],
+  "CS Sfaxien": [
+    "斯法克斯体育"
+  ],
+  "CS Hammam-Lif": [
+    "哈马姆利夫"
+  ],
+  "US Monastir": [
+    "莫纳斯提尔"
+  ],
+  "Monastir": [
+    "莫纳斯提尔"
+  ],
+  "Stade Tunisien": [
+    "突尼斯体育场"
+  ],
+  "CA Bizertin": [
+    "比塞大"
+  ],
+  "ES Métlaoui": [
+    "迈特拉维"
+  ],
+  "Wydad AC": [
+    "卡萨布兰卡维达德",
+    "维达德"
+  ],
+  "Wydad": [
+    "卡萨布兰卡维达德",
+    "维达德"
+  ],
+  "Wydad Casablanca": [
+    "卡萨布兰卡维达德"
+  ],
+  "Raja CA": [
+    "卡萨布兰卡Raja",
+    "拉贾"
+  ],
+  "FAR Rabat": [
+    "拉巴特武装力量"
+  ],
+  "RS Berkane": [
+    "贝尔坎复兴"
+  ],
+  "FUS Rabat": [
+    "拉巴特FUS"
+  ],
+  "Maghreb de Fès": [
+    "非斯马格里布"
+  ],
+  "MA Tétouan": [
+    "得土安马格里布"
+  ],
+  "IR Tanger": [
+    "丹吉尔联合"
+  ],
+  "USM Alger": [
+    "阿尔及尔联合"
+  ],
+  "ES Sétif": [
+    "塞蒂夫体育"
+  ],
+  "JS Kabylie": [
+    "卡比利亚青年"
+  ],
+  "USM Bel Abbès": [
+    "贝尔阿巴斯联合"
+  ],
+  "NA Hussein Dey": [
+    "侯赛因戴伊"
+  ],
+  "ASO Chlef": [
+    "谢里夫体育"
+  ],
+  "MC El Eulma": [
+    "欧勒马青年"
+  ],
+  "DRB Tadjenanet": [
+    "塔杰纳纳特"
+  ],
+  "AS Soliman": [
+    "索利曼体育"
+  ],
+  "CO Médenine": [
+    "梅德宁"
+  ],
+  "LPS Tozeur": [
+    "托泽尔"
+  ],
+  "JS Kairouan": [
+    "凯鲁万青年"
+  ],
+  "US Chantilly": [
+    "尚蒂伊"
+  ],
+  "CAI": [
+    "CAI"
+  ],
+  "Olympique Béja": [
+    "贝贾奥林匹克"
+  ],
+  "CS Don Bosco": [
+    "唐博斯科"
+  ],
+  "Hammam Sousse": [
+    "苏塞哈马姆"
+  ],
+  "Kaizer Chiefs": [
+    "凯泽酋长",
+    "酋长"
+  ],
+  "Orlando Pirates": [
+    "奥兰多海盗",
+    "海盗"
+  ],
+  "Mamelodi Sundowns": [
+    "马梅洛迪日落",
+    "日落"
+  ],
+  "SuperSport United": [
+    "超级体育联"
+  ],
+  "Bidvest Wits": [
+    "比德维斯特威茨"
+  ],
+  "AmaZulu": [
+    "阿马祖鲁"
+  ],
+  "Chippa United": [
+    "奇帕联"
+  ],
+  "Lamontville Golden Arrows": [
+    "金箭"
+  ],
+  "Golden Arrows": [
+    "金箭"
+  ],
+  "Cape Town City": [
+    "开普敦城"
+  ],
+  "Stellenbosch": [
+    "斯泰伦博斯"
+  ],
+  "Stellenbosch FC": [
+    "斯泰伦博斯"
+  ],
+  "Polokwane City": [
+    "波洛克瓦尼城"
+  ],
+  "Baroka": [
+    "巴洛卡"
+  ],
+  "Maritzburg United": [
+    "马里茨堡联"
+  ],
+  "Black Leopards": [
+    "黑豹"
+  ],
+  "Highlands Park": [
+    "高地公园"
+  ],
+  "Royal AM": [
+    "皇家AM"
+  ],
+  "TS Galaxy": [
+    "TS银河"
+  ],
+  "Bloemfontein Celtic": [
+    "布隆方丹凯尔特人"
+  ],
+  "Durban": [
+    "德班"
+  ],
+  "TS Galaxy F.C": [
+    "TS银河"
+  ],
+  "Polokwane City FC": [
+    "波洛克瓦尼城"
+  ],
+  "Mpumalanga Black Aces": [
+    "普马兰加黑鹰"
+  ],
+  "Bizana Pondo Chiefs": [
+    "比扎纳酋长"
+  ],
+  "Pretoria Callies": [
+    "比勒陀利亚卡利斯"
+  ],
+  "Sharpeville": [
+    "沙佩维尔"
+  ],
+  "Tembisa": [
+    "滕比萨"
+  ],
+  "Sheriff Tiraspol": [
+    "蒂拉斯波尔警长"
+  ],
+  "Astana": [
+    "阿斯塔纳"
+  ],
+  "Dinamo Tbilisi": [
+    "第比利斯迪纳摩"
+  ],
+  "Maribor": [
+    "马里博尔"
+  ],
+  "Omonia": [
+    "奥莫尼亚"
+  ],
+  "APOEL": [
+    "尼科西亚希腊人竞技"
+  ],
+  "AEK Larnaca": [
+    "拉纳卡AEK"
+  ],
+  "Apollon Limassol": [
+    "利马索尔阿波罗"
+  ],
+  "Aris Limassol": [
+    "利马索尔阿里斯"
+  ],
+  "AEL Limassol": [
+    "利马索尔AEL"
+  ],
+  "AEL": [
+    "利马索尔AEL"
+  ],
+  "Hapoel Tel Aviv": [
+    "特拉维夫工人"
+  ],
+  "Maccabi Tel Aviv": [
+    "特拉维夫马卡比"
+  ],
+  "Maccabi Haifa": [
+    "海法马卡比"
+  ],
+  "Maccabi Netanya": [
+    "内坦亚马卡比"
+  ],
+  "Ferencváros": [
+    "费伦茨瓦罗斯"
+  ],
+  "Videoton": [
+    "维迪奥顿"
+  ],
+  "Fehérvár": [
+    "费夏瓦尔"
+  ],
+  "Debrecen": [
+    "德布雷岑"
+  ],
+  "Puskás Akadémia": [
+    "普斯卡什学院"
+  ],
+  "Honvéd": [
+    "布达佩斯捍卫者"
+  ],
+  "Diósgyőr": [
+    "迪欧斯捷尔"
+  ],
+  "Slovan Bratislava": [
+    "布拉迪斯拉发斯洛万"
+  ],
+  "DAC Dunajská Streda": [
+    "多瑙斯特雷达"
+  ],
+  "Levski Sofia": [
+    "索菲亚列夫斯基"
+  ],
+  "CSKA Sofia": [
+    "索菲亚中央陆军"
+  ],
+  "Ludogorets Razgrad": [
+    "卢多戈雷茨"
+  ],
+  "Lokomotiv Plovdiv": [
+    "普罗夫迪夫火车头"
+  ],
+  "Arda Kardzhali": [
+    "克尔贾利阿尔达"
+  ],
+  "Hebar": [
+    "赫巴尔"
+  ],
+  "Tsarsko Selo": [
+    "沙皇村"
+  ],
+  "Energetik-BGU": [
+    "白俄罗斯国立大学能源"
+  ],
+  "Isloch Minsk Raion": [
+    "明斯克伊斯洛奇"
+  ],
+  "Zimbru Chișinău": [
+    "基希讷乌津布鲁"
+  ],
+  "Skënderbeu Korçë": [
+    "斯坎德培"
+  ],
+  "KuPS": [
+    "库奥皮奥"
+  ],
+  "SJK": [
+    "塞伊奈约基"
+  ],
+  "VPS": [
+    "瓦萨"
+  ],
+  "Paide": [
+    "派德"
+  ],
+  "Nõmme Kalju": [
+    "卡柳"
+  ],
+  "FK Auda": [
+    "奥达"
+  ],
+  "Pafos": [
+    "帕福斯"
+  ],
+  "Valletta": [
+    "瓦莱塔"
+  ],
+  "Dinamo Samarqand": [
+    "撒马尔罕迪纳摩"
+  ],
+  "Pakhtakor": [
+    "塔什干棉农"
+  ],
+  "Pakhtakor Tashkent": [
+    "塔什干棉农"
+  ],
+  "Bunyodkor": [
+    "本尤德科"
+  ],
+  "Lokomotiv Tashkent": [
+    "塔什干火车头"
+  ],
+  "Nasaf": [
+    "纳萨夫"
+  ],
+  "FC Nasaf": [
+    "纳萨夫"
+  ],
+  "AGMK": [
+    "阿尔马雷克"
+  ],
+  "Navbahor": [
+    "纳夫巴霍尔"
+  ],
+  "Navbahor Namangan": [
+    "纳夫巴霍尔"
+  ],
+  "Olympic Tashkent": [
+    "塔什干奥林匹克"
+  ],
+  "Qizilqum Zarafshon": [
+    "克孜勒库姆"
+  ],
+  "Surkhon": [
+    "苏尔汉"
+  ],
+  "Kokand": [
+    "浩罕"
+  ],
+  "Andijon": [
+    "安集延"
+  ],
+  "Neftchi Fergana": [
+    "费尔干纳石油工人"
+  ],
+  "Bukhara": [
+    "布哈拉"
+  ],
+  "Buxoro": [
+    "布哈拉"
+  ],
+  "Sementchi": [
+    "水泥工"
+  ],
+  "Jizzakh": [
+    "吉扎克"
+  ],
+  "Okzhetpes": [
+    "奥克捷佩斯"
+  ],
+  "Tobol": [
+    "托博尔"
+  ],
+  "Turan Tovuz": [
+    "图兰托武兹"
+  ],
+  "Aktobe": [
+    "阿克托比"
+  ],
+  "Persepolis": [
+    "波斯波利斯"
+  ],
+  "Esteghlal": [
+    "德黑兰独立"
+  ],
+  "Sepahan": [
+    "塞帕罕"
+  ],
+  "Zob Ahan": [
+    "佐巴罕"
+  ],
+  "Foolad": [
+    "胡齐斯坦钢铁"
+  ],
+  "Tractor": [
+    "拖拉机"
+  ],
+  "Gol Gohar": [
+    "戈尔戈哈尔"
+  ],
+  "Havadar": [
+    "哈瓦达尔"
+  ],
+  "Sanat Naft Abadan": [
+    "阿巴丹石油"
+  ],
+  "Sanat Naft Abadan F.C": [
+    "阿巴丹石油"
+  ],
+  "Naft Tehran": [
+    "德黑兰石油"
+  ],
+  "Paykan": [
+    "佩坎"
+  ],
+  "Mes Kerman": [
+    "克尔曼铜业"
+  ],
+  "Mes Rafsanjan": [
+    "拉夫桑詹铜业"
+  ],
+  "Malavan": [
+    "马勒万"
+  ],
+  "Nassaji": [
+    "纳萨吉"
+  ],
+  "Saipa": [
+    "赛帕"
+  ],
+  "Damash Gilan": [
+    "吉兰达马什"
+  ],
+  "Machine Sazi": [
+    "机器制造"
+  ],
+  "Rah Ahan": [
+    "拉赫阿汉"
+  ],
+  "Steel Azin": [
+    "钢铁阿津"
+  ],
+  "Shahin Bushehr": [
+    "布什尔沙欣"
+  ],
+  "Shahin Busheshr": [
+    "布什尔沙欣"
+  ],
+  "Shahin": [
+    "沙欣"
+  ],
+  "Bargh Shiraz": [
+    "设拉子电气"
+  ],
+  "Iranjavan": [
+    "伊朗青年"
+  ],
+  "Padideh": [
+    "帕迪德"
+  ],
+  "Sorkhpooshan": [
+    "红衣军"
+  ],
+  "Moghavemat Tehran": [
+    "德黑兰抵抗"
+  ],
+  "Damash Tehran": [
+    "德黑兰达马什"
+  ],
+  "Nirooye Zamini": [
+    "地面力量"
+  ],
+  "Shahrdari Bandar Anzali": [
+    "安扎利港市政"
+  ],
+  "Saba": [
+    "萨巴"
+  ],
+  "Saba Qom": [
+    "库姆萨巴"
+  ],
+  "Buriram United": [
+    "武里南联"
+  ],
+  "BG Pathum United": [
+    "巴吞联"
+  ],
+  "Port": [
+    "港口"
+  ],
+  "Ratchaburi Mitr Phol": [
+    "叻武里"
+  ],
+  "Kuala Lumpur FC": [
+    "吉隆坡FC"
+  ],
+  "Selangor": [
+    "雪兰莪"
+  ],
+  "Terengganu": [
+    "登嘉楼"
+  ],
+  "Kedah Darul Aman": [
+    "吉打"
+  ],
+  "Persib Bandung": [
+    "万隆"
+  ],
+  "Persis Solo": [
+    "梭罗"
+  ],
+  "Kerala Blasters": [
+    "喀拉拉爆破手"
+  ],
+  "Zenit Saint Petersburg": [
+    "圣彼得堡泽尼特",
+    "泽尼特"
+  ],
+  "CSKA Moscow": [
+    "莫斯科中央陆军",
+    "中央陆军"
+  ],
+  "CSKA": [
+    "中央陆军"
+  ],
+  "Spartak Moscow": [
+    "莫斯科斯巴达",
+    "斯巴达克"
+  ],
+  "Lokomotiv Moscow": [
+    "莫斯科火车头",
+    "火车头"
+  ],
+  "Lokomotiv": [
+    "火车头"
+  ],
+  "Dynamo Moscow": [
+    "莫斯科迪纳摩"
+  ],
+  "Krasnodar": [
+    "克拉斯诺达尔"
+  ],
+  "Rubin Kazan": [
+    "喀山鲁宾"
+  ],
+  "Anzhi Makhachkala": [
+    "安郅"
+  ],
+  "Anzhi": [
+    "安郅"
+  ],
+  "Akhmat Grozny": [
+    "格罗兹尼艾哈迈德"
+  ],
+  "Ural Yekaterinburg": [
+    "叶卡捷琳堡乌拉尔"
+  ],
+  "Khimki": [
+    "希姆基"
+  ],
+  "Pari Nizhny Novgorod": [
+    "下诺夫哥罗德"
+  ],
+  "Orenburg": [
+    "奥伦堡"
+  ],
+  "Ufa": [
+    "乌法"
+  ],
+  "Alania Vladikavkaz": [
+    "弗拉季高加索阿拉尼亚"
+  ],
+  "Amkar Perm": [
+    "阿姆卡尔"
+  ],
+  "Dynamo Makhachkala": [
+    "马哈奇卡拉迪纳摩"
+  ],
+  "Akron Togliatti": [
+    "陶里亚蒂阿克隆"
+  ],
+  "Akron Tolyatti": [
+    "陶里亚蒂阿克隆"
+  ],
+  "Kryvbas Kryvyi Rih": [
+    "克里沃罗格克里夫巴斯"
+  ],
+  "Polissya Zhytomyr": [
+    "日托米尔波利西亚"
+  ],
+  "Karpaty Lviv": [
+    "利沃夫喀尔巴阡"
+  ],
+  "Zorya Luhansk": [
+    "卢甘斯克索尔亚"
+  ],
+  "Noah": [
+    "诺亚"
+  ],
+  "Banants": [
+    "巴南茨"
+  ]
+}

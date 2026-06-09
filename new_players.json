@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-06-09T13:10:07.219657",
+  "count": 6,
+  "players": [
+    {
+      "name": "Éderson Silva",
+      "country": "Brazil",
+      "wiki_url": "https://en.wikipedia.org/wiki/%C3%89derson_(footballer,_born_1999)"
+    },
+    {
+      "name": "Ederson Moraes",
+      "country": "Brazil",
+      "wiki_url": "https://en.wikipedia.org/wiki/Ederson_(footballer,_born_1993)"
+    },
+    {
+      "name": "Max Arfsten",
+      "country": "United States",
+      "wiki_url": "https://en.wikipedia.org/wiki/Max_Arfsten"
+    },
+    {
+      "name": "Lutsharel Geertruida",
+      "country": "Netherlands",
+      "wiki_url": "https://en.wikipedia.org/wiki/Lutsharel_Geertruida"
+    },
+    {
+      "name": "Ahmed Maknzi",
+      "country": "Iraq",
+      "wiki_url": "https://en.wikipedia.org/wiki/Ahmed_Maknzi"
+    },
+    {
+      "name": "Mohammad Taha",
+      "country": "Jordan",
+      "wiki_url": "https://en.wikipedia.org/wiki/Mohammad_Taha_(footballer)"
+    }
+  ]
+}

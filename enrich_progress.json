@@ -1,0 +1,6266 @@
+{
+  "processed": {
+    "matěj kovář__czech republic": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T01:49:50.139116"
+    },
+    "david zima__czech republic": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T01:50:04.372799"
+    },
+    "tomáš holeš__czech republic": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T01:50:19.420084"
+    },
+    "robin hranáč__czech republic": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T01:50:32.307411"
+    },
+    "vladimír coufal__czech republic": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T01:50:45.259173"
+    },
+    "štěpán chaloupek__czech republic": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:39:35.627383"
+    },
+    "ladislav krejčí__czech republic": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T16:39:49.828473"
+    },
+    "vladimír darida__czech republic": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T16:40:03.298489"
+    },
+    "adam hložek__czech republic": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:40:16.907821"
+    },
+    "patrik schick__czech republic": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T16:40:30.994143"
+    },
+    "jan kuchta__czech republic": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T16:40:47.868656"
+    },
+    "lukáš červ__czech republic": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T16:41:01.513312"
+    },
+    "mojmír chytil__czech republic": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T16:41:14.169228"
+    },
+    "david jurásek__czech republic": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T16:41:28.669945"
+    },
+    "pavel šulc__czech republic": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T16:41:45.159908"
+    },
+    "jindřich staněk__czech republic": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T16:41:58.265717"
+    },
+    "lukáš provod__czech republic": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T16:42:10.768407"
+    },
+    "michal sadílek__czech republic": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T16:42:24.049892"
+    },
+    "tomáš chorý__czech republic": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T16:42:38.296452"
+    },
+    "jaroslav zelený__czech republic": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T16:42:51.848652"
+    },
+    "david douděra__czech republic": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T16:43:06.784045"
+    },
+    "tomáš souček__czech republic": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T16:43:19.767918"
+    },
+    "lukáš horníček__czech republic": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:43:36.069668"
+    },
+    "alexandr sojka__czech republic": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T16:43:47.785360"
+    },
+    "hugo sochůrek__czech republic": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:43:58.776434"
+    },
+    "denis višinský__czech republic": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T16:44:14.161454"
+    },
+    "raúl rangel__mexico": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T16:44:29.046934"
+    },
+    "jorge sánchez__mexico": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T16:44:42.230097"
+    },
+    "césar montes__mexico": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T16:44:56.928151"
+    },
+    "edson álvarez__mexico": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T16:45:12.265035"
+    },
+    "johan vásquez__mexico": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T16:45:26.680701"
+    },
+    "érik lira__mexico": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:45:38.989269"
+    },
+    "luis romo__mexico": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T16:45:51.942918"
+    },
+    "álvaro fidalgo__mexico": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T16:46:03.553052"
+    },
+    "raúl jiménez__mexico": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T16:46:21.673763"
+    },
+    "alexis vega__mexico": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:46:34.925197"
+    },
+    "santiago giménez__mexico": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:46:47.695943"
+    },
+    "carlos acevedo__mexico": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T16:47:00.494118"
+    },
+    "guillermo ochoa__mexico": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T16:47:14.432392"
+    },
+    "armando gonzález__mexico": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:47:31.029700"
+    },
+    "israel reyes__mexico": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:47:46.719938"
+    },
+    "julián quiñones__mexico": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T16:48:00.552223"
+    },
+    "orbelín pineda__mexico": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T16:48:13.376409"
+    },
+    "obed vargas__mexico": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:48:28.645260"
+    },
+    "gilberto mora__mexico": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T16:48:41.532224"
+    },
+    "mateo chávez__mexico": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:48:56.072957"
+    },
+    "césar huerta__mexico": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T16:49:09.715391"
+    },
+    "guillermo martínez__mexico": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T16:49:27.942277"
+    },
+    "jesús gallardo__mexico": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T16:49:40.362917"
+    },
+    "luis chávez__mexico": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:49:54.251892"
+    },
+    "roberto alvarado__mexico": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T16:50:10.502781"
+    },
+    "brian gutiérrez__mexico": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T16:50:24.714834"
+    },
+    "ronwen williams__south africa": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:50:39.587865"
+    },
+    "thabang matuludi__south africa": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:50:55.453049"
+    },
+    "khulumani ndamane__south africa": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:51:09.230057"
+    },
+    "teboho mokoena__south africa": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T16:51:20.114021"
+    },
+    "thalente mbatha__south africa": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:51:32.867971"
+    },
+    "aubrey modiba__south africa": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T16:51:47.505733"
+    },
+    "oswin appollis__south africa": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T16:52:01.187912"
+    },
+    "tshepang moremi__south africa": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T16:52:16.962207"
+    },
+    "lyle foster__south africa": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T16:52:31.849066"
+    },
+    "relebohile mofokeng__south africa": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T16:52:44.909390"
+    },
+    "themba zwane__south africa": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T16:52:57.417656"
+    },
+    "thapelo maseko__south africa": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:53:11.491612"
+    },
+    "sphephelo sithole__south africa": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T16:53:24.180502"
+    },
+    "mbekezeli mbokazi__south africa": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:53:38.286922"
+    },
+    "iqraam rayners__south africa": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T16:53:53.356670"
+    },
+    "sipho chaine__south africa": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T16:54:07.094103"
+    },
+    "evidence makgopa__south africa": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T16:54:22.109712"
+    },
+    "samukele kabini__south africa": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:54:35.343627"
+    },
+    "nkosinathi sibisi__south africa": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T16:54:48.697464"
+    },
+    "khuliso mudau__south africa": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T16:55:02.965943"
+    },
+    "ime okon__south africa": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T16:55:15.976888"
+    },
+    "ricardo goss__south africa": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T16:55:30.892629"
+    },
+    "jayden adams__south africa": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:55:44.893435"
+    },
+    "olwethu makhanya__south africa": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T16:55:58.396555"
+    },
+    "kamogelo sebelebele__south africa": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T16:56:12.497301"
+    },
+    "bradley cross__south africa": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T16:56:24.508234"
+    },
+    "kim seung-gyu__south korea": {
+      "tm_id": "8198",
+      "club_count": 7,
+      "done_at": "2026-06-07T16:56:51.075895"
+    },
+    "lee han-beom__south korea": {
+      "tm_id": "8198",
+      "club_count": 6,
+      "done_at": "2026-06-07T16:57:10.581033"
+    },
+    "lee gi-hyuk__south korea": {
+      "tm_id": "8198",
+      "club_count": 5,
+      "done_at": "2026-06-07T16:57:32.873761"
+    },
+    "kim min-jae__south korea": {
+      "tm_id": "8198",
+      "club_count": 9,
+      "done_at": "2026-06-07T16:57:54.501632"
+    },
+    "kim tae-hyeon__south korea": {
+      "tm_id": "8198",
+      "club_count": 7,
+      "done_at": "2026-06-07T16:58:17.197625"
+    },
+    "hwang in-beom__south korea": {
+      "tm_id": "8198",
+      "club_count": 11,
+      "done_at": "2026-06-07T16:58:39.345076"
+    },
+    "son heung-min__south korea": {
+      "tm_id": "8198",
+      "club_count": 7,
+      "done_at": "2026-06-07T16:59:00.326617"
+    },
+    "paik seung-ho__south korea": {
+      "tm_id": "8198",
+      "club_count": 10,
+      "done_at": "2026-06-07T16:59:26.398900"
+    },
+    "cho gue-sung__south korea": {
+      "tm_id": "8198",
+      "club_count": 10,
+      "done_at": "2026-06-07T16:59:45.826715"
+    },
+    "lee jae-sung__south korea": {
+      "tm_id": "8198",
+      "club_count": 8,
+      "done_at": "2026-06-07T17:00:11.942377"
+    },
+    "hwang hee-chan__south korea": {
+      "tm_id": "8198",
+      "club_count": 8,
+      "done_at": "2026-06-07T17:00:37.478373"
+    },
+    "song bum-keun__south korea": {
+      "tm_id": "8198",
+      "club_count": 6,
+      "done_at": "2026-06-07T17:00:57.650591"
+    },
+    "lee tae-seok__south korea": {
+      "tm_id": "8198",
+      "club_count": 4,
+      "done_at": "2026-06-07T17:01:35.549210"
+    },
+    "cho wi-je__south korea": {
+      "tm_id": "8198",
+      "club_count": 4,
+      "done_at": "2026-06-07T17:01:59.357243"
+    },
+    "kim moon-hwan__south korea": {
+      "tm_id": "8198",
+      "club_count": 9,
+      "done_at": "2026-06-07T17:02:21.456850"
+    },
+    "park jin-seob__south korea": {
+      "tm_id": "8198",
+      "club_count": 6,
+      "done_at": "2026-06-07T17:02:43.069545"
+    },
+    "bae jun-ho__south korea": {
+      "tm_id": "8198",
+      "club_count": 6,
+      "done_at": "2026-06-07T17:03:03.779980"
+    },
+    "oh hyeon-gyu__south korea": {
+      "tm_id": "8198",
+      "club_count": 8,
+      "done_at": "2026-06-07T17:03:30.540854"
+    },
+    "lee kang-in__south korea": {
+      "tm_id": "8198",
+      "club_count": 6,
+      "done_at": "2026-06-07T17:03:52.141171"
+    },
+    "yang hyun-jun__south korea": {
+      "tm_id": "8198",
+      "club_count": 9,
+      "done_at": "2026-06-07T17:04:15.595328"
+    },
+    "jo hyeon-woo__south korea": {
+      "tm_id": "8198",
+      "club_count": 6,
+      "done_at": "2026-06-07T17:04:38.308806"
+    },
+    "seol young-woo__south korea": {
+      "tm_id": "8198",
+      "club_count": 5,
+      "done_at": "2026-06-07T17:05:02.212947"
+    },
+    "jens castrop__south korea": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:05:15.999972"
+    },
+    "kim jin-gyu__south korea": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:05:30.254736"
+    },
+    "eom ji-sung__south korea": {
+      "tm_id": "8198",
+      "club_count": 4,
+      "done_at": "2026-06-07T17:05:50.251820"
+    },
+    "lee dong-gyeong__south korea": {
+      "tm_id": "8198",
+      "club_count": 10,
+      "done_at": "2026-06-07T17:06:13.994293"
+    },
+    "nikola vasilj__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:06:26.525058"
+    },
+    "nihad mujakić__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:06:41.606280"
+    },
+    "dennis hadžikadunić__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:06:53.847364"
+    },
+    "tarik muharemović__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:07:05.243610"
+    },
+    "sead kolašinac__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:07:19.017880"
+    },
+    "benjamin tahirović__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:07:37.655755"
+    },
+    "amar dedić__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:07:50.523430"
+    },
+    "armin gigović__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:08:05.919724"
+    },
+    "samed baždar__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:08:18.467029"
+    },
+    "ermedin demirović__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T17:08:33.502712"
+    },
+    "edin džeko__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T17:08:48.740805"
+    },
+    "mladen jurkas__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:09:00.800561"
+    },
+    "ivan bašić__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:09:14.576499"
+    },
+    "ivan šunjić__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:09:27.820905"
+    },
+    "amar memić__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:09:39.583490"
+    },
+    "amir hadžiahmetović__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:09:58.922717"
+    },
+    "dženis burnić__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:10:15.136811"
+    },
+    "nikola katić__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:10:29.865021"
+    },
+    "kerim alajbegović__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:10:45.036733"
+    },
+    "esmir bajraktarević__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:10:57.831038"
+    },
+    "stjepan radeljić__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:11:11.234222"
+    },
+    "martin zlomislić__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:11:24.303501"
+    },
+    "haris tabaković__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T17:11:39.331689"
+    },
+    "nidal čelik__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:11:49.665834"
+    },
+    "jovo lukić__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:12:04.874893"
+    },
+    "ermin mahmić__bosnia and herzegovina": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:12:15.620017"
+    },
+    "dayne st. clair__canada": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T17:12:27.579496"
+    },
+    "alistair johnston__canada": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T17:12:40.884734"
+    },
+    "alfie jones__canada": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:12:54.686643"
+    },
+    "luc de fougerolles__canada": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:13:10.228757"
+    },
+    "joel waterman__canada": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T17:13:24.854436"
+    },
+    "mathieu choinière__canada": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:13:39.511962"
+    },
+    "stephen eustáquio__canada": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T17:13:50.555815"
+    },
+    "ismaël koné__canada": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:14:03.810328"
+    },
+    "cyle larin__canada": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T17:14:17.579044"
+    },
+    "jonathan david__canada": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:14:29.929219"
+    },
+    "liam millar__canada": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T17:14:45.733809"
+    },
+    "tani oluwaseyi__canada": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:14:59.804475"
+    },
+    "derek cornelius__canada": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T17:15:21.975921"
+    },
+    "jacob shaffelburg__canada": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:15:32.922361"
+    },
+    "moïse bombito__canada": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:15:47.128144"
+    },
+    "maxime crépeau__canada": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:16:04.318211"
+    },
+    "tajon buchanan__canada": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:16:20.074928"
+    },
+    "owen goodman__canada": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:16:37.483016"
+    },
+    "alphonso davies__canada": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:16:53.743546"
+    },
+    "ali ahmed__canada": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:17:11.912314"
+    },
+    "jonathan osorio__canada": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:17:24.144989"
+    },
+    "richie laryea__canada": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:17:39.717136"
+    },
+    "niko sigur__canada": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:17:51.629208"
+    },
+    "promise david__canada": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:18:06.439019"
+    },
+    "nathan saliba__canada": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:18:18.740708"
+    },
+    "mahmud abunada__qatar": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:18:30.284822"
+    },
+    "pedro miguel__qatar": {
+      "tm_id": null,
+      "club_count": 0,
+      "note": "no clubs found",
+      "done_at": "2026-06-07T17:18:43.248053"
+    },
+    "lucas mendes__qatar": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:18:58.746632"
+    },
+    "issa laye__qatar": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:19:13.381259"
+    },
+    "jassem gaber__qatar": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:19:27.831708"
+    },
+    "abdulaziz hatem__qatar": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:19:39.020730"
+    },
+    "ahmed alaaeldin__qatar": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:19:54.918014"
+    },
+    "edmilson junior__qatar": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:20:08.101223"
+    },
+    "mohammed muntari__qatar": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:20:22.245165"
+    },
+    "hassan al-haydos__qatar": {
+      "tm_id": "8198",
+      "club_count": 8,
+      "done_at": "2026-06-07T17:20:46.360553"
+    },
+    "akram afif__qatar": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:21:00.943182"
+    },
+    "karim boudiaf__qatar": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:21:14.727770"
+    },
+    "ayoub al-oui__qatar": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:21:27.711561"
+    },
+    "homam ahmed__qatar": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:21:40.756440"
+    },
+    "yusuf abdurisag__qatar": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:21:56.781587"
+    },
+    "boualem khoukhi__qatar": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:22:11.082184"
+    },
+    "ahmed al-ganehi__qatar": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:22:25.948106"
+    },
+    "sultan al-brake__qatar": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:22:38.069207"
+    },
+    "almoez ali__qatar": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:22:50.533899"
+    },
+    "ahmed fathy__qatar": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:23:02.541051"
+    },
+    "salah zakaria__qatar": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:23:16.635964"
+    },
+    "meshaal barsham__qatar": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:23:30.256284"
+    },
+    "assim madibo__qatar": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:23:40.942304"
+    },
+    "tahsin jamshid__qatar": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:23:52.001251"
+    },
+    "al-hashmi al-hussain__qatar": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:24:05.488837"
+    },
+    "mohamed manai__qatar": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:24:17.245110"
+    },
+    "gregor kobel__switzerland": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:24:31.421230"
+    },
+    "miro muheim__switzerland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:24:47.594481"
+    },
+    "silvan widmer__switzerland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:25:02.660410"
+    },
+    "nico elvedi__switzerland": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:25:15.762112"
+    },
+    "manuel akanji__switzerland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:25:30.837496"
+    },
+    "denis zakaria__switzerland": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:25:46.081135"
+    },
+    "breel embolo__switzerland": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:26:00.828135"
+    },
+    "remo freuler__switzerland": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:26:14.744819"
+    },
+    "johan manzambi__switzerland": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:26:29.529344"
+    },
+    "granit xhaka__switzerland": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:26:45.261238"
+    },
+    "dan ndoye__switzerland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:26:58.230172"
+    },
+    "yvon mvogo__switzerland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:27:12.313251"
+    },
+    "ricardo rodriguez__switzerland": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:27:27.236206"
+    },
+    "ardon jashari__switzerland": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:27:43.725658"
+    },
+    "djibril sow__switzerland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:27:57.774139"
+    },
+    "christian fassnacht__switzerland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:28:13.085814"
+    },
+    "rubén vargas__switzerland": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:28:25.593010"
+    },
+    "eray cömert__switzerland": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:28:38.298893"
+    },
+    "noah okafor__switzerland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:28:51.341754"
+    },
+    "michel aebischer__switzerland": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:29:06.525094"
+    },
+    "marvin keller__switzerland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:29:23.381155"
+    },
+    "fabian rieder__switzerland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:29:37.830234"
+    },
+    "zeki amdouni__switzerland": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:29:50.419163"
+    },
+    "aurèle amenda__switzerland": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:30:03.091064"
+    },
+    "luca jaquez__switzerland": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:30:16.846597"
+    },
+    "cedric itten__switzerland": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T17:30:31.866062"
+    },
+    "alisson__brazil": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:30:47.923685"
+    },
+    "wesley__brazil": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:31:01.362763"
+    },
+    "gabriel magalhães__brazil": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:31:12.393643"
+    },
+    "marquinhos__brazil": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:31:24.354564"
+    },
+    "casemiro__brazil": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:31:39.050653"
+    },
+    "alex sandro__brazil": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:31:53.096952"
+    },
+    "vinícius júnior__brazil": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:32:07.220532"
+    },
+    "bruno guimarães__brazil": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:32:22.967542"
+    },
+    "matheus cunha__brazil": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:32:39.678218"
+    },
+    "neymar__brazil": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:32:53.236682"
+    },
+    "raphinha__brazil": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T17:33:07.082709"
+    },
+    "weverton__brazil": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T17:33:19.118384"
+    },
+    "danilo luiz__brazil": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:33:32.479765"
+    },
+    "bremer__brazil": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:33:44.719462"
+    },
+    "léo pereira__brazil": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:33:56.744736"
+    },
+    "douglas santos__brazil": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:34:10.683326"
+    },
+    "fabinho__brazil": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:34:27.172996"
+    },
+    "danilo santos__brazil": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:34:39.030470"
+    },
+    "endrick__brazil": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:34:55.432541"
+    },
+    "lucas paquetá__brazil": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:35:09.039818"
+    },
+    "luiz henrique__brazil": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:35:23.828387"
+    },
+    "gabriel martinelli__brazil": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:35:37.549382"
+    },
+    "ederson__brazil": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:35:50.082845"
+    },
+    "roger ibañez__brazil": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:36:04.327227"
+    },
+    "igor thiago__brazil": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:36:18.070435"
+    },
+    "rayan__brazil": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:36:34.809559"
+    },
+    "johny placide__haiti": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:36:45.842638"
+    },
+    "carlens arcus__haiti": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T17:37:02.484809"
+    },
+    "keeto thermoncy__haiti": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:37:14.141342"
+    },
+    "ricardo adé__haiti": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:37:26.446254"
+    },
+    "hannes delcroix__haiti": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:37:39.422106"
+    },
+    "carl sainté__haiti": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:37:52.942880"
+    },
+    "derrick etienne jr.__haiti": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:38:06.506369"
+    },
+    "martin expérience__haiti": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:38:21.880491"
+    },
+    "duckens nazon__haiti": {
+      "tm_id": null,
+      "club_count": 15,
+      "done_at": "2026-06-07T17:38:36.541223"
+    },
+    "jean-ricner bellegarde__haiti": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:38:47.636428"
+    },
+    "louicius deedson__haiti": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:39:02.526900"
+    },
+    "alexandre pierre__haiti": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:39:17.131460"
+    },
+    "duke lacroix__haiti": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:39:33.213272"
+    },
+    "leverton pierre__haiti": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:39:46.707863"
+    },
+    "ruben providence__haiti": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:40:01.324046"
+    },
+    "lenny joseph__haiti": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:40:17.419112"
+    },
+    "danley jean jacques__haiti": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:40:35.038343"
+    },
+    "wilson isidor__haiti": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:40:47.867355"
+    },
+    "yassin fortuné__haiti": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T17:41:05.138824"
+    },
+    "frantzdy pierrot__haiti": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:41:19.762559"
+    },
+    "josué casimir__haiti": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:41:34.316964"
+    },
+    "jean-kévin duverne__haiti": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:41:47.704300"
+    },
+    "josué duverger__haiti": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:42:00.261839"
+    },
+    "wilguens paugain__haiti": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:42:12.515934"
+    },
+    "dominique simon__haiti": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:42:28.654924"
+    },
+    "woodensky pierre__haiti": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:42:42.840674"
+    },
+    "yassine bounou__morocco": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T17:42:54.928905"
+    },
+    "achraf hakimi__morocco": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:43:08.309482"
+    },
+    "noussair mazraoui__morocco": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:43:22.678651"
+    },
+    "sofyan amrabat__morocco": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T17:43:37.153275"
+    },
+    "nayef aguerd__morocco": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:43:49.479637"
+    },
+    "ayyoub bouaddi__morocco": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:44:03.566764"
+    },
+    "chemsdine talbi__morocco": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:44:15.791959"
+    },
+    "azzedine ounahi__morocco": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T17:44:31.813880"
+    },
+    "soufiane rahimi__morocco": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:44:45.020994"
+    },
+    "brahim díaz__morocco": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:44:56.058721"
+    },
+    "ismael saibari__morocco": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:45:10.310072"
+    },
+    "munir mohamedi__morocco": {
+      "tm_id": "8198",
+      "club_count": 12,
+      "done_at": "2026-06-07T17:45:42.615106"
+    },
+    "zakaria el ouahdi__morocco": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:45:56.434445"
+    },
+    "issa diop__morocco": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:46:09.362437"
+    },
+    "samir el mourabet__morocco": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:46:20.971650"
+    },
+    "gessime yassine__morocco": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:46:35.969100"
+    },
+    "abde ezzalzouli__morocco": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:46:49.804531"
+    },
+    "chadi riad__morocco": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:47:02.814827"
+    },
+    "youssef belammari__morocco": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:47:16.855798"
+    },
+    "ayoub el kaabi__morocco": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T17:47:30.560375"
+    },
+    "ayoube amaimouni__morocco": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:47:43.463529"
+    },
+    "ahmed reda tagnaouti__morocco": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:47:58.696047"
+    },
+    "bilal el khannouss__morocco": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:48:14.338195"
+    },
+    "neil el aynaoui__morocco": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:48:28.357090"
+    },
+    "redouane halhal__morocco": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:48:41.947706"
+    },
+    "anass salah-eddine__morocco": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:48:54.156673"
+    },
+    "angus gunn__scotland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:49:06.981716"
+    },
+    "aaron hickey__scotland": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:49:20.074171"
+    },
+    "andy robertson__scotland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:49:31.889621"
+    },
+    "scott mctominay__scotland": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:49:44.944109"
+    },
+    "grant hanley__scotland": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:49:59.091220"
+    },
+    "kieran tierney__scotland": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:50:13.214619"
+    },
+    "john mcginn__scotland": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:50:26.883296"
+    },
+    "tyler fletcher__scotland": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:50:40.409198"
+    },
+    "lyndon dykes__scotland": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T17:50:54.333765"
+    },
+    "ché adams__scotland": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T17:51:07.794793"
+    },
+    "ryan christie__scotland": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:51:20.651785"
+    },
+    "liam kelly__scotland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:51:35.338374"
+    },
+    "jack hendry__scotland": {
+      "tm_id": null,
+      "club_count": 13,
+      "done_at": "2026-06-07T17:51:50.759627"
+    },
+    "ross stewart__scotland": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T17:52:04.251019"
+    },
+    "john souttar__scotland": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:52:18.344364"
+    },
+    "dominic hyam__scotland": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T17:52:30.500455"
+    },
+    "ben gannon-doak__scotland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:52:46.755822"
+    },
+    "george hirst__scotland": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:53:01.690047"
+    },
+    "lewis ferguson__scotland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:53:15.825417"
+    },
+    "lawrence shankland__scotland": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T17:53:28.017944"
+    },
+    "craig gordon__scotland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:53:42.541410"
+    },
+    "nathan patterson__scotland": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T17:53:57.357790"
+    },
+    "kenny mclean__scotland": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:54:09.865417"
+    },
+    "anthony ralston__scotland": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:54:25.692123"
+    },
+    "findlay curtis__scotland": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T17:54:38.641141"
+    },
+    "scott mckenna__scotland": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:54:51.687132"
+    },
+    "mathew ryan__australia": {
+      "tm_id": null,
+      "club_count": 14,
+      "done_at": "2026-06-07T17:55:04.641474"
+    },
+    "miloš degenek__australia": {
+      "tm_id": null,
+      "club_count": 12,
+      "done_at": "2026-06-07T17:55:19.242634"
+    },
+    "alessandro circati__australia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T17:55:31.700637"
+    },
+    "jacob italiano__australia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:55:45.735562"
+    },
+    "jordan bos__australia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:55:59.143028"
+    },
+    "jason geria__australia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:56:15.340712"
+    },
+    "mathew leckie__australia": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T17:56:26.708516"
+    },
+    "connor metcalfe__australia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:56:41.515485"
+    },
+    "mohamed touré__australia": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:56:55.261683"
+    },
+    "ajdin hrustic__australia": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T17:57:06.084455"
+    },
+    "awer mabil__australia": {
+      "tm_id": null,
+      "club_count": 14,
+      "done_at": "2026-06-07T17:57:23.132748"
+    },
+    "paul izzo__australia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:57:36.907829"
+    },
+    "aiden o'neill__australia": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T17:57:49.876178"
+    },
+    "cammy devlin__australia": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T17:58:00.622934"
+    },
+    "kai trewin__australia": {
+      "tm_id": null,
+      "club_count": 0,
+      "note": "no clubs found",
+      "done_at": "2026-06-07T17:58:14.964313"
+    },
+    "aziz behich__australia": {
+      "tm_id": null,
+      "club_count": 14,
+      "done_at": "2026-06-07T17:58:29.161214"
+    },
+    "nestory irankunda__australia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T17:58:44.173596"
+    },
+    "patrick beach__australia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T17:58:55.463258"
+    },
+    "harry souttar__australia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T17:59:07.202091"
+    },
+    "cristian volpato__australia": {
+      "tm_id": null,
+      "club_count": 0,
+      "note": "no clubs found",
+      "done_at": "2026-06-07T17:59:25.242765"
+    },
+    "cameron burgess__australia": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T17:59:39.722654"
+    },
+    "jackson irvine__australia": {
+      "tm_id": null,
+      "club_count": 12,
+      "done_at": "2026-06-07T17:59:53.879021"
+    },
+    "nishan velupillay__australia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:00:03.937633"
+    },
+    "paul okon-engstler__australia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:00:14.584262"
+    },
+    "lucas herrington__australia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:00:29.723352"
+    },
+    "tete yengi__australia": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T18:00:45.107375"
+    },
+    "gatito fernández__paraguay": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:01:01.963793"
+    },
+    "gustavo velázquez__paraguay": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:01:13.967932"
+    },
+    "omar alderete__paraguay": {
+      "tm_id": null,
+      "club_count": 0,
+      "note": "no clubs found",
+      "done_at": "2026-06-07T18:01:27.451807"
+    },
+    "juan josé cáceres__paraguay": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:01:38.725792"
+    },
+    "fabián balbuena__paraguay": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T18:01:51.559316"
+    },
+    "júnior alonso__paraguay": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:02:06.731371"
+    },
+    "ramón sosa__paraguay": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T18:02:19.680015"
+    },
+    "diego gómez__paraguay": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:02:32.587584"
+    },
+    "antonio sanabria__paraguay": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T18:02:43.757300"
+    },
+    "miguel almirón__paraguay": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:02:58.352333"
+    },
+    "maurício__paraguay": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:03:12.307178"
+    },
+    "orlando gill__paraguay": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T18:03:23.253906"
+    },
+    "josé canale__paraguay": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:03:35.975357"
+    },
+    "andrés cubas__paraguay": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:03:48.783628"
+    },
+    "gustavo gómez__paraguay": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:04:04.140115"
+    },
+    "damián bobadilla__paraguay": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T18:04:18.021489"
+    },
+    "kaku__paraguay": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:04:32.990379"
+    },
+    "álex arce__paraguay": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:04:48.589243"
+    },
+    "julio enciso__paraguay": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:05:03.330978"
+    },
+    "braian ojeda__paraguay": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:05:17.735763"
+    },
+    "gabriel ávalos__paraguay": {
+      "tm_id": null,
+      "club_count": 17,
+      "done_at": "2026-06-07T18:05:31.396999"
+    },
+    "gastón olveira__paraguay": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T18:05:46.119311"
+    },
+    "matías galarza__paraguay": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:05:56.750969"
+    },
+    "gustavo caballero__paraguay": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:06:11.922367"
+    },
+    "isidro pitta__paraguay": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T18:06:24.288581"
+    },
+    "alexandro maidana__paraguay": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:06:38.715070"
+    },
+    "mert günok__turkey": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:06:52.235510"
+    },
+    "zeki çelik__turkey": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:07:06.302280"
+    },
+    "merih demiral__turkey": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T18:07:18.535273"
+    },
+    "çağlar söyüncü__turkey": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:07:31.071514"
+    },
+    "salih özcan__turkey": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:07:44.667889"
+    },
+    "orkun kökçü__turkey": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:07:57.457201"
+    },
+    "kerem aktürkoğlu__turkey": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T18:08:09.220501"
+    },
+    "arda güler__turkey": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:08:23.676859"
+    },
+    "deniz gül__turkey": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T18:08:36.970420"
+    },
+    "hakan çalhanoğlu__turkey": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:08:51.780011"
+    },
+    "kenan yıldız__turkey": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:09:06.570636"
+    },
+    "altay bayındır__turkey": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:09:19.226563"
+    },
+    "eren elmalı__turkey": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:09:34.764626"
+    },
+    "abdülkerim bardakcı__turkey": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T18:09:48.293980"
+    },
+    "ozan kabak__turkey": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:10:03.152560"
+    },
+    "i̇smail yüksek__turkey": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:10:17.050881"
+    },
+    "i̇rfan can kahveci__turkey": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:10:29.590375"
+    },
+    "mert müldür__turkey": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:10:44.515079"
+    },
+    "yunus akgün__turkey": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:10:55.559368"
+    },
+    "ferdi kadıoğlu__turkey": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:11:11.692664"
+    },
+    "barış alper yılmaz__turkey": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:11:23.434507"
+    },
+    "kaan ayhan__turkey": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:11:38.389473"
+    },
+    "uğurcan çakır__turkey": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:11:52.199094"
+    },
+    "oğuz aydın__turkey": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:12:05.354495"
+    },
+    "samet akaydin__turkey": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T18:12:20.319758"
+    },
+    "can uzun__turkey": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:12:33.129312"
+    },
+    "matt turner__united states": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T18:12:44.484305"
+    },
+    "sergiño dest__united states": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:12:59.194458"
+    },
+    "chris richards__united states": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:13:12.107113"
+    },
+    "tyler adams__united states": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:13:28.533153"
+    },
+    "antonee robinson__united states": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:13:43.495208"
+    },
+    "auston trusty__united states": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:13:58.388872"
+    },
+    "giovanni reyna__united states": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:14:12.453222"
+    },
+    "weston mckennie__united states": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:14:23.463258"
+    },
+    "ricardo pepi__united states": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:14:36.238725"
+    },
+    "christian pulisic__united states": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:14:50.759543"
+    },
+    "brenden aaronson__united states": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:15:04.349772"
+    },
+    "miles robinson__united states": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:15:16.156149"
+    },
+    "tim ream__united states": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:15:31.552317"
+    },
+    "sebastian berhalter__united states": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:15:47.555077"
+    },
+    "cristian roldan__united states": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:16:05.368600"
+    },
+    "alex freeman__united states": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:16:16.326335"
+    },
+    "malik tillman__united states": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:16:28.065802"
+    },
+    "maximilian arfsten__united states": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:16:42.102453"
+    },
+    "haji wright__united states": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T18:16:52.700519"
+    },
+    "folarin balogun__united states": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:17:07.007286"
+    },
+    "timothy weah__united states": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:17:22.805230"
+    },
+    "mark mckenzie__united states": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:17:35.437876"
+    },
+    "joe scally__united states": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T18:17:47.957617"
+    },
+    "matt freese__united states": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:18:02.270237"
+    },
+    "chris brady__united states": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:18:17.030768"
+    },
+    "alejandro zendejas__united states": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:18:31.250473"
+    },
+    "eloy room__curaçao": {
+      "tm_id": null,
+      "club_count": 12,
+      "done_at": "2026-06-07T18:18:43.664639"
+    },
+    "shurandy sambo__curaçao": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:18:56.202121"
+    },
+    "juriën gaari__curaçao": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:19:11.607348"
+    },
+    "roshon van eijma__curaçao": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:19:25.229850"
+    },
+    "sherel floranus__curaçao": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:19:38.678246"
+    },
+    "godfried roemeratoe__curaçao": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:19:51.323905"
+    },
+    "juninho bacuna__curaçao": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:20:05.378362"
+    },
+    "livano comenencia__curaçao": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:20:18.485150"
+    },
+    "jürgen locadia__curaçao": {
+      "tm_id": null,
+      "club_count": 17,
+      "done_at": "2026-06-07T18:20:35.657790"
+    },
+    "leandro bacuna__curaçao": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:20:48.330929"
+    },
+    "jeremy antonisse__curaçao": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:20:59.467891"
+    },
+    "sontje hansen__curaçao": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:21:13.173103"
+    },
+    "tyrese noslin__curaçao": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:21:28.651712"
+    },
+    "kenji gorré__curaçao": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T18:21:43.857893"
+    },
+    "ar'jany martha__curaçao": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:22:00.984701"
+    },
+    "jearl margaritha__curaçao": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T18:22:15.645509"
+    },
+    "brandley kuwas__curaçao": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T18:22:31.434685"
+    },
+    "armando obispo__curaçao": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:22:43.352111"
+    },
+    "gervane kastaneer__curaçao": {
+      "tm_id": null,
+      "club_count": 17,
+      "done_at": "2026-06-07T18:22:56.368339"
+    },
+    "joshua brenet__curaçao": {
+      "tm_id": null,
+      "club_count": 13,
+      "done_at": "2026-06-07T18:23:08.875406"
+    },
+    "tahith chong__curaçao": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:23:22.570411"
+    },
+    "kevin felida__curaçao": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:23:36.181737"
+    },
+    "riechedly bazoer__curaçao": {
+      "tm_id": null,
+      "club_count": 12,
+      "done_at": "2026-06-07T18:23:47.757149"
+    },
+    "deveron fonville__curaçao": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:24:01.498744"
+    },
+    "tyrick bodak__curaçao": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:24:14.823232"
+    },
+    "trevor doornbusch__curaçao": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:24:28.622443"
+    },
+    "hernán galíndez__ecuador": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:24:44.272968"
+    },
+    "félix torres__ecuador": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:24:57.019814"
+    },
+    "piero hincapié__ecuador": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:25:10.202653"
+    },
+    "joel ordóñez__ecuador": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:25:22.793054"
+    },
+    "jordy alcívar__ecuador": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:25:37.558710"
+    },
+    "willian pacho__ecuador": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:25:50.380738"
+    },
+    "pervis estupiñán__ecuador": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T18:26:01.638483"
+    },
+    "anthony valencia__ecuador": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:26:16.463169"
+    },
+    "john yeboah__ecuador": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T18:26:29.466768"
+    },
+    "kendry páez__ecuador": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:26:45.333419"
+    },
+    "kevin rodríguez__ecuador": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:26:58.349748"
+    },
+    "moisés ramírez__ecuador": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:27:12.673486"
+    },
+    "enner valencia__ecuador": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:27:29.137003"
+    },
+    "alan minda__ecuador": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:27:42.068720"
+    },
+    "pedro vite__ecuador": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:27:53.775318"
+    },
+    "jordy caicedo__ecuador": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T18:28:05.554594"
+    },
+    "ángelo preciado__ecuador": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:28:16.164453"
+    },
+    "denil castillo__ecuador": {
+      "tm_id": null,
+      "club_count": 0,
+      "note": "no clubs found",
+      "done_at": "2026-06-07T18:28:31.680119"
+    },
+    "gonzalo plata__ecuador": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:28:45.947215"
+    },
+    "nilson angulo__ecuador": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:28:58.734983"
+    },
+    "alan franco__ecuador": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:29:10.659923"
+    },
+    "gonzalo valle__ecuador": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T18:29:22.640482"
+    },
+    "moisés caicedo__ecuador": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:29:37.470028"
+    },
+    "jeremy arévalo__ecuador": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:29:52.753734"
+    },
+    "jackson porozo__ecuador": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T18:30:05.544177"
+    },
+    "yaimar medina__ecuador": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T18:30:19.370121"
+    },
+    "manuel neuer__germany": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T18:30:31.118541"
+    },
+    "antonio rüdiger__germany": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:30:47.023275"
+    },
+    "waldemar anton__germany": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:30:59.352210"
+    },
+    "jonathan tah__germany": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:31:12.372410"
+    },
+    "aleksandar pavlović__germany": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T18:31:27.213207"
+    },
+    "joshua kimmich__germany": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:31:42.264067"
+    },
+    "kai havertz__germany": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:31:54.053562"
+    },
+    "leon goretzka__germany": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:32:07.876705"
+    },
+    "jamie leweling__germany": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:32:20.365805"
+    },
+    "jamal musiala__germany": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:32:34.167972"
+    },
+    "nick woltemade__germany": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:32:48.618557"
+    },
+    "oliver baumann__germany": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T18:33:03.715526"
+    },
+    "pascal groß__germany": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:33:16.833318"
+    },
+    "maximilian beier__germany": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:33:27.687009"
+    },
+    "nico schlotterbeck__germany": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:33:40.528832"
+    },
+    "angelo stiller__germany": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:33:53.054658"
+    },
+    "florian wirtz__germany": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:34:05.786190"
+    },
+    "nathaniel brown__germany": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:34:21.923209"
+    },
+    "leroy sané__germany": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:34:35.441956"
+    },
+    "nadiem amiri__germany": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:34:47.487552"
+    },
+    "alexander nübel__germany": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:34:59.135844"
+    },
+    "david raum__germany": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:35:12.140416"
+    },
+    "felix nmecha__germany": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:35:27.529372"
+    },
+    "malick thiaw__germany": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:35:39.689594"
+    },
+    "assan ouédraogo__germany": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T18:35:53.334214"
+    },
+    "deniz undav__germany": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T18:36:09.041282"
+    },
+    "yahia fofana__ivory coast": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:36:21.825750"
+    },
+    "ousmane diomande__ivory coast": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:36:37.162349"
+    },
+    "ghislain konan__ivory coast": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T18:36:51.146799"
+    },
+    "jean michaël seri__ivory coast": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T18:37:07.172323"
+    },
+    "wilfried singo__ivory coast": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:37:20.516206"
+    },
+    "seko fofana__ivory coast": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T18:37:31.623384"
+    },
+    "odilon kossounou__ivory coast": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:37:45.701118"
+    },
+    "franck kessié__ivory coast": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:37:59.704375"
+    },
+    "ange-yoan bonny__ivory coast": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:38:12.502244"
+    },
+    "simon adingra__ivory coast": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:38:27.069825"
+    },
+    "yan diomande__ivory coast": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:38:41.666588"
+    },
+    "elye wahi__ivory coast": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:38:55.164994"
+    },
+    "christopher opéri__ivory coast": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:39:10.040001"
+    },
+    "oumar diakité__ivory coast": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:39:23.677328"
+    },
+    "amad diallo__ivory coast": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:39:35.627575"
+    },
+    "mohamed koné__ivory coast": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:39:49.742894"
+    },
+    "guéla doué__ivory coast": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:40:01.657748"
+    },
+    "ibrahim sangaré__ivory coast": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:40:17.483140"
+    },
+    "nicolas pépé__ivory coast": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T18:40:30.013418"
+    },
+    "emmanuel agbadou__ivory coast": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:40:46.421288"
+    },
+    "evan ndicka__ivory coast": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:41:01.690077"
+    },
+    "evann guessand__ivory coast": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:41:14.953943"
+    },
+    "alban lafont__ivory coast": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:41:27.574556"
+    },
+    "bazoumana touré__ivory coast": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:41:43.090912"
+    },
+    "parfait guiagon__ivory coast": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:41:55.931966"
+    },
+    "christ inao oulaï__ivory coast": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:42:08.622715"
+    },
+    "zion suzuki__japan": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:42:24.233199"
+    },
+    "yukinari sugawara__japan": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:42:38.314552"
+    },
+    "shōgo taniguchi__japan": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:42:51.414111"
+    },
+    "kō itakura__japan": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T18:43:03.858788"
+    },
+    "yūto nagatomo__japan": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:43:17.364419"
+    },
+    "wataru endo__japan": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:43:30.156372"
+    },
+    "ao tanaka__japan": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:43:43.591554"
+    },
+    "takefusa kubo__japan": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T18:43:54.672217"
+    },
+    "keisuke gotō__japan": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:44:08.780612"
+    },
+    "ritsu dōan__japan": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:44:22.556445"
+    },
+    "daizen maeda__japan": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:44:34.765346"
+    },
+    "keisuke ōsako__japan": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T18:44:45.998736"
+    },
+    "keito nakamura__japan": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T18:45:01.515821"
+    },
+    "junya itō__japan": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:45:15.371530"
+    },
+    "daichi kamada__japan": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:45:30.242669"
+    },
+    "tsuyoshi watanabe__japan": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:45:44.099522"
+    },
+    "yuito suzuki__japan": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:45:57.474580"
+    },
+    "ayase ueda__japan": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:46:08.795783"
+    },
+    "kōki ogawa__japan": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:46:23.248422"
+    },
+    "ayumu seko__japan": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:46:34.881162"
+    },
+    "hiroki itō__japan": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:46:45.566767"
+    },
+    "takehiro tomiyasu__japan": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:47:00.156626"
+    },
+    "tomoki hayakawa__japan": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:47:13.772690"
+    },
+    "kaishū sano__japan": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:47:26.468563"
+    },
+    "junnosuke suzuki__japan": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:47:40.109572"
+    },
+    "kento shiogai__japan": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:47:54.043259"
+    },
+    "bart verbruggen__netherlands": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:48:07.071435"
+    },
+    "jurriën timber__netherlands": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:48:21.260776"
+    },
+    "marten de roon__netherlands": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:48:35.572901"
+    },
+    "virgil van dijk__netherlands": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:48:51.094548"
+    },
+    "nathan aké__netherlands": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:49:06.619624"
+    },
+    "jan paul van hecke__netherlands": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:49:22.038067"
+    },
+    "justin kluivert__netherlands": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:49:36.168136"
+    },
+    "ryan gravenberch__netherlands": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:49:49.251255"
+    },
+    "wout weghorst__netherlands": {
+      "tm_id": null,
+      "club_count": 13,
+      "done_at": "2026-06-07T18:50:01.573730"
+    },
+    "memphis depay__netherlands": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:50:15.038407"
+    },
+    "cody gakpo__netherlands": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:50:31.644837"
+    },
+    "mats wieffer__netherlands": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:50:47.795701"
+    },
+    "robin roefs__netherlands": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T18:50:59.999345"
+    },
+    "tijjani reijnders__netherlands": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:51:14.825112"
+    },
+    "micky van de ven__netherlands": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:51:29.241794"
+    },
+    "guus til__netherlands": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:51:39.739737"
+    },
+    "noa lang__netherlands": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T18:51:56.480199"
+    },
+    "donyell malen__netherlands": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T18:52:08.528459"
+    },
+    "brian brobbey__netherlands": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:52:25.379072"
+    },
+    "teun koopmeiners__netherlands": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:52:37.795785"
+    },
+    "frenkie de jong__netherlands": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:52:51.204418"
+    },
+    "denzel dumfries__netherlands": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:53:06.431649"
+    },
+    "mark flekken__netherlands": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:53:21.419473"
+    },
+    "crysencio summerville__netherlands": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:53:35.446256"
+    },
+    "jorrel hato__netherlands": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:53:49.738284"
+    },
+    "quinten timber__netherlands": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:54:04.487036"
+    },
+    "jacob widell zetterström__sweden": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T18:54:18.383018"
+    },
+    "gustaf lagerbielke__sweden": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T18:54:33.817191"
+    },
+    "victor lindelöf__sweden": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:54:49.512412"
+    },
+    "isak hien__sweden": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:55:04.757759"
+    },
+    "gabriel gudmundsson__sweden": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:55:18.901831"
+    },
+    "herman johansson__sweden": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T18:55:33.718580"
+    },
+    "lucas bergvall__sweden": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:55:48.038962"
+    },
+    "daniel svensson__sweden": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:56:01.867845"
+    },
+    "alexander isak__sweden": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:56:18.341785"
+    },
+    "benjamin nygren__sweden": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:56:31.529680"
+    },
+    "anthony elanga__sweden": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:56:43.405034"
+    },
+    "viktor johansson__sweden": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:56:58.018765"
+    },
+    "ken sema__sweden": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T18:57:22.346845"
+    },
+    "hjalmar ekdal__sweden": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T18:57:35.529932"
+    },
+    "carl starfelt__sweden": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:57:49.452761"
+    },
+    "jesper karlström__sweden": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:58:01.028688"
+    },
+    "viktor gyökeres__sweden": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T18:58:16.930577"
+    },
+    "yasin ayari__sweden": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:58:30.469006"
+    },
+    "mattias svanberg__sweden": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T18:58:47.365516"
+    },
+    "eric smith__sweden": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:59:01.936196"
+    },
+    "alexander bernhardsson__sweden": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:59:16.569928"
+    },
+    "besfort zeneli__sweden": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T18:59:28.799864"
+    },
+    "kristoffer nordfeldt__sweden": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T18:59:44.154160"
+    },
+    "elliot stroud__sweden": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T18:59:56.972261"
+    },
+    "gustaf nilsson__sweden": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T19:00:08.980263"
+    },
+    "taha ali__sweden": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:00:22.419663"
+    },
+    "mouhib chamakh__tunisia": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:00:34.261446"
+    },
+    "ali abdi__tunisia": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T19:00:50.888103"
+    },
+    "montassar talbi__tunisia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:01:05.096343"
+    },
+    "omar rekik__tunisia": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T19:01:18.552916"
+    },
+    "adem arous__tunisia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:01:30.340215"
+    },
+    "dylan bronn__tunisia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:01:45.379243"
+    },
+    "elias achouri__tunisia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:01:57.523257"
+    },
+    "elias saad__tunisia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:02:09.248679"
+    },
+    "hazem mastouri__tunisia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:02:25.173576"
+    },
+    "hannibal mejbri__tunisia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:02:37.694044"
+    },
+    "ismaël gharbi__tunisia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:02:49.482237"
+    },
+    "mortadha ben ouanes__tunisia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:03:05.233846"
+    },
+    "rani khedira__tunisia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:03:17.395696"
+    },
+    "khalil ayari__tunisia": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:03:31.459959"
+    },
+    "hadj mahmoud__tunisia": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:03:44.785316"
+    },
+    "aymen dahmen__tunisia": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:04:03.377716"
+    },
+    "ellyes skhiri__tunisia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:04:18.168812"
+    },
+    "rayan elloumi__tunisia": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:04:32.331377"
+    },
+    "firas chaouat__tunisia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:04:46.401090"
+    },
+    "yan valery__tunisia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:05:00.007211"
+    },
+    "mohamed amine ben hamida__tunisia": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:05:15.227515"
+    },
+    "sabri ben hessen__tunisia": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:05:30.666373"
+    },
+    "moutaz neffati__tunisia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:05:44.471045"
+    },
+    "raed chikhaoui__tunisia": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:05:55.791520"
+    },
+    "anis ben slimane__tunisia": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:06:11.100553"
+    },
+    "sebastian tounekti__tunisia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:06:28.074238"
+    },
+    "thibaut courtois__belgium": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:06:42.531710"
+    },
+    "zeno debast__belgium": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:06:54.072128"
+    },
+    "arthur theate__belgium": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:07:09.047753"
+    },
+    "brandon mechele__belgium": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:07:25.604529"
+    },
+    "maxim de cuyper__belgium": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:07:38.955472"
+    },
+    "axel witsel__belgium": {
+      "tm_id": null,
+      "club_count": 0,
+      "note": "no clubs found",
+      "done_at": "2026-06-07T19:07:53.307603"
+    },
+    "kevin de bruyne__belgium": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:08:08.628010"
+    },
+    "youri tielemans__belgium": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:08:19.855525"
+    },
+    "romelu lukaku__belgium": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T19:08:36.071421"
+    },
+    "leandro trossard__belgium": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:08:49.239513"
+    },
+    "jérémy doku__belgium": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:09:02.774988"
+    },
+    "senne lammens__belgium": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:09:18.190073"
+    },
+    "mike penders__belgium": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:09:30.479360"
+    },
+    "dodi lukébakio__belgium": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T19:09:41.517211"
+    },
+    "thomas meunier__belgium": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:09:57.114100"
+    },
+    "koni de winter__belgium": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:10:14.166265"
+    },
+    "charles de ketelaere__belgium": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:10:27.708261"
+    },
+    "joaquin seys__belgium": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:10:41.998288"
+    },
+    "diego moreira__belgium": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:10:58.199422"
+    },
+    "hans vanaken__belgium": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:11:08.267617"
+    },
+    "timothy castagne__belgium": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:11:21.925020"
+    },
+    "alexis saelemaekers__belgium": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:11:38.831655"
+    },
+    "nicolas raskin__belgium": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:11:53.493407"
+    },
+    "amadou onana__belgium": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:12:08.486953"
+    },
+    "nathan ngoy__belgium": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:12:22.642199"
+    },
+    "matias fernandez-pardo__belgium": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:12:35.711296"
+    },
+    "mohamed el shenawy__egypt": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:12:48.559085"
+    },
+    "yasser ibrahim__egypt": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:13:03.847910"
+    },
+    "mohamed hany__egypt": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:13:15.724635"
+    },
+    "hossam abdelmaguid__egypt": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:13:31.719363"
+    },
+    "ramy rabia__egypt": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:13:47.537681"
+    },
+    "mohamed abdelmonem__egypt": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:13:59.287649"
+    },
+    "trézéguet__egypt": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T19:14:13.663362"
+    },
+    "emam ashour__egypt": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:14:26.678917"
+    },
+    "hamza abdelkarim__egypt": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:14:42.745856"
+    },
+    "mohamed salah__egypt": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:15:00.848499"
+    },
+    "mostafa ziko__egypt": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:15:14.624419"
+    },
+    "haissem hassan__egypt": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:15:29.516597"
+    },
+    "ahmed fatouh__egypt": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:15:42.296011"
+    },
+    "hamdy fathy__egypt": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:15:56.375246"
+    },
+    "karim hafez__egypt": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:16:10.786384"
+    },
+    "el mahdy soliman__egypt": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:16:23.653495"
+    },
+    "mohanad lasheen__egypt": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:16:37.926042"
+    },
+    "nabil emad__egypt": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:16:54.279889"
+    },
+    "marwan attia__egypt": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:17:09.163879"
+    },
+    "ibrahim adel__egypt": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:17:22.542698"
+    },
+    "mahmoud saber__egypt": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:17:33.654176"
+    },
+    "omar marmoush__egypt": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:17:49.512423"
+    },
+    "mostafa shobeir__egypt": {
+      "tm_id": "8198",
+      "club_count": 6,
+      "done_at": "2026-06-07T19:18:16.027666"
+    },
+    "tarek alaa__egypt": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:18:28.590205"
+    },
+    "zizo__egypt": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:18:42.976286"
+    },
+    "mohamed alaa__egypt": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:18:57.572253"
+    },
+    "alireza beiranvand__iran": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:19:16.025719"
+    },
+    "saleh hardani__iran": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:19:28.347695"
+    },
+    "ehsan hajsafi__iran": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:19:41.261483"
+    },
+    "shojae khalilzadeh__iran": {
+      "tm_id": "8198",
+      "club_count": 8,
+      "done_at": "2026-06-07T19:20:08.808909"
+    },
+    "milad mohammadi__iran": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:20:23.597766"
+    },
+    "saeid ezatolahi__iran": {
+      "tm_id": "8198",
+      "club_count": 14,
+      "done_at": "2026-06-07T19:20:44.508566"
+    },
+    "alireza jahanbakhsh__iran": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T19:20:58.986160"
+    },
+    "mohammad mohebi__iran": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:21:11.719618"
+    },
+    "mehdi taremi__iran": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T19:21:26.496057"
+    },
+    "mehdi ghayedi__iran": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:21:39.041079"
+    },
+    "ali alipour__iran": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:21:53.595437"
+    },
+    "payam niazmand__iran": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:22:09.040543"
+    },
+    "hossein kanaanizadegan__iran": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:22:21.632419"
+    },
+    "saman ghoddos__iran": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T19:22:36.657981"
+    },
+    "rouzbeh cheshmi__iran": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:22:47.810321"
+    },
+    "mehdi torabi__iran": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:23:04.991647"
+    },
+    "aria yousefi__iran": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:23:17.904576"
+    },
+    "amirhossein hosseinzadeh__iran": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:23:30.306851"
+    },
+    "ali nemati__iran": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:23:43.538238"
+    },
+    "shahriyar moghanlou__iran": {
+      "tm_id": "8198",
+      "club_count": 10,
+      "done_at": "2026-06-07T19:24:05.905693"
+    },
+    "mohammad ghorbani__iran": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:24:20.998067"
+    },
+    "hossein hosseini__iran": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:24:36.751893"
+    },
+    "ramin rezaeian__iran": {
+      "tm_id": null,
+      "club_count": 14,
+      "done_at": "2026-06-07T19:24:51.917155"
+    },
+    "dennis eckert__iran": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T19:25:07.188963"
+    },
+    "danial eiri__iran": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:25:25.226641"
+    },
+    "amirmohammad razzaghinia__iran": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:25:40.047647"
+    },
+    "max crocombe__new zealand": {
+      "tm_id": null,
+      "club_count": 14,
+      "done_at": "2026-06-07T19:25:56.903047"
+    },
+    "tim payne__new zealand": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:26:09.406028"
+    },
+    "francis de vries__new zealand": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T19:26:22.414500"
+    },
+    "tyler bindon__new zealand": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:26:33.866782"
+    },
+    "michael boxall__new zealand": {
+      "tm_id": null,
+      "club_count": 12,
+      "done_at": "2026-06-07T19:26:48.395110"
+    },
+    "joe bell__new zealand": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T19:27:01.748648"
+    },
+    "matthew garbett__new zealand": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:27:18.029519"
+    },
+    "marko stamenić__new zealand": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T19:27:32.813680"
+    },
+    "chris wood__new zealand": {
+      "tm_id": null,
+      "club_count": 17,
+      "done_at": "2026-06-07T19:27:45.718892"
+    },
+    "sarpreet singh__new zealand": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T19:27:58.347910"
+    },
+    "elijah just__new zealand": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:28:12.150395"
+    },
+    "alex paulsen__new zealand": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:28:25.522053"
+    },
+    "liberato cacace__new zealand": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:28:39.093257"
+    },
+    "alex rufer__new zealand": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:28:54.821352"
+    },
+    "nando pijnaker__new zealand": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T19:29:08.924564"
+    },
+    "finn surman__new zealand": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:29:23.249788"
+    },
+    "kosta barbarouses__new zealand": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T19:29:39.606915"
+    },
+    "ben waine__new zealand": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:29:53.669108"
+    },
+    "ben old__new zealand": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:30:05.700804"
+    },
+    "callum mccowatt__new zealand": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T19:30:22.096257"
+    },
+    "jesse randall__new zealand": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T19:30:33.721701"
+    },
+    "michael woud__new zealand": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:30:49.508113"
+    },
+    "ryan thomas__new zealand": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:31:02.700467"
+    },
+    "callan elliot__new zealand": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:31:18.878433"
+    },
+    "lachlan bayliss__new zealand": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:31:32.795115"
+    },
+    "tommy smith__new zealand": {
+      "tm_id": null,
+      "club_count": 13,
+      "done_at": "2026-06-07T19:31:47.193224"
+    },
+    "vozinha__cape verde": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T19:32:00.433017"
+    },
+    "stopira__cape verde": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:32:15.662675"
+    },
+    "diney__cape verde": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:32:31.214680"
+    },
+    "roberto lopes__cape verde": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:32:44.424987"
+    },
+    "logan costa__cape verde": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:32:57.536266"
+    },
+    "kevin pina__cape verde": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:33:11.662665"
+    },
+    "jovane cabral__cape verde": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:33:24.732550"
+    },
+    "joão paulo__cape verde": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:33:40.286317"
+    },
+    "gilson benchimol__cape verde": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:33:55.061289"
+    },
+    "jamiro monteiro__cape verde": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T19:34:07.337681"
+    },
+    "garry rodrigues__cape verde": {
+      "tm_id": null,
+      "club_count": 15,
+      "done_at": "2026-06-07T19:34:21.192313"
+    },
+    "márcio rosa__cape verde": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T19:34:37.824694"
+    },
+    "sidny lopes cabral__cape verde": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:34:51.361566"
+    },
+    "deroy duarte__cape verde": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:35:06.115722"
+    },
+    "laros duarte__cape verde": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:35:20.960991"
+    },
+    "yannick semedo__cape verde": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:35:32.590486"
+    },
+    "willy semedo__cape verde": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T19:35:43.814264"
+    },
+    "telmo arcanjo__cape verde": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:35:59.103445"
+    },
+    "dailon livramento__cape verde": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:36:13.219751"
+    },
+    "ryan mendes__cape verde": {
+      "tm_id": null,
+      "club_count": 12,
+      "done_at": "2026-06-07T19:36:23.637219"
+    },
+    "nuno da costa__cape verde": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T19:36:38.423278"
+    },
+    "steven moreira__cape verde": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:36:52.152161"
+    },
+    "cj dos santos__cape verde": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:37:05.501614"
+    },
+    "wagner pina__cape verde": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:37:21.339260"
+    },
+    "kelvin pires__cape verde": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:37:35.798414"
+    },
+    "hélio varela__cape verde": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:37:51.274846"
+    },
+    "nawaf al-aqidi__saudi arabia": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:38:05.382219"
+    },
+    "ali majrashi__saudi arabia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:38:18.608715"
+    },
+    "ali lajami__saudi arabia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:38:31.882927"
+    },
+    "abdulelah al-amri__saudi arabia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:38:47.380304"
+    },
+    "hassan al-tambakti__saudi arabia": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:39:05.370229"
+    },
+    "nasser al-dawsari__saudi arabia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:39:21.206257"
+    },
+    "musab al-juwayr__saudi arabia": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:39:34.826245"
+    },
+    "ayman yahya__saudi arabia": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:39:50.178386"
+    },
+    "firas al-buraikan__saudi arabia": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:40:06.809844"
+    },
+    "salem al-dawsari__saudi arabia": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:40:24.382077"
+    },
+    "saleh al-shehri__saudi arabia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:40:37.802766"
+    },
+    "saud abdulhamid__saudi arabia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:40:52.486947"
+    },
+    "nawaf boushal__saudi arabia": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:41:07.130017"
+    },
+    "hassan kadesh__saudi arabia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:41:24.620784"
+    },
+    "abdullah al-khaibari__saudi arabia": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:41:38.077818"
+    },
+    "ziyad al-johani__saudi arabia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:41:50.871339"
+    },
+    "khalid al-ghannam__saudi arabia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:42:03.340921"
+    },
+    "alaa al-hejji__saudi arabia": {
+      "tm_id": "8198",
+      "club_count": 4,
+      "done_at": "2026-06-07T19:42:27.129576"
+    },
+    "abdullah al-hamdan__saudi arabia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:42:38.809855"
+    },
+    "sultan mandash__saudi arabia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:42:54.513409"
+    },
+    "mohammed al-owais__saudi arabia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:43:07.110013"
+    },
+    "ahmed al-kassar__saudi arabia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:43:16.432965"
+    },
+    "mohamed kanno__saudi arabia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:43:33.591722"
+    },
+    "moteb al-harbi__saudi arabia": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:43:47.074919"
+    },
+    "jehad thakri__saudi arabia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:43:59.922109"
+    },
+    "mohammed abu al-shamat__saudi arabia": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:44:16.301654"
+    },
+    "david raya__spain": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:44:31.056511"
+    },
+    "marc pubill__spain": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:44:44.831509"
+    },
+    "álex grimaldo__spain": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:45:00.391154"
+    },
+    "eric garcía__spain": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:45:14.324532"
+    },
+    "marcos llorente__spain": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:45:24.596815"
+    },
+    "mikel merino__spain": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:45:36.973271"
+    },
+    "ferran torres__spain": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:45:50.416169"
+    },
+    "fabián ruiz__spain": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:46:02.056649"
+    },
+    "gavi__spain": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:46:17.424651"
+    },
+    "dani olmo__spain": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:46:30.337990"
+    },
+    "yéremy pino__spain": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:46:44.704491"
+    },
+    "pedro porro__spain": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T19:47:01.314952"
+    },
+    "joan garcia__spain": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:47:16.585979"
+    },
+    "aymeric laporte__spain": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:47:30.633715"
+    },
+    "álex baena__spain": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:47:41.733497"
+    },
+    "rodri__spain": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:47:54.513939"
+    },
+    "nico williams__spain": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:48:08.258410"
+    },
+    "martín zubimendi__spain": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:48:22.418195"
+    },
+    "lamine yamal__spain": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:48:37.435068"
+    },
+    "pedri__spain": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:48:51.995189"
+    },
+    "mikel oyarzabal__spain": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:49:04.974064"
+    },
+    "pau cubarsí__spain": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:49:17.576749"
+    },
+    "unai simón__spain": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:49:32.503189"
+    },
+    "marc cucurella__spain": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:49:46.370381"
+    },
+    "víctor muñoz__spain": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:50:02.500858"
+    },
+    "borja iglesias__spain": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T19:50:16.814166"
+    },
+    "sergio rochet__uruguay": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:50:30.959557"
+    },
+    "josé giménez__uruguay": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:50:45.100041"
+    },
+    "sebastián cáceres__uruguay": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:50:57.743930"
+    },
+    "ronald araújo__uruguay": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:51:13.915304"
+    },
+    "manuel ugarte__uruguay": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:51:28.749814"
+    },
+    "rodrigo bentancur__uruguay": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:51:45.211155"
+    },
+    "nicolás de la cruz__uruguay": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:51:57.982588"
+    },
+    "federico valverde__uruguay": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:52:12.915446"
+    },
+    "darwin núñez__uruguay": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:52:25.753665"
+    },
+    "giorgian de arrascaeta__uruguay": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:52:43.048923"
+    },
+    "facundo pellistri__uruguay": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:52:54.681580"
+    },
+    "santiago mele__uruguay": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T19:53:10.207177"
+    },
+    "guillermo varela__uruguay": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:53:24.812851"
+    },
+    "agustín canobbio__uruguay": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:53:35.663354"
+    },
+    "emiliano martínez__uruguay": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:53:52.461916"
+    },
+    "mathías olivera__uruguay": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:54:06.363279"
+    },
+    "matías viña__uruguay": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:54:20.133891"
+    },
+    "brian rodríguez__uruguay": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:54:32.161597"
+    },
+    "rodrigo aguirre__uruguay": {
+      "tm_id": null,
+      "club_count": 12,
+      "done_at": "2026-06-07T19:54:45.825645"
+    },
+    "maximiliano araújo__uruguay": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:55:00.866432"
+    },
+    "federico viñas__uruguay": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:55:14.281096"
+    },
+    "joaquín piquerez__uruguay": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:55:26.672581"
+    },
+    "fernando muslera__uruguay": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:55:39.849353"
+    },
+    "santiago bueno__uruguay": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:55:52.724207"
+    },
+    "juan manuel sanabria__uruguay": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:56:09.652106"
+    },
+    "rodrigo zalazar__uruguay": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:56:25.075313"
+    },
+    "brice samba__france": {
+      "tm_id": null,
+      "club_count": 12,
+      "done_at": "2026-06-07T19:56:44.024923"
+    },
+    "malo gusto__france": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:56:59.484117"
+    },
+    "lucas digne__france": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:57:13.408401"
+    },
+    "dayot upamecano__france": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:57:26.522094"
+    },
+    "jules koundé__france": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:57:40.039040"
+    },
+    "manu koné__france": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:57:55.633387"
+    },
+    "ousmane dembélé__france": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:58:08.017839"
+    },
+    "aurélien tchouaméni__france": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T19:58:21.853555"
+    },
+    "marcus thuram__france": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T19:58:35.104667"
+    },
+    "kylian mbappé__france": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:58:48.866354"
+    },
+    "michael olise__france": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T19:59:01.938859"
+    },
+    "bradley barcola__france": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T19:59:16.676744"
+    },
+    "n'golo kanté__france": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T19:59:31.801427"
+    },
+    "adrien rabiot__france": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T19:59:46.162503"
+    },
+    "ibrahima konaté__france": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T19:59:59.144889"
+    },
+    "mike maignan__france": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:00:13.610628"
+    },
+    "william saliba__france": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:00:28.548029"
+    },
+    "warren zaïre-emery__france": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T20:00:41.894755"
+    },
+    "théo hernandez__france": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:00:58.068791"
+    },
+    "désiré doué__france": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T20:01:12.608624"
+    },
+    "lucas hernandez__france": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:01:28.081279"
+    },
+    "jean-philippe mateta__france": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:01:43.220510"
+    },
+    "robin risser__france": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:01:57.609034"
+    },
+    "rayan cherki__france": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:02:11.711746"
+    },
+    "maghnes akliouche__france": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:02:23.823554"
+    },
+    "maxence lacroix__france": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:02:37.533314"
+    },
+    "fahad talib__iraq": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:02:55.360793"
+    },
+    "rebin sulaka__iraq": {
+      "tm_id": null,
+      "club_count": 18,
+      "done_at": "2026-06-07T20:03:08.057088"
+    },
+    "hussein ali__iraq": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:03:22.431530"
+    },
+    "zaid tahseen__iraq": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:03:38.392782"
+    },
+    "akam hashim__iraq": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:03:54.658978"
+    },
+    "manaf younis__iraq": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:04:10.038144"
+    },
+    "youssef amyn__iraq": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:04:25.323992"
+    },
+    "ibrahim bayesh__iraq": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T20:04:36.372207"
+    },
+    "ali al-hamadi__iraq": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:04:48.463397"
+    },
+    "mohanad ali__iraq": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T20:05:01.499902"
+    },
+    "ahmed qasem__iraq": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:05:18.662378"
+    },
+    "jalal hassan__iraq": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:05:31.624740"
+    },
+    "ali yousif__iraq": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:05:48.537807"
+    },
+    "zidane iqbal__iraq": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:06:03.421474"
+    },
+    "ahmed yahya__iraq": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:06:18.586733"
+    },
+    "amir al-ammari__iraq": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:06:33.620936"
+    },
+    "ali jasim__iraq": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T20:06:51.726926"
+    },
+    "aymen hussein__iraq": {
+      "tm_id": null,
+      "club_count": 15,
+      "done_at": "2026-06-07T20:07:07.471177"
+    },
+    "kevin yakob__iraq": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:07:21.683708"
+    },
+    "aimar sher__iraq": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:07:37.557952"
+    },
+    "marko farji__iraq": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:07:51.464170"
+    },
+    "ahmed basil__iraq": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:08:04.643050"
+    },
+    "merchas doski__iraq": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:08:18.470394"
+    },
+    "zaid ismail__iraq": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:08:32.521934"
+    },
+    "mustafa saadoon__iraq": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:08:47.819048"
+    },
+    "frans putros__iraq": {
+      "tm_id": "8198",
+      "club_count": 10,
+      "done_at": "2026-06-07T20:09:19.311707"
+    },
+    "ørjan nyland__norway": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T20:09:31.558341"
+    },
+    "morten thorsby__norway": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T20:09:43.276731"
+    },
+    "kristoffer ajer__norway": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:09:56.731219"
+    },
+    "leo østigård__norway": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T20:10:08.273521"
+    },
+    "david møller wolfe__norway": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:10:20.819252"
+    },
+    "patrick berg__norway": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T20:10:37.240897"
+    },
+    "alexander sørloth__norway": {
+      "tm_id": null,
+      "club_count": 12,
+      "done_at": "2026-06-07T20:10:49.050040"
+    },
+    "sander berge__norway": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:11:02.219675"
+    },
+    "erling haaland__norway": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:11:17.871127"
+    },
+    "martin ødegaard__norway": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:11:32.433826"
+    },
+    "jørgen strand larsen__norway": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T20:11:48.462589"
+    },
+    "sander tangvik__norway": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:12:03.085718"
+    },
+    "egil selvik__norway": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:12:20.087980"
+    },
+    "fredrik aursnes__norway": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:12:32.546419"
+    },
+    "fredrik andré bjørkan__norway": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:12:45.722155"
+    },
+    "marcus holmgren pedersen__norway": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:12:58.989164"
+    },
+    "torbjørn heggem__norway": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:13:16.368295"
+    },
+    "kristian thorstvedt__norway": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:13:29.915004"
+    },
+    "thelo aasgaard__norway": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:13:42.060072"
+    },
+    "antonio nusa__norway": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:13:59.956445"
+    },
+    "andreas schjelderup__norway": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:14:12.477958"
+    },
+    "oscar bobb__norway": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:14:26.075500"
+    },
+    "jens petter hauge__norway": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:14:41.168366"
+    },
+    "sondre langås__norway": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:14:53.794637"
+    },
+    "henrik falchener__norway": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:15:06.830809"
+    },
+    "julian ryerson__norway": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:15:20.742033"
+    },
+    "yehvann diouf__senegal": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:15:35.950096"
+    },
+    "mamadou sarr__senegal": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:15:49.110432"
+    },
+    "kalidou koulibaly__senegal": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:16:00.154669"
+    },
+    "abdoulaye seck__senegal": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T20:16:13.697203"
+    },
+    "idrissa gueye__senegal": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:16:28.925071"
+    },
+    "pathé ciss__senegal": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:16:44.769519"
+    },
+    "assane diao__senegal": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:16:57.181863"
+    },
+    "lamine camara__senegal": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:17:09.859549"
+    },
+    "bamba dieng__senegal": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:17:22.882543"
+    },
+    "sadio mané__senegal": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T20:17:39.314541"
+    },
+    "nicolas jackson__senegal": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:17:56.420857"
+    },
+    "cherif ndiaye__senegal": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:18:08.851186"
+    },
+    "iliman ndiaye__senegal": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:18:21.879742"
+    },
+    "ismail jakobs__senegal": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:18:37.008426"
+    },
+    "krépin diatta__senegal": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:18:49.466638"
+    },
+    "édouard mendy__senegal": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:19:07.350907"
+    },
+    "pape matar sarr__senegal": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:19:20.384056"
+    },
+    "ismaïla sarr__senegal": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:19:34.283372"
+    },
+    "moussa niakhaté__senegal": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T20:19:46.502842"
+    },
+    "ibrahim mbaye__senegal": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T20:20:00.457775"
+    },
+    "habib diarra__senegal": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:20:13.449096"
+    },
+    "bara sapoko ndiaye__senegal": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:20:26.185200"
+    },
+    "mory diaw__senegal": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T20:20:38.228485"
+    },
+    "antoine mendy__senegal": {
+      "tm_id": null,
+      "club_count": 1,
+      "done_at": "2026-06-07T20:20:51.332910"
+    },
+    "el hadji malick diouf__senegal": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:21:05.517954"
+    },
+    "pape gueye__senegal": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:21:17.759395"
+    },
+    "melvin mastil__algeria": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:21:31.246740"
+    },
+    "aïssa mandi__algeria": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:21:43.559138"
+    },
+    "achref abada__algeria": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:21:58.701838"
+    },
+    "mohamed amine tougai__algeria": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T20:22:14.379364"
+    },
+    "zineddine belaïd__algeria": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:22:27.770472"
+    },
+    "ramiz zerrouki__algeria": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:22:40.221599"
+    },
+    "riyad mahrez__algeria": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:22:56.410876"
+    },
+    "houssem aouar__algeria": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:23:07.372273"
+    },
+    "amine gouiri__algeria": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:23:22.184697"
+    },
+    "farès chaïbi__algeria": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:23:35.451269"
+    },
+    "anis hadj moussa__algeria": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:23:47.852352"
+    },
+    "nadhir benbouali__algeria": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:23:59.404920"
+    },
+    "jaouen hadjam__algeria": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:24:15.801594"
+    },
+    "hicham boudaoui__algeria": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T20:24:30.743728"
+    },
+    "rayan aït-nouri__algeria": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:24:45.391947"
+    },
+    "oussama benbot__algeria": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:24:57.351840"
+    },
+    "rafik belghali__algeria": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:25:10.860027"
+    },
+    "mohamed amoura__algeria": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:25:26.998715"
+    },
+    "nabil bentaleb__algeria": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:25:41.142407"
+    },
+    "adil boulbina__algeria": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T20:25:53.779327"
+    },
+    "ramy bensebaini__algeria": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:26:12.465272"
+    },
+    "ibrahim maza__algeria": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:26:26.118448"
+    },
+    "luca zidane__algeria": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:26:38.804231"
+    },
+    "yacine titraoui__algeria": {
+      "tm_id": "8198",
+      "club_count": 3,
+      "done_at": "2026-06-07T20:27:08.078893"
+    },
+    "farès ghedjemis__algeria": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T20:27:20.651175"
+    },
+    "samir chergui__algeria": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:27:34.932406"
+    },
+    "juan musso__argentina": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:27:46.794446"
+    },
+    "leonardo balerdi__argentina": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:28:02.667314"
+    },
+    "nicolás tagliafico__argentina": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:28:16.927707"
+    },
+    "gonzalo montiel__argentina": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:28:30.086436"
+    },
+    "leandro paredes__argentina": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:28:43.520485"
+    },
+    "lisandro martínez__argentina": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:28:59.076163"
+    },
+    "rodrigo de paul__argentina": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:29:12.817984"
+    },
+    "valentín barco__argentina": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:29:27.902304"
+    },
+    "julián alvarez__argentina": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:29:44.308336"
+    },
+    "lionel messi__argentina": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:29:57.653272"
+    },
+    "giovani lo celso__argentina": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:30:12.764031"
+    },
+    "gerónimo rulli__argentina": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T20:30:28.910868"
+    },
+    "cristian romero__argentina": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:30:43.174339"
+    },
+    "exequiel palacios__argentina": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T20:30:56.710780"
+    },
+    "nicolás gonzález__argentina": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:31:12.126147"
+    },
+    "thiago almada__argentina": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:31:26.969879"
+    },
+    "giuliano simeone__argentina": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:31:41.634395"
+    },
+    "nico paz__argentina": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:31:56.142569"
+    },
+    "nicolás otamendi__argentina": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:32:11.893069"
+    },
+    "alexis mac allister__argentina": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:32:27.288847"
+    },
+    "josé manuel lópez__argentina": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:32:40.538498"
+    },
+    "lautaro martínez__argentina": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:32:56.353131"
+    },
+    "emiliano martínez__argentina": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T20:33:14.276172"
+    },
+    "enzo fernández__argentina": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:33:25.628257"
+    },
+    "facundo medina__argentina": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:33:41.055416"
+    },
+    "nahuel molina__argentina": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:33:54.746933"
+    },
+    "alexander schlager__austria": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:34:08.733856"
+    },
+    "david affengruber__austria": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:34:22.466230"
+    },
+    "kevin danso__austria": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:34:37.082422"
+    },
+    "xaver schlager__austria": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:34:49.798626"
+    },
+    "stefan posch__austria": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:35:05.304665"
+    },
+    "nicolas seiwald__austria": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:35:17.581242"
+    },
+    "marko arnautović__austria": {
+      "tm_id": null,
+      "club_count": 14,
+      "done_at": "2026-06-07T20:35:30.172591"
+    },
+    "david alaba__austria": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:35:44.022162"
+    },
+    "marcel sabitzer__austria": {
+      "tm_id": null,
+      "club_count": 12,
+      "done_at": "2026-06-07T20:35:58.159013"
+    },
+    "florian grillitsch__austria": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:36:09.452267"
+    },
+    "michael gregoritsch__austria": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T20:36:23.879643"
+    },
+    "florian wiegele__austria": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:36:35.800078"
+    },
+    "patrick pentz__austria": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:36:50.412150"
+    },
+    "saša kalajdžić__austria": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:37:02.020915"
+    },
+    "philipp lienhart__austria": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:37:15.826470"
+    },
+    "phillipp mwene__austria": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:37:27.744051"
+    },
+    "carney chukwuemeka__austria": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:37:40.310400"
+    },
+    "romano schmid__austria": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:37:52.193853"
+    },
+    "konrad laimer__austria": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:38:10.142698"
+    },
+    "patrick wimmer__austria": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:38:22.837549"
+    },
+    "alexander prass__austria": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:38:36.755709"
+    },
+    "marco friedl__austria": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:38:51.626203"
+    },
+    "paul wanner__austria": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:39:11.417883"
+    },
+    "michael svoboda__austria": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:39:21.602244"
+    },
+    "alessandro schöpf__austria": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:39:35.638136"
+    },
+    "yazeed abulaila__jordan": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:39:50.833938"
+    },
+    "mohammad abu hashish__jordan": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:40:07.466566"
+    },
+    "abdallah nasib__jordan": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:40:20.772146"
+    },
+    "husam abu dahab__jordan": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:40:36.585273"
+    },
+    "yazan al-arab__jordan": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:40:51.210327"
+    },
+    "amer jamous__jordan": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:41:07.786645"
+    },
+    "mohammad abu zrayq__jordan": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:41:25.569426"
+    },
+    "noor al-rawabdeh__jordan": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:41:41.960250"
+    },
+    "ali olwan__jordan": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:41:59.447603"
+    },
+    "musa al-taamari__jordan": {
+      "tm_id": "8198",
+      "club_count": 7,
+      "done_at": "2026-06-07T20:42:19.799145"
+    },
+    "odeh al-fakhouri__jordan": {
+      "tm_id": "8198",
+      "club_count": 7,
+      "done_at": "2026-06-07T20:42:42.329511"
+    },
+    "nour bani attiah__jordan": {
+      "tm_id": "8198",
+      "club_count": 4,
+      "done_at": "2026-06-07T20:43:09.646049"
+    },
+    "mahmoud al-mardi__jordan": {
+      "tm_id": null,
+      "club_count": 14,
+      "done_at": "2026-06-07T20:43:21.833845"
+    },
+    "rajaei ayed__jordan": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:43:38.133102"
+    },
+    "ibrahim sadeh__jordan": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:43:52.685282"
+    },
+    "mo abualnadi__jordan": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:44:04.614430"
+    },
+    "salim obaid__jordan": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:44:20.503646"
+    },
+    "saed al-rosan__jordan": {
+      "tm_id": "8198",
+      "club_count": 8,
+      "done_at": "2026-06-07T20:44:42.699680"
+    },
+    "mohannad abu taha__jordan": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:44:54.226747"
+    },
+    "nizar al-rashdan__jordan": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:45:08.719482"
+    },
+    "abdallah al-fakhouri__jordan": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:45:21.853843"
+    },
+    "ihsan haddad__jordan": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:45:35.563063"
+    },
+    "ali azaizeh__jordan": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:45:46.262870"
+    },
+    "mohammad al-dawoud__jordan": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:46:02.153884"
+    },
+    "anas badawi__jordan": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:46:15.937442"
+    },
+    "david ospina__colombia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:46:31.199665"
+    },
+    "daniel muñoz__colombia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:46:47.699958"
+    },
+    "jhon lucumí__colombia": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:47:01.710670"
+    },
+    "santiago arias__colombia": {
+      "tm_id": null,
+      "club_count": 12,
+      "done_at": "2026-06-07T20:47:14.906393"
+    },
+    "kevin castaño__colombia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:47:29.016122"
+    },
+    "richard ríos__colombia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:47:46.887327"
+    },
+    "luis díaz__colombia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:48:02.553741"
+    },
+    "jorge carrascal__colombia": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:48:20.612052"
+    },
+    "jhon córdoba__colombia": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T20:48:37.269574"
+    },
+    "james rodríguez__colombia": {
+      "tm_id": null,
+      "club_count": 13,
+      "done_at": "2026-06-07T20:48:54.620099"
+    },
+    "jhon arias__colombia": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T20:49:09.072217"
+    },
+    "camilo vargas__colombia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:49:23.525216"
+    },
+    "yerry mina__colombia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:49:37.526090"
+    },
+    "gustavo puerta__colombia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:49:51.291429"
+    },
+    "juan portilla__colombia": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:50:06.953786"
+    },
+    "jefferson lerma__colombia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:50:23.617676"
+    },
+    "johan mojica__colombia": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T20:50:43.218266"
+    },
+    "willer ditta__colombia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:51:01.846996"
+    },
+    "cucho hernández__colombia": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T20:51:14.845609"
+    },
+    "juan fernando quintero__colombia": {
+      "tm_id": null,
+      "club_count": 13,
+      "done_at": "2026-06-07T20:51:29.319631"
+    },
+    "jaminton campaz__colombia": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:51:47.759364"
+    },
+    "deiver machado__colombia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:52:00.341536"
+    },
+    "davinson sánchez__colombia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:52:15.868241"
+    },
+    "álvaro montero__colombia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:52:26.280705"
+    },
+    "luis suárez__colombia": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T20:52:40.601758"
+    },
+    "andrés gómez__colombia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:52:56.046578"
+    },
+    "lionel mpasi__dr congo": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:53:10.145842"
+    },
+    "aaron wan-bissaka__dr congo": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:53:23.643118"
+    },
+    "steve kapuadi__dr congo": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:53:39.363859"
+    },
+    "axel tuanzebe__dr congo": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:53:55.752578"
+    },
+    "dylan batubinsika__dr congo": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:54:09.642359"
+    },
+    "ngal'ayel mukau__dr congo": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T20:54:25.016750"
+    },
+    "nathanaël mbuku__dr congo": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T20:54:37.075037"
+    },
+    "samuel moutoussamy__dr congo": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:54:50.407885"
+    },
+    "brian cipenga__dr congo": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:55:02.485021"
+    },
+    "théo bongonda__dr congo": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:55:18.315677"
+    },
+    "gaël kakuta__dr congo": {
+      "tm_id": null,
+      "club_count": 15,
+      "done_at": "2026-06-07T20:55:31.564381"
+    },
+    "joris kayembe__dr congo": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T20:55:45.968572"
+    },
+    "meschak elia__dr congo": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T20:56:00.351005"
+    },
+    "noah sadiki__dr congo": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:56:13.851333"
+    },
+    "aaron tshibola__dr congo": {
+      "tm_id": null,
+      "club_count": 14,
+      "done_at": "2026-06-07T20:56:28.050383"
+    },
+    "timothy fayulu__dr congo": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:56:40.012734"
+    },
+    "cédric bakambu__dr congo": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T20:56:57.271773"
+    },
+    "charles pickel__dr congo": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T20:57:11.641459"
+    },
+    "fiston mayele__dr congo": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:57:28.173608"
+    },
+    "yoane wissa__dr congo": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:57:40.399703"
+    },
+    "matthieu epolo__dr congo": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:57:53.612701"
+    },
+    "chancel mbemba__dr congo": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T20:58:07.668757"
+    },
+    "simon banza__dr congo": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T20:58:19.837386"
+    },
+    "gédéon kalulu__dr congo": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:58:40.008440"
+    },
+    "edo kayembe__dr congo": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:58:55.847090"
+    },
+    "arthur masuaku__dr congo": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T20:59:10.435906"
+    },
+    "diogo costa__portugal": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T20:59:28.302671"
+    },
+    "nélson semedo__portugal": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T20:59:43.673105"
+    },
+    "rúben dias__portugal": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T20:59:57.530386"
+    },
+    "tomás araújo__portugal": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:00:11.410449"
+    },
+    "diogo dalot__portugal": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:00:23.043325"
+    },
+    "matheus nunes__portugal": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:00:36.656080"
+    },
+    "cristiano ronaldo__portugal": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:00:50.669954"
+    },
+    "bruno fernandes__portugal": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:01:04.640141"
+    },
+    "gonçalo ramos__portugal": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:01:19.643466"
+    },
+    "bernardo silva__portugal": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:01:40.772750"
+    },
+    "joão félix__portugal": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T21:01:57.628947"
+    },
+    "josé sá__portugal": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:02:13.231746"
+    },
+    "renato veiga__portugal": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:02:26.059951"
+    },
+    "gonçalo inácio__portugal": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T21:02:42.176789"
+    },
+    "joão neves__portugal": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:02:58.883532"
+    },
+    "francisco trincão__portugal": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:03:15.221485"
+    },
+    "rafael leão__portugal": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:03:29.029969"
+    },
+    "pedro neto__portugal": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:03:45.045469"
+    },
+    "gonçalo guedes__portugal": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:03:59.648429"
+    },
+    "joão cancelo__portugal": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T21:04:14.650679"
+    },
+    "rúben neves__portugal": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:04:28.548466"
+    },
+    "rui silva__portugal": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:04:41.417888"
+    },
+    "vitinha__portugal": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:04:59.716363"
+    },
+    "samú costa__portugal": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:05:15.589222"
+    },
+    "nuno mendes__portugal": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:05:27.559713"
+    },
+    "francisco conceição__portugal": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:05:42.137541"
+    },
+    "utkir yusupov__uzbekistan": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:05:56.458945"
+    },
+    "abdukodir khusanov__uzbekistan": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:06:11.421270"
+    },
+    "khojiakbar alijonov__uzbekistan": {
+      "tm_id": "8198",
+      "club_count": 9,
+      "done_at": "2026-06-07T21:07:05.915091"
+    },
+    "farrukh sayfiev__uzbekistan": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:07:22.106558"
+    },
+    "rustam ashurmatov__uzbekistan": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:07:38.737783"
+    },
+    "akmal mozgovoy__uzbekistan": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:07:53.728336"
+    },
+    "otabek shukurov__uzbekistan": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:08:06.697330"
+    },
+    "jamshid iskanderov__uzbekistan": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:08:22.167041"
+    },
+    "odiljon hamrobekov__uzbekistan": {
+      "tm_id": "8198",
+      "club_count": 9,
+      "done_at": "2026-06-07T21:09:03.372603"
+    },
+    "jaloliddin masharipov__uzbekistan": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:09:17.898611"
+    },
+    "oston urunov__uzbekistan": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T21:09:33.470722"
+    },
+    "abduvohid nematov__uzbekistan": {
+      "tm_id": "8198",
+      "club_count": 8,
+      "done_at": "2026-06-07T21:10:25.366536"
+    },
+    "sherzod nasrullaev__uzbekistan": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:10:38.571566"
+    },
+    "eldor shomurodov__uzbekistan": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:10:50.966754"
+    },
+    "umar eshmurodov__uzbekistan": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:11:04.779360"
+    },
+    "botirali ergashev__uzbekistan": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:11:19.873253"
+    },
+    "dostonbek khamdamov__uzbekistan": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:11:35.931301"
+    },
+    "abdulla abdullaev__uzbekistan": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:11:50.386337"
+    },
+    "azizjon ganiev__uzbekistan": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:12:05.787960"
+    },
+    "azizbek amonov__uzbekistan": {
+      "tm_id": "8198",
+      "club_count": 8,
+      "done_at": "2026-06-07T21:12:29.792261"
+    },
+    "igor sergeev__uzbekistan": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:12:45.759470"
+    },
+    "abbosbek fayzullaev__uzbekistan": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:12:59.416400"
+    },
+    "sherzod esanov__uzbekistan": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:13:18.103799"
+    },
+    "bekhruz karimov__uzbekistan": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:13:32.367639"
+    },
+    "avazbek ulmasaliev__uzbekistan": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:13:45.403594"
+    },
+    "jakhongir urozov__uzbekistan": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:13:58.503602"
+    },
+    "dominik livaković__croatia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:14:11.028592"
+    },
+    "josip stanišić__croatia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:14:24.302975"
+    },
+    "marin pongračić__croatia": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:14:37.026395"
+    },
+    "joško gvardiol__croatia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:14:53.839790"
+    },
+    "duje ćaleta-car__croatia": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:15:05.390790"
+    },
+    "josip šutalo__croatia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:15:18.922615"
+    },
+    "nikola moro__croatia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:15:34.923756"
+    },
+    "mateo kovačić__croatia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:15:50.433067"
+    },
+    "andrej kramarić__croatia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:16:03.122929"
+    },
+    "luka modrić__croatia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:16:14.831191"
+    },
+    "ante budimir__croatia": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T21:16:28.144889"
+    },
+    "ivor pandur__croatia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:16:41.667235"
+    },
+    "nikola vlašić__croatia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:16:58.221042"
+    },
+    "ivan perišić__croatia": {
+      "tm_id": null,
+      "club_count": 12,
+      "done_at": "2026-06-07T21:17:13.673649"
+    },
+    "mario pašalić__croatia": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:17:28.389479"
+    },
+    "martin baturina__croatia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:17:42.938213"
+    },
+    "petar sučić__croatia": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:17:57.698315"
+    },
+    "kristijan jakić__croatia": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T21:18:11.343253"
+    },
+    "toni fruk__croatia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:18:26.013949"
+    },
+    "igor matanović__croatia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:18:40.663698"
+    },
+    "luka sučić__croatia": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:18:57.066707"
+    },
+    "luka vušković__croatia": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:19:11.235953"
+    },
+    "dominik kotarski__croatia": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:19:24.548386"
+    },
+    "marco pašalić__croatia": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:19:40.328598"
+    },
+    "martin erlić__croatia": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T21:19:55.776530"
+    },
+    "petar musa__croatia": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T21:20:10.893509"
+    },
+    "jordan pickford__england": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:20:22.568493"
+    },
+    "ezri konsa__england": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:20:37.475083"
+    },
+    "nico o'reilly__england": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:20:51.720804"
+    },
+    "declan rice__england": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:21:07.762058"
+    },
+    "john stones__england": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:21:22.269165"
+    },
+    "marc guéhi__england": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:21:37.335478"
+    },
+    "bukayo saka__england": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T21:21:55.388377"
+    },
+    "elliot anderson__england": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:22:11.549990"
+    },
+    "harry kane__england": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:22:29.324903"
+    },
+    "jude bellingham__england": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:22:44.179932"
+    },
+    "marcus rashford__england": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:23:02.261525"
+    },
+    "tino livramento__england": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:23:14.096902"
+    },
+    "dean henderson__england": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:23:26.160604"
+    },
+    "jordan henderson__england": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:23:41.620134"
+    },
+    "dan burn__england": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T21:23:58.795712"
+    },
+    "kobbie mainoo__england": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:24:11.321970"
+    },
+    "morgan rogers__england": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:24:26.389234"
+    },
+    "anthony gordon__england": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:24:38.735572"
+    },
+    "ollie watkins__england": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:24:51.748431"
+    },
+    "noni madueke__england": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:25:09.480954"
+    },
+    "eberechi eze__england": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:25:23.654865"
+    },
+    "ivan toney__england": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T21:25:41.836392"
+    },
+    "james trafford__england": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:25:53.380401"
+    },
+    "reece james__england": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:26:05.943817"
+    },
+    "djed spence__england": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:26:19.484023"
+    },
+    "jarell quansah__england": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:26:30.864902"
+    },
+    "lawrence ati-zigi__ghana": {
+      "tm_id": "8198",
+      "club_count": 6,
+      "done_at": "2026-06-07T21:26:53.420185"
+    },
+    "alidu seidu__ghana": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:27:05.980943"
+    },
+    "caleb yirenkyi__ghana": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-07T21:27:19.757882"
+    },
+    "jonas adjetey__ghana": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:27:33.757650"
+    },
+    "thomas partey__ghana": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:27:46.913583"
+    },
+    "abdul mumin__ghana": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:27:58.079074"
+    },
+    "abdul fatawu__ghana": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:28:11.026618"
+    },
+    "kwasi sibo__ghana": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:28:26.980457"
+    },
+    "jordan ayew__ghana": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:28:40.233956"
+    },
+    "brandon thomas-asante__ghana": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:28:52.317178"
+    },
+    "antoine semenyo__ghana": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:29:07.301430"
+    },
+    "joseph anang__ghana": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:29:21.119828"
+    },
+    "christopher bonsu baah__ghana": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:29:35.789230"
+    },
+    "gideon mensah__ghana": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:29:49.702585"
+    },
+    "elisha owusu__ghana": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:30:02.990449"
+    },
+    "benjamin asare__ghana": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:30:16.714719"
+    },
+    "abdul rahman baba__ghana": {
+      "tm_id": null,
+      "club_count": 12,
+      "done_at": "2026-06-07T21:30:31.014463"
+    },
+    "jerome opoku__ghana": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:30:47.400172"
+    },
+    "iñaki williams__ghana": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:31:03.050127"
+    },
+    "augustine boakye__ghana": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:31:15.163119"
+    },
+    "kojo peprah oppong__ghana": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:31:28.644542"
+    },
+    "kamaldeen sulemana__ghana": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:31:42.180067"
+    },
+    "derrick luckassen__ghana": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:31:58.463928"
+    },
+    "ernest nuamah__ghana": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:32:14.048408"
+    },
+    "prince kwabena adu__ghana": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:32:30.226526"
+    },
+    "marvin senaya__ghana": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:32:44.014038"
+    },
+    "luis mejía__panama": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:32:58.219390"
+    },
+    "césar blackman__panama": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:33:13.019933"
+    },
+    "josé córdoba__panama": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:33:29.075227"
+    },
+    "fidel escobar__panama": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T21:33:44.953264"
+    },
+    "edgardo fariña__panama": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:34:01.953468"
+    },
+    "cristian martínez__panama": {
+      "tm_id": null,
+      "club_count": 15,
+      "done_at": "2026-06-07T21:34:14.296037"
+    },
+    "josé luis rodríguez__panama": {
+      "tm_id": null,
+      "club_count": 10,
+      "done_at": "2026-06-07T21:34:29.305330"
+    },
+    "adalberto carrasquilla__panama": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-07T21:34:43.502273"
+    },
+    "tomás rodríguez__panama": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:34:59.105493"
+    },
+    "ismael díaz__panama": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:35:11.536975"
+    },
+    "yoel bárcenas__panama": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:35:27.170742"
+    },
+    "césar samudio__panama": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:35:44.173765"
+    },
+    "jiovany ramos__panama": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:35:58.043891"
+    },
+    "carlos harvey__panama": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:36:15.021586"
+    },
+    "eric davis__panama": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:36:28.297927"
+    },
+    "andrés andrade__panama": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:36:43.534017"
+    },
+    "josé fajardo__panama": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:36:56.461183"
+    },
+    "cecilio waterman__panama": {
+      "tm_id": null,
+      "club_count": 11,
+      "done_at": "2026-06-07T21:37:12.004782"
+    },
+    "alberto quintero__panama": {
+      "tm_id": null,
+      "club_count": 12,
+      "done_at": "2026-06-07T21:37:29.103905"
+    },
+    "aníbal godoy__panama": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-07T21:37:46.900568"
+    },
+    "césar yanis__panama": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T21:38:01.945247"
+    },
+    "orlando mosquera__panama": {
+      "tm_id": null,
+      "club_count": 8,
+      "done_at": "2026-06-07T21:38:16.172829"
+    },
+    "michael amir murillo__panama": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-07T21:38:28.527309"
+    },
+    "azarias londoño__panama": {
+      "tm_id": null,
+      "club_count": 5,
+      "done_at": "2026-06-07T21:38:41.947634"
+    },
+    "roderick miller__panama": {
+      "tm_id": null,
+      "club_count": 9,
+      "done_at": "2026-06-07T21:38:53.964695"
+    },
+    "jorge gutiérrez__panama": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-07T21:39:25.148701"
+    },
+    "éderson silva__brazil": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-09T13:22:40.324344"
+    },
+    "ederson moraes__brazil": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-09T13:22:56.674197"
+    },
+    "max arfsten__united states": {
+      "tm_id": null,
+      "club_count": 3,
+      "done_at": "2026-06-09T13:23:11.952179"
+    },
+    "lutsharel geertruida__netherlands": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-09T13:23:25.886751"
+    },
+    "ahmed maknzi__iraq": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-09T13:23:38.028250"
+    },
+    "mohammad taha__jordan": {
+      "tm_id": null,
+      "club_count": 2,
+      "done_at": "2026-06-09T13:23:52.793399"
+    }
+  },
+  "failed": []
+}

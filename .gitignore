@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit 本地配置
+.streamlit/
+
+# 调试产物
+debug_page.html
+
+# 图片和生成物（太大）
+pictures/
+output_cards/
+flags/
