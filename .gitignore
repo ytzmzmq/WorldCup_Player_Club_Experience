@@ -2,6 +2,9 @@
 __pycache__/
 *.pyc
 
+# Claude Code 本地配置
+.claude/
+
 # Streamlit 本地配置
 .streamlit/
 
