@@ -2,20 +2,19 @@
 __pycache__/
 *.pyc
 
-# Claude Code 本地配置
+# IDE / 本地配置
 .claude/
-
-# Streamlit 本地配置
 .streamlit/
 
 # 调试产物
 debug_page.html
 
-# 沙尔克04专属内容（本地保留，不上传）
+# 本地专属内容（不上传）
 generate_cards.py
+players_data.json
 schalke04_world_cup_report.md
 
-# 图片和生成物（太大）
+# 图片和生成物
 pictures/
 output_cards/
 flags/
