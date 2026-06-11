@@ -1,36 +1,26 @@
 {
-  "generated_at": "2026-06-09T13:10:07.219657",
-  "count": 6,
+  "generated_at": "2026-06-11T14:08:18.496501",
+  "count": 4,
   "players": [
     {
-      "name": "Éderson Silva",
-      "country": "Brazil",
-      "wiki_url": "https://en.wikipedia.org/wiki/%C3%89derson_(footballer,_born_1999)"
+      "name": "Jayden Nelson",
+      "country": "Canada",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jayden_Nelson"
     },
     {
-      "name": "Ederson Moraes",
-      "country": "Brazil",
-      "wiki_url": "https://en.wikipedia.org/wiki/Ederson_(footballer,_born_1993)"
+      "name": "Marwane Saâdane",
+      "country": "Morocco",
+      "wiki_url": "https://en.wikipedia.org/wiki/Marwane_Sa%C3%A2dane"
     },
     {
-      "name": "Max Arfsten",
-      "country": "United States",
-      "wiki_url": "https://en.wikipedia.org/wiki/Max_Arfsten"
+      "name": "Amine Sbaï",
+      "country": "Morocco",
+      "wiki_url": "https://en.wikipedia.org/wiki/Amine_Sba%C3%AF"
     },
     {
-      "name": "Lutsharel Geertruida",
-      "country": "Netherlands",
-      "wiki_url": "https://en.wikipedia.org/wiki/Lutsharel_Geertruida"
-    },
-    {
-      "name": "Ahmed Maknzi",
-      "country": "Iraq",
-      "wiki_url": "https://en.wikipedia.org/wiki/Ahmed_Maknzi"
-    },
-    {
-      "name": "Mohammad Taha",
-      "country": "Jordan",
-      "wiki_url": "https://en.wikipedia.org/wiki/Mohammad_Taha_(footballer)"
+      "name": "Dejan Ljubičić",
+      "country": "Austria",
+      "wiki_url": "https://en.wikipedia.org/wiki/Dejan_Ljubi%C4%8Di%C4%87"
     }
   ]
 }

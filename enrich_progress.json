@@ -6260,6 +6260,26 @@
       "tm_id": null,
       "club_count": 2,
       "done_at": "2026-06-09T13:23:52.793399"
+    },
+    "jayden nelson__canada": {
+      "tm_id": null,
+      "club_count": 6,
+      "done_at": "2026-06-11T14:08:40.569654"
+    },
+    "marwane saâdane__morocco": {
+      "tm_id": null,
+      "club_count": 4,
+      "done_at": "2026-06-11T14:08:53.403081"
+    },
+    "amine sbaï__morocco": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-11T14:09:05.747537"
+    },
+    "dejan ljubičić__austria": {
+      "tm_id": null,
+      "club_count": 7,
+      "done_at": "2026-06-11T14:09:18.182415"
     }
   },
   "failed": []

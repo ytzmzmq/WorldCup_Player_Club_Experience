@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_at": "2026-06-07T00:51:17.704726",
-    "last_updated": "2026-06-09T13:23:59.308951",
+    "last_updated": "2026-06-11T14:09:23.967609",
     "version": "1.0"
   },
   "players": [
@@ -4112,7 +4112,7 @@
       "name": "Nayef Aguerd",
       "country": "Morocco",
       "wiki_url": "https://en.wikipedia.org/wiki/Nayef_Aguerd",
-      "is_active": true,
+      "is_active": false,
       "added_at": "2026-06-07T00:51:17.718268",
       "profile": null,
       "clubs": [
@@ -4124,7 +4124,8 @@
         "West Ham United",
         "Real Sociedad",
         "Marseille"
-      ]
+      ],
+      "deactivated_at": "2026-06-11T14:08:18.462500"
     },
     {
       "name": "Ayyoub Bouaddi",
@@ -4298,7 +4299,7 @@
       "name": "Abde Ezzalzouli",
       "country": "Morocco",
       "wiki_url": "https://en.wikipedia.org/wiki/Abde_Ezzalzouli",
-      "is_active": true,
+      "is_active": false,
       "added_at": "2026-06-07T00:51:17.718706",
       "profile": null,
       "clubs": [
@@ -4308,7 +4309,8 @@
         "Barcelona",
         "Osasuna",
         "Betis"
-      ]
+      ],
+      "deactivated_at": "2026-06-11T14:08:18.462631"
     },
     {
       "name": "Chadi Riad",
@@ -19837,6 +19839,70 @@
       "clubs": [
         "Shabab Al-Ordon",
         "Al-Hussein"
+      ]
+    },
+    {
+      "name": "Jayden Nelson",
+      "country": "Canada",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jayden_Nelson",
+      "is_active": true,
+      "added_at": "2026-06-11T14:08:18.458450",
+      "profile": null,
+      "clubs": [
+        "Toronto FC",
+        "Rosenborg",
+        "SSV Ulm",
+        "Vancouver Whitecaps",
+        "Austin FC",
+        "Vancouver Whitecaps FC"
+      ]
+    },
+    {
+      "name": "Marwane Saâdane",
+      "country": "Morocco",
+      "wiki_url": "https://en.wikipedia.org/wiki/Marwane_Sa%C3%A2dane",
+      "is_active": true,
+      "added_at": "2026-06-11T14:08:18.458919",
+      "profile": null,
+      "clubs": [
+        "Chabab Mohammedia",
+        "FUS de Rabat",
+        "Çaykur Rizespor",
+        "Al-Fateh"
+      ]
+    },
+    {
+      "name": "Amine Sbaï",
+      "country": "Morocco",
+      "wiki_url": "https://en.wikipedia.org/wiki/Amine_Sba%C3%AF",
+      "is_active": true,
+      "added_at": "2026-06-11T14:08:18.459073",
+      "profile": null,
+      "clubs": [
+        "Nîmes",
+        "Le Crès",
+        "Alès",
+        "Sète",
+        "Grenoble",
+        "Al-Fateh",
+        "Angers"
+      ]
+    },
+    {
+      "name": "Dejan Ljubičić",
+      "country": "Austria",
+      "wiki_url": "https://en.wikipedia.org/wiki/Dejan_Ljubi%C4%8Di%C4%87",
+      "is_active": true,
+      "added_at": "2026-06-11T14:08:18.461115",
+      "profile": null,
+      "clubs": [
+        "Favoritner AC",
+        "Rapid Wien",
+        "Wiener Neustadt",
+        "1. FC Koln",
+        "Dinamo Zagreb",
+        "Schalke",
+        "1. FC Köln"
       ]
     }
   ]
