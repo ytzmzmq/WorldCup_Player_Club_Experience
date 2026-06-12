@@ -1,15 +1,15 @@
 # 2026 FIFA 世界杯球员俱乐部履历库
 
-追踪 2026 美加墨世界杯全部 48 支参赛队、1247 名球员的俱乐部履历，并提供支持中英文搜索的在线查询工具。
+追踪 2026 美加墨世界杯全部 48 支参赛队、1248 名球员的俱乐部履历，并提供支持中英文搜索的在线查询工具。
 
 ## 数据概览
 
 | 指标 | 数量 |
 |------|------|
 | 参赛国家队 | 48 |
-| 活跃球员 | 1247 |
-| 涵盖俱乐部 | 2428 |
-| 已补全履历 | 1241 |
+| 活跃球员 | 1248 |
+| 涵盖俱乐部 | 1956 |
+| 已补全履历 | 1239 |
 | 中文别名映射 | 1763 |
 
 ## 快速开始
@@ -33,15 +33,15 @@ streamlit run club_search.py
 ```
 维基百科名单页 ──▶ update_world_cup_db.py ──▶ world_cup_db.json
                                                      │
-                      Transfermarkt + Wikipedia       │
+                      Transfermarkt API + Wikipedia   │
                               │                      ▼
-                       enrich_player_careers.py ──▶ 俱乐部履历补全
+                    enrich_player_careers_v2.py ──▶ 俱乐部履历补全
 ```
 
 | 脚本 | 功能 | 依赖 |
 |------|------|------|
 | `update_world_cup_db.py` | 从维基百科抓取最新大名单，增量更新数据库 | `requests`, `beautifulsoup4` |
-| `enrich_player_careers.py` | 从 Transfermarkt + Wikipedia 补全球员俱乐部履历，支持断点续跑 | `cloudscraper`, `beautifulsoup4`, `requests` |
+| `enrich_player_careers_v2.py` | 从 Transfermarkt API 补全球员俱乐部履历（含时间线），Wikipedia 作为备选，支持断点续跑 | `cloudscraper`, `beautifulsoup4`, `requests` |
 
 **查询工具：**
 

@@ -8,6 +8,8 @@ __pycache__/
 
 # 调试产物
 debug_page.html
+test_transfermarkt_career.py
+test_transfermarkt_results_v2.json
 
 # 本地专属内容（不上传）
 generate_cards.py

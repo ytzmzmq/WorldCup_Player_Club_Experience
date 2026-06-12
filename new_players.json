@@ -1,26 +1,31 @@
 {
-  "generated_at": "2026-06-11T14:08:18.496501",
-  "count": 4,
+  "generated_at": "2026-06-12T22:44:55.253164",
+  "count": 5,
   "players": [
     {
-      "name": "Jayden Nelson",
-      "country": "Canada",
-      "wiki_url": "https://en.wikipedia.org/wiki/Jayden_Nelson"
+      "name": "Arjan Malić",
+      "country": "Bosnia and Herzegovina",
+      "wiki_url": "https://en.wikipedia.org/wiki/Arjan_Mali%C4%87"
     },
     {
-      "name": "Marwane Saâdane",
-      "country": "Morocco",
-      "wiki_url": "https://en.wikipedia.org/wiki/Marwane_Sa%C3%A2dane"
+      "name": "Garven Metusala",
+      "country": "Haiti",
+      "wiki_url": "https://en.wikipedia.org/wiki/Garven_Metusala"
     },
     {
-      "name": "Amine Sbaï",
-      "country": "Morocco",
-      "wiki_url": "https://en.wikipedia.org/wiki/Amine_Sba%C3%AF"
+      "name": "Shūto Machino",
+      "country": "Japan",
+      "wiki_url": "https://en.wikipedia.org/wiki/Sh%C5%ABto_Machino"
     },
     {
-      "name": "Dejan Ljubičić",
-      "country": "Austria",
-      "wiki_url": "https://en.wikipedia.org/wiki/Dejan_Ljubi%C4%8Di%C4%87"
+      "name": "José María Giménez",
+      "country": "Uruguay",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Gim%C3%A9nez"
+    },
+    {
+      "name": "Marcos Senesi",
+      "country": "Argentina",
+      "wiki_url": "https://en.wikipedia.org/wiki/Marcos_Senesi"
     }
   ]
 }

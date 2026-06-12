@@ -42,7 +42,15 @@ def load_data():
     for player in db["players"]:
         if not player.get("is_active", True):
             continue
-        for club in player.get("clubs", []):
+        # 使用 career 字段 (新格式) 或 clubs 字段 (旧格式) 建立索引
+        # 只索引一线队俱乐部 (不含青训)
+        career = player.get("career", [])
+        if career:
+            senior_clubs = [c["club"] for c in career if not c.get("is_youth")]
+        else:
+            senior_clubs = player.get("clubs", [])
+
+        for club in senior_clubs:
             if club not in club_index:
                 club_index[club] = []
             club_index[club].append(player)
@@ -94,7 +102,9 @@ st.title("⚽ 2026 世界杯球员俱乐部查询")
 
 active_count = sum(1 for p in db["players"] if p.get("is_active", True))
 country_count = len(set(p["country"] for p in db["players"] if p.get("is_active", True)))
-st.caption(f"共 {active_count} 名活跃球员，覆盖 {country_count} 支国家队")
+enriched_count = sum(1 for p in db["players"] if p.get("is_active", True) and p.get("career"))
+club_count = len(club_index)
+st.caption(f"共 {active_count} 名活跃球员，覆盖 {country_count} 支国家队，{club_count} 家俱乐部 | 已补全履历: {enriched_count} 人")
 
 query = st.text_input(
     "输入俱乐部名称",
@@ -146,13 +156,42 @@ if query:
                 st.markdown(f"**{country}** ({len(country_players)} 人)")
 
                 for p in country_players:
-                    clubs_list = p.get("clubs", [])
-                    career = " → ".join(clubs_list) if clubs_list else "暂无数据"
-                    current = clubs_list[-1] if clubs_list else "未知"
+                    career = p.get("career", [])
+                    current = p.get("current_club") or "未知"
+
+                    # 构建履历展示字符串
+                    if career:
+                        parts = []
+                        for c in career:
+                            from_yr = c.get("from_year") or "?"
+                            to_yr = c.get("to_year") or "至今"
+                            prefix = "*" if c.get("is_youth") else ""
+                            parts.append(f"{prefix}{c['club']} ({from_yr}-{to_yr})")
+                        career_str = " → ".join(parts)
+
+                        # 统计
+                        youth_count = sum(1 for c in career if c.get("is_youth"))
+                        senior_count = len(career) - youth_count
+                        stats = f"{senior_count} 一线队"
+                        if youth_count:
+                            stats += f" + {youth_count} 青训"
+                    else:
+                        # 旧格式回退
+                        clubs_list = p.get("clubs", [])
+                        career_str = " → ".join(clubs_list) if clubs_list else "暂无数据"
+                        stats = ""
+                        if not p.get("current_club") and clubs_list:
+                            current = clubs_list[-1]
 
                     with st.expander(f"{p['name']}（当前: {current}）", expanded=False):
-                        st.markdown(f"**完整履历:** {career}")
+                        if career:
+                            st.markdown(f"**{stats}**")
+                        st.markdown(f"**完整履历:** {career_str}")
+                        # 链接
+                        links = []
                         if p.get("wiki_url"):
-                            st.markdown(f"[维基百科]({p['wiki_url']})")
+                            links.append(f"[维基百科]({p['wiki_url']})")
+                        if links:
+                            st.markdown("  |  ".join(links))
 
                 st.markdown("")  # 国家间留白
